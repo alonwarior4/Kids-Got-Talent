@@ -1,0 +1,1628 @@
+fileFormatVersion: 2
+guid: 89d5d571ce391df4a96788fb0b369ed8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hello wellcome to our class_00001
+    21300002: hello wellcome to our class_00002
+    21300004: hello wellcome to our class_00003
+    21300006: hello wellcome to our class_00004
+    21300008: hello wellcome to our class_00005
+    21300010: hello wellcome to our class_00006
+    21300012: hello wellcome to our class_00007
+    21300014: hello wellcome to our class_00008
+    21300016: hello wellcome to our class_00009
+    21300018: hello wellcome to our class_00010
+    21300020: hello wellcome to our class_00011
+    21300022: hello wellcome to our class_00012
+    21300024: hello wellcome to our class_00013
+    21300026: hello wellcome to our class_00014
+    21300028: hello wellcome to our class_00015
+    21300030: hello wellcome to our class_00016
+    21300032: hello wellcome to our class_00017
+    21300034: hello wellcome to our class_00018
+    21300036: hello wellcome to our class_00019
+    21300038: hello wellcome to our class_00020
+    21300040: hello wellcome to our class_00021
+    21300042: hello wellcome to our class_00022
+    21300044: hello wellcome to our class_00023
+    21300046: hello wellcome to our class_00024
+    21300048: hello wellcome to our class_00025
+    21300050: hello wellcome to our class_00026
+    21300052: hello wellcome to our class_00027
+    21300054: hello wellcome to our class_00028
+    21300056: hello wellcome to our class_00029
+    21300058: hello wellcome to our class_00030
+    21300060: hello wellcome to our class_00031
+    21300062: hello wellcome to our class_00032
+    21300064: hello wellcome to our class_00033
+    21300066: hello wellcome to our class_00034
+    21300068: hello wellcome to our class_00035
+    21300070: hello wellcome to our class_00036
+    21300072: hello wellcome to our class_00037
+    21300074: hello wellcome to our class_00038
+    21300076: hello wellcome to our class_00039
+    21300078: hello wellcome to our class_00040
+    21300080: hello wellcome to our class_00041
+    21300082: hello wellcome to our class_00042
+    21300084: hello wellcome to our class_00043
+    21300086: hello wellcome to our class_00044
+    21300088: hello wellcome to our class_00045
+    21300090: hello wellcome to our class_00046
+    21300092: hello wellcome to our class_00047
+    21300094: hello wellcome to our class_00048
+    21300096: hello wellcome to our class_00049
+    21300098: hello wellcome to our class_00050
+    21300100: hello wellcome to our class_00051
+    21300102: hello wellcome to our class_00052
+    21300104: hello wellcome to our class_00053
+    21300106: hello wellcome to our class_00054
+    21300108: hello wellcome to our class_00055
+    21300110: hello wellcome to our class_00056
+    21300112: hello wellcome to our class_00057
+    21300114: hello wellcome to our class_00058
+    21300116: hello wellcome to our class_00059
+    21300118: hello wellcome to our class_00060
+    21300120: hello wellcome to our class_00061
+    21300122: hello wellcome to our class_00062
+    21300124: hello wellcome to our class_00063
+    21300126: hello wellcome to our class_00064
+    21300128: hello wellcome to our class_00065
+    21300130: hello wellcome to our class_00066
+    21300132: hello wellcome to our class_00067
+    21300134: hello wellcome to our class_00068
+    21300136: hello wellcome to our class_00069
+    21300138: hello wellcome to our class_00070
+    21300140: hello wellcome to our class_00071
+    21300142: hello wellcome to our class_00072
+    21300144: hello wellcome to our class_00073
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hello wellcome to our class_00001
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 312
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b4694b35868824ea53c70d02ab835c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00002
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 390
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 1.025, y: -2.6216216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029a26bbbe5681e479367cbc272b20d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00003
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 429
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 1.025, y: -2.5263157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091f47515dbe2e24ba03ff9a39ade609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00004
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 351
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 1.025, y: -2.6216216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25855fc813ad7f43941de83d09b9041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00005
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 350
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 1.025, y: -2.6216216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1243bb6897c85ad4e9e99250d592d45a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00006
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 126
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5daeeb9a460b68549b141a257f9aa9f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 196
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70b1e3048b2d154fae5784788fae082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00008
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 196
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e6b1c4bf11c8648a2c3b2e378e1acd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00009
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 160
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fc56c198652744d995b4e20386b6d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 158
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3c83905a3862c458f6a36338c8ae01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00011
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 158
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1e683de941e6340857b9d58b6442bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00012
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 125
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2567718ae6c224e942666bb2d4fde1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00013
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 122
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fed1ce0e1fd7b49a779629c5aa7fe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00014
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 88
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e8cbc4d4f6c9b478bc7b810c528075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 121
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9addece5a0b7af540ac20626e5efae03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00016
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 121
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6f8d38c3040684ebb1e90b59189588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00017
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 85
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f59161da6b448043b939b14bbe1fc06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00018
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 275
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37eeb0aa95dbd9344a262e761d031f21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00019
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 238
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759e8f663ab16394cbba382f3c8b1f99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00020
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 237
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40808ffb2849ab94ea9bd5c302c2946a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00021
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 235
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f0afd95dae6fa40b7026747a8a71b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00022
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 237
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7355145ef8b47449e5424b47165d2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00023
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 201
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07218a4b58d9a63429c3dd24ba0d34be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00024
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 84
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4053d07a2a26b84e97900fa6edb941b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00025
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 347
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f69ebc75aef1a43adc71d1b4865727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00026
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 469
+        width: 46
+        height: 42
+      alignment: 9
+      pivot: {x: 1, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef85f00b4448f244b1dd7495340d0cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00027
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 347
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb31d4cce6cd0094a9dde589702cf413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00028
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 125
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ca4e93f29086d48a9316bdc68bef31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00029
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 84
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2168b1abcec436948bcb8919c5916378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00030
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 469
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d857cd3413e2045845c9d14ac94fe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00031
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 310
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4899ac247a71f49439eae1634f154922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00032
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 312
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 1.025, y: -2.6216216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34daaa3f7a79dc445838db69fc24c316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00033
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 429
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 1.025, y: -2.5263157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868527038ce96ed43af0af5e546f055e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00034
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 309
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30a2219f082a484891d9342c027c5c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00035
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 200
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a82a3486a571e4ba5b1dadf95fa242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00036
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 471
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 1.0222223, y: -2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd721a160e9046540b2d140111b7f1fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00037
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 427
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d282804ab077b41a347d4f4ee41928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00038
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcd0463eedf7fa4b84a5a57ce8d135f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00039
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4ef1584aafc1f4fb128775e45a2a3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00040
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 309
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552b19603bd51e1448f8f9f22531876c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00041
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 389
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 1.025, y: -2.5263157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5127f04891a3740bc55ddfcdd02bf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00042
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 274
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1120b54ba51cce54c895a6be8140df92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00043
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 47
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6911cbc227436c94a94634589de3f1fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00044
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 424
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b773be4326dc943b9138693b10f652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00045
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 10
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3be18d0f2c88ef43a91459d56d6393e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00046
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 48
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf8e075334e79546bd2cc3824d5fb0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00047
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 11
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef0efc898c6e2a428b6d80c4a91c696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00048
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 50
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e2e6f1c9bca8f4fb4269c9e157aa62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00049
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 13
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78019b76edee40f40b94864bd3fb8bb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00050
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 51
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b747dd1df1d79c04a834e5ee4b15d880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00051
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 51
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d44e191f5575c74d992f8bfbfc9d3f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00052
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 88
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c057b05ce95cc0542a6c3810d502f076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00053
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 87
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aeafe0e6a1b81a4e921cd2f2bbf3d4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00054
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 272
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05309d19bcc90e742abc79e30e36533e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00055
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 271
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b75b4ba7c30814a80a7510f3f06810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00056
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 385
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 1.025, y: -2.6216216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f12ac87a43dd9e42b8b8d1732a65e1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00057
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 468
+        width: 45
+        height: 43
+      alignment: 9
+      pivot: {x: 1.0222223, y: -2.1627908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e418fffa61e920748bdd165243e8543c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00058
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 385
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 1.025, y: -2.6216216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302240a086a716c4ab4b71585198ef4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00059
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 387
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 1.025, y: -2.5263157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbde713705543934380350631d054812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00060
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 424
+        width: 45
+        height: 43
+      alignment: 9
+      pivot: {x: 1.0222223, y: -2.1627908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b14b92414792c4ba51fa64652fc1b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00061
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 348
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 1.025, y: -2.6216216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f444280ac37b57847952be76e9756666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00062
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 271
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e878445d92215a84f9547069ef648141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00063
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 274
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6e334aa4ff6f042876622c86666cc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00064
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 14
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b85e0e023f372e4d906ce505f970a4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00065
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 469
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98add0142adeb034fb79ca3e88252068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00066
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 14
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3fcfc0cd916d74cb59b5d479ece140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00067
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 200
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f6a9dda9b7c1b499ee826f98b5b244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00068
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 164
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6feb3d9abd8eb03488d3ada109e0965d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00069
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 234
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4c41866bc0a08449ee72b5d2ebf955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00070
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 234
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a5f8584f737ff4d993f85969a05833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00071
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 198
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae6372318b1a1f46a5d9947ab32f952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00072
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 163
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23db9cbc4b431b44b853ecdda7035871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello wellcome to our class_00073
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 163
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104012c612958754388e4ef151c1f64a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 892bc40577f378c4a90f12676de52b92
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

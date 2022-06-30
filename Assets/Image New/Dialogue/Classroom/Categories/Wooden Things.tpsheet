@@ -1,0 +1,23 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:1e6487099f34e849cdd80775e9ae9dcb:f91fd47272d47a17f0a96a54d3b1b3f0:a0d4e6720fa86ff43894a9287324198d$
+#
+:format=40300
+:texture=Wooden Things.png
+:size=2048x1024
+:pivotpoints=enabled
+:borders=disabled
+
+bed;685;10;421;289; 0.5;0.5; 0;0;0;0
+bookcase;1;638;341;385; 0.5;0.5; 0;0;0;0
+closet;1;257;422;379; 0.5;0.5; 0;0;0;0
+door;709;703;231;320; 0.5;0.5; 0;0;0;0
+drawer;425;301;367;343; 0.5;0.5; 0;0;0;0
+seat;344;646;363;377; 0.5;0.5; 0;0;0;0
+shelf;274;10;409;245; 0.5;0.5; 0;0;0;0
+sofa;794;499;400;202; 0.5;0.5; 0;0;0;0
+table;1;9;271;246; 0.5;0.5; 0;0;0;0

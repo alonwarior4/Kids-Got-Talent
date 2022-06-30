@@ -1,0 +1,22 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:e2ef2cb46a76911543ee4a3cee151a87:9a253f74da019f4c55357b5e40ef0673:f1944da844142853ffcabf59f7e53e81$
+#
+:format=40300
+:texture=Clothes.png
+:size=2048x1024
+:pivotpoints=enabled
+:borders=disabled
+
+coat;770;22;419;320; 0.5;0.5; 0;0;0;0
+jacket;651;673;424;350; 0.5;0.5; 0;0;0;0
+pants;1;586;303;437; 0.5;0.5; 0;0;0;0
+raincoat;1;183;339;401; 0.5;0.5; 0;0;0;0
+shirt;342;257;426;372; 0.5;0.5; 0;0;0;0
+short;770;344;366;327; 0.5;0.5; 0;0;0;0
+t-shirt;1077;740;417;283; 0.5;0.5; 0;0;0;0
+vest;306;631;343;392; 0.5;0.5; 0;0;0;0

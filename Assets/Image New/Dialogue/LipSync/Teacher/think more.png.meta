@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: e5ed6f966cc21214095c6d4f8f34194d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: think more_00001
+    21300002: think more_00002
+    21300004: think more_00003
+    21300006: think more_00004
+    21300008: think more_00005
+    21300010: think more_00006
+    21300012: think more_00007
+    21300014: think more_00008
+    21300016: think more_00009
+    21300018: think more_00010
+    21300020: think more_00011
+    21300022: think more_00012
+    21300024: think more_00013
+    21300026: think more_00014
+    21300028: think more_00015
+    21300030: think more_00016
+    21300032: think more_00017
+    21300034: think more_00018
+    21300036: think more_00019
+    21300038: think more_00020
+    21300040: think more_00021
+    21300042: think more_00022
+    21300044: think more_00023
+    21300046: think more_00024
+    21300048: think more_00025
+    21300050: think more_00026
+    21300052: think more_00027
+    21300054: think more_00028
+    21300056: think more_00029
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: think more_00001
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 175
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2bb6ddfd164ea4bb72a53a19318c8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00002
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 131
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 1.025, y: -2.5263157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ac233b3b404a846beed664a572c77a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00003
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 175
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33382116659b3b3428a47c576100c95b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00004
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 213
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120842c6e9bf5cd4e9212f6a1c2a053c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 171
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011a86e167159e9479cb963f8f7d5530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00006
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 171
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff34874516e27241abab4b1f8b338eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00007
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 213
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc948cd4302ff04189068e9f6dc7b1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00008
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 213
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ba2d2c260c20e4b8b42ff8996ea426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 215
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 1.0222223, y: -2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f946c10bec6424694f48e31aed4de4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00010
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 138
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3955d5b630b5ff44b865d0325ceebb1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00011
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 132
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fa175352e72304ba5c3ee54ce3ac6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00012
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 138
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ef18e4b7900d34aa200f00fd623862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00013
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 64
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a2f335cb97c7e488117759eb56cc72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00014
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 58
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf8e5f7b21fa7b4291d11811e5043b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00015
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 101
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde102c11a34de44e89d8c79c9d71e17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00016
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 64
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d087cb62259c14ca0ae5bf3f08d0ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00017
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 63
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405895c28b4eaa84f823740b057b9f27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00018
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 27
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d630bc89ad8a8c44b1ac387f53be81a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00019
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 93
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebac63d4d41d28a4b96a43fb3791291b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 89
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39631d0f7dee0bb4cae8ae2a9ce9029c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00021
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 100
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9439ac219d9efdd4585be600f8f8d546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00022
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 27
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0648be05b0b18e7408f005d5e7dce62f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00023
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 26
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761d19fd783252d45bff45d762ace1a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00024
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 169
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0eaf970863e7444b57a3dc3d673099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00025
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 127
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299c3826dad19fb4a9166c6bf3f60c0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00026
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 56
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9a2ae9c52a4e349a999b80c076540e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00027
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 215
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 1.0222223, y: -2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f90bd88c687e8340814112bfad486ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00028
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 101
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150b16230355ed9468c50a7598c34a53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: think more_00029
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 95
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d385c2682fa0544ac0f89200d5da14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d9ce3b0cefbe78c4ea7cf2166c1ad4df
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

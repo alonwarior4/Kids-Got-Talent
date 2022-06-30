@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14be7127fd9be37498c1c959d281af15, type: 3}
+  m_Name: Coloring_StoreCloth
+  m_EditorClassIdentifier: 
+  StoryData:
+  - text: I wanted to buy some clothes, so my mom and I came here.
+    Audio: {fileID: 8300000, guid: 0613b39fc36cb7b4dbad8f76c3febd54, type: 3}
+    isFirst: 1
+    isLast: 0
+  - text: I want to color them but I don't know any colors. Can you help me?
+    Audio: {fileID: 8300000, guid: d3d5631546f304143b8a8e8ac7586c3c, type: 3}
+    isFirst: 1
+    isLast: 0
+  - text: Thank you. Now they look beautiful.
+    Audio: {fileID: 8300000, guid: 192ded2515b80954cbf08749a187fc00, type: 3}
+    isFirst: 0
+    isLast: 1
+  oliverTalk:
+  - text: brown bag
+    Audio: {fileID: 8300000, guid: 35211c384096c51458c250502e929a35, type: 3}
+  - text: pink dress
+    Audio: {fileID: 8300000, guid: 3c2a021d5081d57488e139529dcf5f6e, type: 3}
+  - text: green                 T-shirt
+    Audio: {fileID: 8300000, guid: 17211e6982a94894e8a242c188254466, type: 3}
+  - text: black glasses
+    Audio: {fileID: 8300000, guid: cefcd96fd799ed748a838b26732647f9, type: 3}
+  - text: light blue cap
+    Audio: {fileID: 8300000, guid: e024f81cd0f23c949a1b579622e1c1ad, type: 3}
+  - text: purple hat
+    Audio: {fileID: 8300000, guid: febdfeef788e40a4484dfcdcb8f31624, type: 3}
+  - text: dark blue coat
+    Audio: {fileID: 8300000, guid: 966d67209a6d3be4290bb912b81aa2e4, type: 3}
+  - text: black pants
+    Audio: {fileID: 8300000, guid: bf990ce4d5d5fc941a2f2eeaa4358a7a, type: 3}
+  - text: yellow shoes
+    Audio: {fileID: 8300000, guid: f43d106ae79a19e4f8d4f5c3d3925daa, type: 3}

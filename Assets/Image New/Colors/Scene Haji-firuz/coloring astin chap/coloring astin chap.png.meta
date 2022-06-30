@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: ede9e775919ecdd4897a69e0de0fb303
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: coloring astin chap
+    21300002: coloring astin chap_00001
+    21300004: coloring astin chap_00002
+    21300006: coloring astin chap_00003
+    21300008: coloring astin chap_00004
+    21300010: coloring astin chap_00005
+    21300012: coloring astin chap_00006
+    21300014: coloring astin chap_00007
+    21300016: coloring astin chap_00008
+    21300018: coloring astin chap_00009
+    21300020: coloring astin chap_00010
+    21300022: coloring astin chap_00011
+    21300024: coloring astin chap_00012
+    21300026: coloring astin chap_00013
+    21300028: coloring astin chap_00014
+    21300030: coloring astin chap_00015
+    21300032: coloring astin chap_00016
+    21300034: coloring astin chap_00017
+    21300036: coloring astin chap_00018
+    21300038: coloring astin chap_00019
+    21300040: coloring astin chap_00020
+    21300042: coloring astin chap_00021
+    21300044: coloring astin chap_00022
+    21300046: coloring astin chap_00023
+    21300048: coloring astin chap_00024
+    21300050: coloring astin chap_00025
+    21300052: coloring astin chap_00026
+    21300054: coloring astin chap_00027
+    21300056: coloring astin chap_00028
+    21300058: coloring astin chap_00029
+    21300060: coloring astin chap_00030
+    21300062: coloring astin chap_00031
+    21300064: coloring astin chap_00032
+    21300066: coloring astin chap_00033
+    21300068: coloring astin chap_00034
+    21300070: coloring astin chap_00035
+    21300072: coloring astin chap_00036
+    21300074: coloring astin chap_00037
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coloring astin chap_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1807
+        width: 456
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee879e5038b32a438a2df7ed47960a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00002
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1807
+        width: 456
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e1efcb5ec25674ba5024cc1df5d2d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00003
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1807
+        width: 456
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf25e6ffb366d734bbdf7ebc34d11ca0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00004
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1807
+        width: 456
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19f7a9b712260c45a6125a02c14f2e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1566
+        width: 456
+        height: 239
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50209206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8172007a0da338b49aea5877c70282ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00006
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1566
+        width: 446
+        height: 239
+      alignment: 9
+      pivot: {x: 0.48878923, y: 0.50209206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b563afaf6997a249afdc18e672506f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00007
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1566
+        width: 450
+        height: 239
+      alignment: 9
+      pivot: {x: 0.49333334, y: 0.50209206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc3ce73c4ddeca48ba6c0c7fac1cfb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00008
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1566
+        width: 430
+        height: 239
+      alignment: 9
+      pivot: {x: 0.46976745, y: 0.50209206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bcd44159ba85a41815abc03933609f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1325
+        width: 414
+        height: 239
+      alignment: 9
+      pivot: {x: 0.44927537, y: 0.50209206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a00fc4b1e6a3e4bb28b3a2348ca219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00010
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1325
+        width: 405
+        height: 239
+      alignment: 9
+      pivot: {x: 0.43703705, y: 0.50209206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc02095ed577e443bbca638b3bf24fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00011
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1325
+        width: 383
+        height: 239
+      alignment: 9
+      pivot: {x: 0.40469974, y: 0.50209206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf7cd922643af84b89f64a67004d864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00012
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1325
+        width: 373
+        height: 239
+      alignment: 9
+      pivot: {x: 0.38873994, y: 0.50209206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b580198922b2d04c92896c81384cd59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00013
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1325
+        width: 374
+        height: 239
+      alignment: 9
+      pivot: {x: 0.39037433, y: 0.50209206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67071d3cc736f4409a8c6847e8bba0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1084
+        width: 345
+        height: 239
+      alignment: 9
+      pivot: {x: 0.33913043, y: 0.50209206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd75f737711ec414e9fc101423afdb1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00015
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1084
+        width: 341
+        height: 239
+      alignment: 9
+      pivot: {x: 0.3313783, y: 0.50209206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7174b47f01fad3e4588b47a1c113a049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00016
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1084
+        width: 314
+        height: 239
+      alignment: 9
+      pivot: {x: 0.27388534, y: 0.50209206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfcf4feece47d8438e9c49b853ed29a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00017
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1084
+        width: 316
+        height: 239
+      alignment: 9
+      pivot: {x: 0.278481, y: 0.50209206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a58c236d7b3f8040bf3987f2b619f52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00018
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1084
+        width: 312
+        height: 239
+      alignment: 9
+      pivot: {x: 0.26923078, y: 0.50209206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaea9689e4e29f14e8174c3f21cd10fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00019
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1084
+        width: 281
+        height: 239
+      alignment: 9
+      pivot: {x: 0.1886121, y: 0.50209206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627c0e195b150ef4f8d6d1bba74019d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 843
+        width: 289
+        height: 239
+      alignment: 9
+      pivot: {x: 0.21107267, y: 0.50209206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17977129fdd8dd747ab223966650e35d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00021
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 844
+        width: 254
+        height: 238
+      alignment: 9
+      pivot: {x: 0.10236221, y: 0.5042017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44189b73f53072448165fb1681e1175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00022
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 842
+        width: 249
+        height: 240
+      alignment: 9
+      pivot: {x: 0.084337346, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aebadae84d11004e9d254aa0fe9aee0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00023
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 845
+        width: 256
+        height: 237
+      alignment: 9
+      pivot: {x: 0.109375, y: 0.5063291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174abbf63530f734ba759ef4531d8029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00024
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 842
+        width: 222
+        height: 240
+      alignment: 9
+      pivot: {x: -0.027027028, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2162b0687d9c40d41867b7dc02cd508f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00025
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 843
+        width: 221
+        height: 239
+      alignment: 9
+      pivot: {x: -0.03167421, y: 0.50209206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b377ae8a19a4141bd56c7cf0862171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00026
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 854
+        width: 223
+        height: 228
+      alignment: 9
+      pivot: {x: -0.013452915, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94355a24d21a2884985e06b3ff32c568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00027
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 851
+        width: 174
+        height: 231
+      alignment: 9
+      pivot: {x: -0.29885057, y: 0.5194805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7150f5298f3cd4c9238ea1733f05a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00028
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 632
+        width: 178
+        height: 208
+      alignment: 9
+      pivot: {x: -0.26966292, y: 0.5769231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a216310d306d8b948aa619440ffcb623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00029
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 639
+        width: 176
+        height: 201
+      alignment: 9
+      pivot: {x: -0.2840909, y: 0.5970149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123ae8b45f6e69045948020c706db08a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00030
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 633
+        width: 140
+        height: 207
+      alignment: 9
+      pivot: {x: -0.6142857, y: 0.5797101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbef83ee1e9b7546a1e991154dd1306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00031
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 666
+        width: 142
+        height: 174
+      alignment: 9
+      pivot: {x: -0.5915493, y: 0.6896552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457110b83fb4cf249b0fb59caf05681d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00032
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 659
+        width: 109
+        height: 181
+      alignment: 9
+      pivot: {x: -1.0733945, y: 0.6629834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6fd000c5216574aabb1c0f5a8f5ec1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00033
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 705
+        width: 111
+        height: 135
+      alignment: 9
+      pivot: {x: -1.054054, y: 0.8888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdeab4fb287671a41b0ec4ecb9b01bc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00034
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 691
+        width: 83
+        height: 149
+      alignment: 9
+      pivot: {x: -1.7469879, y: 0.80536914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d30efc82bd2564f800435c6a540dc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00035
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 763
+        width: 83
+        height: 77
+      alignment: 9
+      pivot: {x: -1.7469879, y: 1.5584415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae7e07a739ed5449a88d145d98f5f60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00036
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 799
+        width: 46
+        height: 41
+      alignment: 9
+      pivot: {x: -3.9130435, y: 2.804878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd85198e951a86441a7a0cdcc5cc6875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astin chap_00037
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 839
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 240, y: -119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b3e6deb58e3ae47aab61e189022518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c4da6f56c6cd42844a242c11888b6226
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1082 @@
+fileFormatVersion: 2
+guid: ffe3694f741b9204ca4e412ec9b55ff5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: flag ideal_00023
+    21300002: flag ideal_00024
+    21300004: flag ideal_00025
+    21300006: flag ideal_00026
+    21300008: flag ideal_00027
+    21300010: flag ideal_00028
+    21300012: flag ideal_00029
+    21300014: flag ideal_00030
+    21300016: flag ideal_00031
+    21300018: flag ideal_00032
+    21300020: flag ideal_00033
+    21300022: flag ideal_00034
+    21300024: flag ideal_00035
+    21300026: flag ideal_00036
+    21300028: flag ideal_00037
+    21300030: flag ideal_00038
+    21300032: flag ideal_00039
+    21300034: flag ideal_00040
+    21300036: flag ideal_00041
+    21300038: flag ideal_00042
+    21300040: flag ideal_00043
+    21300042: flag ideal_00044
+    21300044: flag ideal_00045
+    21300046: flag ideal_00046
+    21300048: flag ideal_00047
+    21300050: flag ideal_00048
+    21300052: flag ideal_00049
+    21300054: flag ideal_00050
+    21300056: flag ideal_00051
+    21300058: flag ideal_00052
+    21300060: flag ideal_00053
+    21300062: flag ideal_00054
+    21300064: flag ideal_00055
+    21300066: flag ideal_00056
+    21300068: flag ideal_00057
+    21300070: flag ideal_00058
+    21300072: flag ideal_00059
+    21300074: flag ideal_00060
+    21300076: flag ideal_00061
+    21300078: flag ideal_00062
+    21300080: flag ideal_00063
+    21300082: flag ideal_00064
+    21300084: flag ideal_00065
+    21300086: flag ideal_00066
+    21300088: flag ideal_00067
+    21300090: flag ideal_00068
+    21300092: flag ideal_00069
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flag ideal_00023
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1298
+        width: 112
+        height: 246
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.49593496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c2f69605b4f92408e92f741e0635a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00024
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1546
+        width: 112
+        height: 249
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.48995984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b798f834286b145aa27b4d45ac15f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00025
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1550
+        width: 115
+        height: 246
+      alignment: 9
+      pivot: {x: 0.49565217, y: 0.49593496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346cc3d6b1f4c9b4a9b0764c49427697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00026
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1548
+        width: 118
+        height: 248
+      alignment: 9
+      pivot: {x: 0.5084746, y: 0.4919355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84e2589468733648bd210546146422d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00027
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1798
+        width: 118
+        height: 249
+      alignment: 9
+      pivot: {x: 0.5084746, y: 0.48995984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cc63287a59bb94a9644ed49e017d0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00028
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1798
+        width: 121
+        height: 249
+      alignment: 9
+      pivot: {x: 0.5041322, y: 0.48995984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc824c20180714498add32bb51c341e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00029
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1798
+        width: 119
+        height: 249
+      alignment: 9
+      pivot: {x: 0.5126051, y: 0.48995984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd543c05095a97742a78034e592b029b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00030
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1797
+        width: 118
+        height: 250
+      alignment: 9
+      pivot: {x: 0.5084746, y: 0.488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ddf38f71013904ca4a96c0952824de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00031
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1548
+        width: 116
+        height: 248
+      alignment: 9
+      pivot: {x: 0.49137932, y: 0.48790324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d860ae071ce3d9a4f952c6844c95f70c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00032
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1298
+        width: 112
+        height: 248
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.48790324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53e5bb780fcbfd428f75a4bd293ab59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00033
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1546
+        width: 112
+        height: 249
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.48594376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613b8fa474b9fd8409e9ce42a0b6e54f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00034
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1299
+        width: 112
+        height: 249
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.48594376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15d9d42529671443a2b7215a11db882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00035
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1047
+        width: 110
+        height: 250
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e530695dfa91a441bd382e08576f7a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00036
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 50
+        width: 105
+        height: 248
+      alignment: 9
+      pivot: {x: 0.44761905, y: 0.48790324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d780a3c2c4b9c104eaafcb942cf1d25d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00037
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 49
+        width: 104
+        height: 249
+      alignment: 9
+      pivot: {x: 0.44230768, y: 0.48594376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b649e0564e73a4bbbd96984d2b00f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00038
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 49
+        width: 104
+        height: 249
+      alignment: 9
+      pivot: {x: 0.44230768, y: 0.48594376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118d5e6978fd7984180ee73cdf90c387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00039
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 297
+        width: 105
+        height: 249
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.48995984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d490618775f09a4f8e3791c7933ac01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00040
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 296
+        width: 101
+        height: 250
+      alignment: 9
+      pivot: {x: 0.41584158, y: 0.488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b387c4726d5ad142bae021a6258bb73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00041
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 49
+        width: 103
+        height: 249
+      alignment: 9
+      pivot: {x: 0.4368932, y: 0.48995984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49e17bb45f049c46a987477c154ce6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00042
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 46
+        width: 105
+        height: 249
+      alignment: 9
+      pivot: {x: 0.44761905, y: 0.48995984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1ef2c906da1f848ad277ea16b6e767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00043
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 551
+        width: 106
+        height: 250
+      alignment: 9
+      pivot: {x: 0.4528302, y: 0.488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f930179704e3644af6957b95624eb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00044
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 803
+        width: 108
+        height: 243
+      alignment: 9
+      pivot: {x: 0.46296296, y: 0.5020576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f485fd9d465b6498f55b0cdf022671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00045
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1048
+        width: 110
+        height: 247
+      alignment: 9
+      pivot: {x: 0.47272727, y: 0.49392712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbf026a92bf1c34b8a55b0cf0ac8408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00046
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1298
+        width: 112
+        height: 246
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.49593496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7553d1e68875a284ab1ae878592b9ee7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00047
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1299
+        width: 112
+        height: 249
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.48995984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75450860974ec64e8cc85d7c14e08cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00048
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1550
+        width: 115
+        height: 246
+      alignment: 9
+      pivot: {x: 0.49565217, y: 0.49593496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5523b4b296760f4e9c75d12c65139f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00049
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1548
+        width: 118
+        height: 248
+      alignment: 9
+      pivot: {x: 0.5084746, y: 0.4919355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6c09b3fde95ec4d8cd9e46734bb636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00050
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1798
+        width: 118
+        height: 249
+      alignment: 9
+      pivot: {x: 0.5084746, y: 0.48995984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c6da87c5f6ea54f888b79dce98db8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00051
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1798
+        width: 121
+        height: 249
+      alignment: 9
+      pivot: {x: 0.5041322, y: 0.48995984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21ac8e3ef0dfb447b11e6f97ac85fc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00052
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1798
+        width: 119
+        height: 249
+      alignment: 9
+      pivot: {x: 0.5126051, y: 0.48995984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3186b1dbbd60a5b4692a8a8eb36d4bbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00053
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1797
+        width: 118
+        height: 250
+      alignment: 9
+      pivot: {x: 0.5084746, y: 0.488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df51a696dd83af4694f26726f0a55d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00054
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1548
+        width: 116
+        height: 248
+      alignment: 9
+      pivot: {x: 0.49137932, y: 0.48790324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9f42dbc01a0f542b1ea5b2506b7cb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00055
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1298
+        width: 112
+        height: 248
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.48790324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ca360d77ea37143b13c96d5be07a5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00056
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1297
+        width: 112
+        height: 249
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.48594376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3d79bcda5899846b9c955d26390d44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00057
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1297
+        width: 112
+        height: 249
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.48594376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b4839e6d5428c4091dad9a4c80a4e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00058
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1045
+        width: 110
+        height: 250
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadc2c9d82940b14bb6260d6789adf5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00059
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 797
+        width: 105
+        height: 248
+      alignment: 9
+      pivot: {x: 0.44761905, y: 0.48790324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49757ab54800418429e0e84bf0e32d72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00060
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 300
+        width: 104
+        height: 249
+      alignment: 9
+      pivot: {x: 0.44230768, y: 0.48594376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720e3d3cad9ac4d479e3dcf327a80fbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00061
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 551
+        width: 104
+        height: 249
+      alignment: 9
+      pivot: {x: 0.44230768, y: 0.48594376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2691cff935d54164d8a3910fd1b3777d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00062
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 300
+        width: 105
+        height: 249
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.48995984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c894549136de8b44097dcb43b506eb23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00063
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 44
+        width: 101
+        height: 250
+      alignment: 9
+      pivot: {x: 0.41584158, y: 0.488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33efb3f8c497ed74b9a05eae2a6ca102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00064
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 300
+        width: 103
+        height: 249
+      alignment: 9
+      pivot: {x: 0.4368932, y: 0.48995984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a813472a2adc84bb210de5a66abe5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00065
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 551
+        width: 105
+        height: 249
+      alignment: 9
+      pivot: {x: 0.44761905, y: 0.48995984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52c7dc037431b042b7157e5fefd9d34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00066
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 548
+        width: 106
+        height: 250
+      alignment: 9
+      pivot: {x: 0.4528302, y: 0.488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ef5cc01b2270244a6da4c4fe747f86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00067
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 800
+        width: 108
+        height: 243
+      alignment: 9
+      pivot: {x: 0.46296296, y: 0.5020576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3644b3b9194ef264cb8ea1e5349d4f46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00068
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 802
+        width: 110
+        height: 247
+      alignment: 9
+      pivot: {x: 0.47272727, y: 0.49392712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34210f60895dce418f2285db5379a12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flag ideal_00069
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1051
+        width: 112
+        height: 246
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.49593496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fdf2f243cfd8d418ae10dcef06b584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a26aaa66863aa7a4891a40021c6983b9
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

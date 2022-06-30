@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55731e2d45a3abc479a0e90f8db2d4d1, type: 3}
+  m_Name: Cloth
+  m_EditorClassIdentifier: 
+  dataPrefab: {fileID: 1262923956063876, guid: 752fc4d67ec2ecd4080348b33c8ac231, type: 2}

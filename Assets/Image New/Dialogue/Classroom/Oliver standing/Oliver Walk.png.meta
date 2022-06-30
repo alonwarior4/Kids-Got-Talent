@@ -1,0 +1,725 @@
+fileFormatVersion: 2
+guid: 7a4a2ffb3b699aa4e957800841d23be7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Oliver Walk_00001
+    21300002: Oliver Walk_00002
+    21300004: Oliver Walk_00003
+    21300006: Oliver Walk_00004
+    21300008: Oliver Walk_00005
+    21300010: Oliver Walk_00006
+    21300012: Oliver Walk_00007
+    21300014: Oliver Walk_00008
+    21300016: Oliver Walk_00009
+    21300018: Oliver Walk_00010
+    21300020: Oliver Walk_00011
+    21300022: Oliver Walk_00012
+    21300024: Oliver Walk_00013
+    21300026: Oliver Walk_00014
+    21300028: Oliver Walk_00015
+    21300030: Oliver Walk_00016
+    21300032: Oliver Walk_00017
+    21300034: Oliver Walk_00018
+    21300036: Oliver Walk_00019
+    21300038: Oliver Walk_00020
+    21300040: Oliver Walk_00021
+    21300042: Oliver Walk_00022
+    21300044: Oliver Walk_00023
+    21300046: Oliver Walk_00024
+    21300048: Oliver Walk_00025
+    21300050: Oliver Walk_00026
+    21300052: Oliver Walk_00027
+    21300054: Oliver Walk_00028
+    21300056: Oliver Walk_00029
+    21300058: Oliver Walk_00030
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Oliver Walk_00001
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 637
+        width: 243
+        height: 466
+      alignment: 9
+      pivot: {x: 0.44238684, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa6ff768b6f07a49b6e6cb3d19260c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1088
+        width: 229
+        height: 478
+      alignment: 9
+      pivot: {x: 0.45196506, y: 0.50209206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8832790075f48b64eaf84e0724380fc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00003
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 173
+        width: 228
+        height: 462
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.508658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af971280ca1b42e4dba575d18a863fa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00004
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1586
+        width: 217
+        height: 461
+      alignment: 9
+      pivot: {x: 0.48617512, y: 0.5140998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e2200630d75a74a97d35917e921040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00005
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1123
+        width: 214
+        height: 461
+      alignment: 9
+      pivot: {x: 0.51635516, y: 0.51843816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055a92040687b544fb5f88a9d6e319d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00006
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 657
+        width: 217
+        height: 461
+      alignment: 9
+      pivot: {x: 0.52764976, y: 0.527115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e05b096978ee1049a4f37fc04e965e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00007
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 195
+        width: 217
+        height: 460
+      alignment: 9
+      pivot: {x: 0.546083, y: 0.5282609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ccc348f1e431a45a32c370d0044aa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00008
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 646
+        width: 217
+        height: 462
+      alignment: 9
+      pivot: {x: 0.53686637, y: 0.52597404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5f33c0617233b42b1793c25405e874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00009
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 194
+        width: 213
+        height: 461
+      alignment: 9
+      pivot: {x: 0.52347416, y: 0.52277654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256c1ed328e6f0b48baf7132c7f66c83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00010
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1120
+        width: 211
+        height: 462
+      alignment: 9
+      pivot: {x: 0.5094787, y: 0.5194805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f75c5788e9e7d4683e3224dd713b25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00011
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 145
+        width: 213
+        height: 471
+      alignment: 9
+      pivot: {x: 0.49061033, y: 0.51167727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75beeede7a9b82d408bace6a31d26d27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00012
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1576
+        width: 216
+        height: 471
+      alignment: 9
+      pivot: {x: 0.47916666, y: 0.50530785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4360a68cf024f446bc45344d72e1726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00013
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1584
+        width: 229
+        height: 463
+      alignment: 9
+      pivot: {x: 0.50873363, y: 0.5097192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af76228851eac047a63d1572a5197ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 230
+        height: 477
+      alignment: 9
+      pivot: {x: 0.5021739, y: 0.5031447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cb7dcda10686447b17018965cad108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00015
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1101
+        width: 220
+        height: 471
+      alignment: 9
+      pivot: {x: 0.46136364, y: 0.50530785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b382c0c7328a0f844a9842a08ffb15b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00016
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1574
+        width: 215
+        height: 473
+      alignment: 9
+      pivot: {x: 0.45813954, y: 0.5010571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db18dee35058d14484b2be533f0b1ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00017
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 159
+        width: 215
+        height: 468
+      alignment: 9
+      pivot: {x: 0.47209302, y: 0.5106838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1c510726eb70941a09bdee6f798d51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00018
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1092
+        width: 212
+        height: 474
+      alignment: 9
+      pivot: {x: 0.48820755, y: 0.52109706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7615357bebfbb4d82b712053241f1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00019
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 618
+        width: 209
+        height: 472
+      alignment: 9
+      pivot: {x: 0.5047847, y: 0.5169492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daba923b03c777645ad8053a499b8ab0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00020
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 137
+        width: 216
+        height: 472
+      alignment: 9
+      pivot: {x: 0.5162037, y: 0.52330506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d1c3f2a1280c545993b95c3d7e35a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00021
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1105
+        width: 219
+        height: 469
+      alignment: 9
+      pivot: {x: 0.5273973, y: 0.52238804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa00312a97bc734cb2a0d5552c3336b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00022
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 172
+        width: 217
+        height: 463
+      alignment: 9
+      pivot: {x: 0.546083, y: 0.5313175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd67570d2a32f24cbf919aee941127d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00023
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 611
+        width: 214
+        height: 475
+      alignment: 9
+      pivot: {x: 0.5303738, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea5c44cb6a61ae429e662b5f515d222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00024
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1578
+        width: 216
+        height: 469
+      alignment: 9
+      pivot: {x: 0.5208333, y: 0.53091687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a6c0715d2b6534fa999212b9e07c46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00025
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1581
+        width: 211
+        height: 466
+      alignment: 9
+      pivot: {x: 0.5094787, y: 0.52360517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de71fefbea1e149498001138fd49d419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00026
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 629
+        width: 216
+        height: 470
+      alignment: 9
+      pivot: {x: 0.48842594, y: 0.5106383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dbc95f6b4d08e4c99bff227e47ca02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00027
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 608
+        width: 219
+        height: 478
+      alignment: 9
+      pivot: {x: 0.47716895, y: 0.5125523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a626a8567a37541a22da0a17f0415c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00028
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 662
+        width: 224
+        height: 459
+      alignment: 9
+      pivot: {x: 0.46205357, y: 0.5054466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d792f22d23a8b34d982d53dfc35502c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00029
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1568
+        width: 246
+        height: 479
+      alignment: 9
+      pivot: {x: 0.45325205, y: 0.5052192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcd50cf37e91414eac84b4a5637e953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oliver Walk_00030
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1110
+        width: 243
+        height: 466
+      alignment: 9
+      pivot: {x: 0.44238684, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d366e9f3cd2b20449999569c7d0b7745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3cf8076e66e05a4459c06638f8dd1b00
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b36361e210da6574387d24bd5b4313b7, type: 3}
+  m_Name: Questions 2
+  m_EditorClassIdentifier: 
+  RepeatLevel: 10
+  Level: 2
+  DataSpawn:
+  - TypeSpawn: true
+    Data_numbers:
+    - TypeAnimal: Bird
+      NumberTypeObject: 1
+      MinCount: 3
+      MaxCount: 10
+    - TypeAnimal: Sheep
+      NumberTypeObject: 1
+      MinCount: 1
+      MaxCount: 5
+  - TypeSpawn: false
+    Data_numbers:
+    - TypeAnimal: Bird
+      NumberTypeObject: 3
+      MinCount: 3
+      MaxCount: 6
+    - TypeAnimal: Sheep
+      NumberTypeObject: 2
+      MinCount: 1
+      MaxCount: 3

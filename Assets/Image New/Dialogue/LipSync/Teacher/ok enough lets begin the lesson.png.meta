@@ -1,0 +1,1544 @@
+fileFormatVersion: 2
+guid: 8a17f5bdff8f98449b5c500bc1ba31bf
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ok , enough lets begin the lesson_00001
+    21300002: ok , enough lets begin the lesson_00002
+    21300004: ok , enough lets begin the lesson_00003
+    21300006: ok , enough lets begin the lesson_00004
+    21300008: ok , enough lets begin the lesson_00005
+    21300010: ok , enough lets begin the lesson_00006
+    21300012: ok , enough lets begin the lesson_00007
+    21300014: ok , enough lets begin the lesson_00008
+    21300016: ok , enough lets begin the lesson_00009
+    21300018: ok , enough lets begin the lesson_00010
+    21300020: ok , enough lets begin the lesson_00011
+    21300022: ok , enough lets begin the lesson_00012
+    21300024: ok , enough lets begin the lesson_00013
+    21300026: ok , enough lets begin the lesson_00014
+    21300028: ok , enough lets begin the lesson_00015
+    21300030: ok , enough lets begin the lesson_00016
+    21300032: ok , enough lets begin the lesson_00017
+    21300034: ok , enough lets begin the lesson_00018
+    21300036: ok , enough lets begin the lesson_00019
+    21300038: ok , enough lets begin the lesson_00020
+    21300040: ok , enough lets begin the lesson_00021
+    21300042: ok , enough lets begin the lesson_00022
+    21300044: ok , enough lets begin the lesson_00023
+    21300046: ok , enough lets begin the lesson_00024
+    21300048: ok , enough lets begin the lesson_00025
+    21300050: ok , enough lets begin the lesson_00026
+    21300052: ok , enough lets begin the lesson_00027
+    21300054: ok , enough lets begin the lesson_00028
+    21300056: ok , enough lets begin the lesson_00029
+    21300058: ok , enough lets begin the lesson_00030
+    21300060: ok , enough lets begin the lesson_00031
+    21300062: ok , enough lets begin the lesson_00032
+    21300064: ok , enough lets begin the lesson_00033
+    21300066: ok , enough lets begin the lesson_00034
+    21300068: ok , enough lets begin the lesson_00035
+    21300070: ok , enough lets begin the lesson_00036
+    21300072: ok , enough lets begin the lesson_00037
+    21300074: ok , enough lets begin the lesson_00038
+    21300076: ok , enough lets begin the lesson_00039
+    21300078: ok , enough lets begin the lesson_00040
+    21300080: ok , enough lets begin the lesson_00041
+    21300082: ok , enough lets begin the lesson_00042
+    21300084: ok , enough lets begin the lesson_00043
+    21300086: ok , enough lets begin the lesson_00044
+    21300088: ok , enough lets begin the lesson_00045
+    21300090: ok , enough lets begin the lesson_00046
+    21300092: ok , enough lets begin the lesson_00047
+    21300094: ok , enough lets begin the lesson_00048
+    21300096: ok , enough lets begin the lesson_00049
+    21300098: ok , enough lets begin the lesson_00050
+    21300100: ok , enough lets begin the lesson_00051
+    21300102: ok , enough lets begin the lesson_00052
+    21300104: ok , enough lets begin the lesson_00053
+    21300106: ok , enough lets begin the lesson_00054
+    21300108: ok , enough lets begin the lesson_00055
+    21300110: ok , enough lets begin the lesson_00056
+    21300112: ok , enough lets begin the lesson_00057
+    21300114: ok , enough lets begin the lesson_00058
+    21300116: ok , enough lets begin the lesson_00059
+    21300118: ok , enough lets begin the lesson_00060
+    21300120: ok , enough lets begin the lesson_00061
+    21300122: ok , enough lets begin the lesson_00062
+    21300124: ok , enough lets begin the lesson_00063
+    21300126: ok , enough lets begin the lesson_00064
+    21300128: ok , enough lets begin the lesson_00065
+    21300130: ok , enough lets begin the lesson_00066
+    21300132: ok , enough lets begin the lesson_00067
+    21300134: ok , enough lets begin the lesson_00068
+    21300136: ok , enough lets begin the lesson_00069
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00001
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 11
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97fb2241c5665e44b3d2604966079e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00002
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 55
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1bc25ca02355a4b8112a83a8122a32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00003
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 41
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f945a3e827e0548b6dfd759c920b9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00004
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 41
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775ecad73c415c048b44d19317a25cae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00005
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 92
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accdefe7de8090542b208e4ac5f38595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00006
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 85
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0763dce21768f7a40b23fa9bf4f9b401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 84
+        width: 45
+        height: 43
+      alignment: 9
+      pivot: {x: 1.0222223, y: -2.1627908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63792adadcf91b46ac5834b4946aafb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a668e337fe25e9418caae28ddf12ad7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00009
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 85
+        width: 46
+        height: 42
+      alignment: 9
+      pivot: {x: 1, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70322d1093634804ba768ca220d4cded
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 39
+        width: 45
+        height: 43
+      alignment: 9
+      pivot: {x: 1.0222223, y: -2.1627908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b57bd0223ab4341a4d7ca3cf785d71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00011
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5073cc40f7c87f428bb5bc2acae22bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00012
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 86
+        width: 46
+        height: 41
+      alignment: 9
+      pivot: {x: 1, y: -2.317073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d047b0b89b2c5c24ea0d54f00899cbd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00013
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e18b1aa0e3c9542856b0e1faf51b9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00014
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 92
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cbe625ea54da94d934a0cb67cc6c20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00015
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 16
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c518c374baabb5044bad48971319411c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00016
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 1.0222223, y: -2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb725e3bf6c7e8e45bff82478c5f1f68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00017
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 41
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d049ecbe462f1343996e7753a9c3bc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00018
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eff16502cf7c174c9be48ce637be093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00019
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 1.025, y: -2.6216216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a12743aed8f9943ba7050fc327ffb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00020
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 1.025, y: -2.5263157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd71eebd3ffa37409254d1b336809ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00021
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dcc4a224bd5b0459d66a64707df783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00022
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 55
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e4355ac48516c448526031f1e3661e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00023
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 87
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 1.0444444, y: -2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e4af0b48fbefa41960d135fd72a1a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00024
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 45
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 1.0444444, y: -2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd7a5928eee5b549937214c373014ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00025
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 87
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 1.0444444, y: -2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af317e8d823fbf47aa12780dbd6d75d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00026
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 3
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 1.0444444, y: -2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c50820156b60be44ae4e4ce5fdfa80d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00027
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 45
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 1.0222223, y: -2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b497cef51b8527841a4f92627651c31c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00028
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 92
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683bed21cb34e454d8c722ad8bd5ba0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00029
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 18
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178cd83c9c192fd4baf568ec6f15bc33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00030
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 55
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f265bcf2e03faf844b15a8d799f45d0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00031
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 53
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6426ef8d6c56d41819992a8a754ad0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00032
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 91
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd60f7b6c984bce44b31e11e06c0c509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00033
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787b359acf491c643b23b2463164b5ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00034
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 41
+        width: 46
+        height: 42
+      alignment: 9
+      pivot: {x: 1, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca138c9a0abab340bb3b84985d88911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00035
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 84
+        width: 45
+        height: 43
+      alignment: 9
+      pivot: {x: 1.0222223, y: -2.1627908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76be2f62cfdc3f1499f989be5ebebe80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00036
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 18
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0fd88451c22a74088fcc8de3d8119b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00037
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 85
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965f3c684ca34c14caea88bea68ca903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00038
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 55
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a39862ca2375e4eb9403068580ccdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00039
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 87
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 1.0222223, y: -2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40733668c2d954843905108a15cf3efa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00040
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 92
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb97653a89f1e549a645a9eaddc5c9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00041
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 18
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9f52e11fd0d8b48b4c7c3d9ecb3c15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00042
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 55
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc4b1b5b558f6447aec8254bdcdbbbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00043
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 92
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f32205e8fbfde4ba51ee923727726a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00044
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 41
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2643075996881438a6284538a9682d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00045
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 3
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccab179bbc0429469fd064269f76821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00046
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 1.025, y: -2.5263157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4201f5d8902e3324b87b5b80d7e330b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00047
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 85
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e53cd2029a60d458c52ea64254a127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00048
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 92
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd66552fff8daa4ab83b2ed16855072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00049
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 39
+        width: 45
+        height: 43
+      alignment: 9
+      pivot: {x: 1.0222223, y: -2.1627908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26984ed87f996f847b58a73a984c269b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00050
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 85
+        width: 46
+        height: 42
+      alignment: 9
+      pivot: {x: 1, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743bf2abcc78704459f61a69b23c5529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00051
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 3
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70548ec85219c9418db9ee34defec82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00052
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 15
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea6a1e242998a04ab4bc76c69c0eb9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00053
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 53
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67745d715bb9ac840a7f0d9d846ec004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00054
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 3
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9215889e9bbe41d4f899a417dbefdd41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00055
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 41
+        width: 46
+        height: 42
+      alignment: 9
+      pivot: {x: 1, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2cdb882365cfb48a4215cdfed0449b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00056
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 84
+        width: 45
+        height: 43
+      alignment: 9
+      pivot: {x: 1.0222223, y: -2.1627908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b9f410ff5c27042ac7adbdd9c0c94b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00057
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 55
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6977f95aeae4e4781cf739822687e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00058
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 41
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a852604ee8154b45ac66cbaa42286cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00059
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 18
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb85d4e6d50ee654e9754f3f218ea695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00060
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 39
+        width: 45
+        height: 43
+      alignment: 9
+      pivot: {x: 1.0222223, y: -2.1627908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918a32742cedf2b4793cc323fbc3a5f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00061
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 7
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365703ddab38f754c8c2f3899a6e03db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00062
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 85
+        width: 46
+        height: 42
+      alignment: 9
+      pivot: {x: 1, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206dda1903a6cfc45a2a00ae03fca73c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00063
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 49
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0487c5b13dbd4498d3e7ce3f430142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00064
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 43
+        width: 46
+        height: 41
+      alignment: 9
+      pivot: {x: 1, y: -2.317073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb31e2b2a9b2ced4eaaeb7fa882356b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00065
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 91
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3c79920dc4e7840b52c36c8147b03b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00066
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 18
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6331f1c7eaa2ed74b9a8661f85f99f11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00067
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 55
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a12b11040f921478db090cb89e1fae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00068
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 92
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9e500d8913a4e41a548d489ab60b4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ok , enough lets begin the lesson_00069
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 18
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9e7d69fdafdcc4ead5ff0c665b4ec7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2a2f8bb424f11474fb2f4d75442c873c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

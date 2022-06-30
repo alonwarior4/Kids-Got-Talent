@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 0938c9ca1ddabcb488518d2827d7f9fb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hand shaking_00072
+    21300002: hand shaking_00073
+    21300004: hand shaking_00074
+    21300006: hand shaking_00075
+    21300008: hand shaking_00076
+    21300010: hand shaking_00077
+    21300012: hand shaking_00078
+    21300014: hand shaking_00079
+    21300016: hand shaking_00080
+    21300018: hand shaking_00081
+    21300020: hand shaking_00082
+    21300022: hand shaking_00083
+    21300024: hand shaking_00084
+    21300026: hand shaking_00085
+    21300028: hand shaking_00086
+    21300030: hand shaking_00087
+    21300032: hand shaking_00088
+    21300034: hand shaking_00089
+    21300036: hand shaking_00090
+    21300038: hand shaking_00091
+    21300040: hand shaking_00092
+    21300042: hand shaking_00093
+    21300044: hand shaking_00094
+    21300046: hand shaking_00095
+    21300048: hand shaking_00096
+    21300050: hand shaking_00097
+    21300052: hand shaking_00098
+    21300054: hand shaking_00099
+    21300056: hand shaking_00100
+    21300058: hand shaking_00101
+    21300060: hand shaking_00102
+    21300062: hand shaking_00103
+    21300064: hand shaking_00104
+    21300066: hand shaking_00105
+    21300068: hand shaking_00106
+    21300070: hand shaking_00107
+    21300072: hand shaking_00108
+    21300074: hand shaking_00109
+    21300076: hand shaking_00110
+    21300078: hand shaking_00111
+    21300080: hand shaking_00112
+    21300082: hand shaking_00113
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hand shaking_00072
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1111
+        width: 167
+        height: 312
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.49358973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f32f3a595b5dc49b9a5ab839c3bfed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00073
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1745
+        width: 170
+        height: 302
+      alignment: 9
+      pivot: {x: 0.45882353, y: 0.51324505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9eb29fe2d533f43bd05e6e1a2f203d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00074
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1739
+        width: 163
+        height: 308
+      alignment: 9
+      pivot: {x: 0.4969325, y: 0.5064935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a911c7f99fa23429769facc3c9f861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00075
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 795
+        width: 176
+        height: 314
+      alignment: 9
+      pivot: {x: 0.4659091, y: 0.4968153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d358accc32d3f0a448b873eff3f4c798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00076
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 795
+        width: 175
+        height: 314
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.4936306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732039da55cfb60459a0c32ea504aece
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00077
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 793
+        width: 173
+        height: 316
+      alignment: 9
+      pivot: {x: 0.4913295, y: 0.49367088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43abb299fbf0c6408bd5fbe973dd442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00078
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1740
+        width: 169
+        height: 307
+      alignment: 9
+      pivot: {x: 0.5029586, y: 0.5081433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561924f552084244280065b07243dbcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00079
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1112
+        width: 170
+        height: 311
+      alignment: 9
+      pivot: {x: 0.45882353, y: 0.5080386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86619fd9586d9e4ca9399a6cbb433e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00080
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 797
+        width: 155
+        height: 312
+      alignment: 9
+      pivot: {x: 0.47096774, y: 0.50641024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60475835bae16a847a848f38cdaceaf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00081
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1113
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853f4f4b69cfe774cbdf5c78d5c22818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00082
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1425
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4b18aab3eb7c2499599017537f19d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00083
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1113
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018ba187e671cb94781f81138a7db98f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00084
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1425
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555d752276c59474aa0e6317e93734b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00085
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1113
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31bd5624c994904ca65b100d0af11cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00086
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1113
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5ccd42d2528ce4694ab9d56e5946cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00087
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1113
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8de9962d0b0be2438480d5160eea579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00088
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1425
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7852b9a8953919c418f3fc52164ab633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00089
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1113
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fcf1f8a9d39454d991e83476b28a8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00090
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1425
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146cbf4fd7f8ce947bd91ea01cc0d8f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00091
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1425
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130fe79cbf96dd9468593b943762d41e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00092
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1737
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfa35ad9b239d046838c06b086b7718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00093
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1113
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10808d12bddc2fe468cfeb17bf21fa1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00094
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1425
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d35c06c8618a34a9bf663c50c943d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00095
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1737
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d6c71c93776724f9ad33467e2fe2de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00096
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1737
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb97b150e2a29e24fbeaadaf375b2822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00097
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 1737
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c5b428627ee124a9250af9ddddcfa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00098
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1425
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95924a86050d6534f96245be173f3843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00099
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1425
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd57181628c05f643a2d3d64d4300ff9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00100
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1425
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c376aa829f16e247b738c39f3a1ab77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00101
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1425
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463ea9d78f3e5ad45b5a2cf9df10443c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00102
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1425
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dfee425fcc05d4096710ae9e75d90e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00103
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1425
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4111795f8a4ccaa46a4e8f4357942617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00104
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1113
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c491af2276dc945a8065865ea2cfb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00105
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1737
+        width: 167
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465122528b4bb434c99b20e1dfdf328a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00106
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 796
+        width: 160
+        height: 313
+      alignment: 9
+      pivot: {x: 0.50625, y: 0.50479233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf91c93ca0f8e441830049168587aa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00107
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1112
+        width: 172
+        height: 311
+      alignment: 9
+      pivot: {x: 0.4651163, y: 0.5080386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fee27ad5d844514986627c202a6413e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00108
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1739
+        width: 182
+        height: 308
+      alignment: 9
+      pivot: {x: 0.43956044, y: 0.5064935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7ad59569a77ab409ca8ef4e8660aad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00109
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1741
+        width: 186
+        height: 306
+      alignment: 9
+      pivot: {x: 0.43010753, y: 0.50653595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5c264890ba21f4988d2dabd75237db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00110
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 794
+        width: 165
+        height: 315
+      alignment: 9
+      pivot: {x: 0.47272727, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a604273a08a54cf4a966f53c9c9b72a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00111
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 795
+        width: 167
+        height: 314
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.4936306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1496af3e659a10f47b7ac7ee9405fadf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00112
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1740
+        width: 164
+        height: 307
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5081433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a8813f210616247b6771d3968b3bd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand shaking_00113
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1111
+        width: 167
+        height: 312
+      alignment: 9
+      pivot: {x: 0.4790419, y: 0.49358973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684472cdb6f9c9648a30a30f1f79fd99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 13e59824ff6a5494ca3149f787db8b7a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

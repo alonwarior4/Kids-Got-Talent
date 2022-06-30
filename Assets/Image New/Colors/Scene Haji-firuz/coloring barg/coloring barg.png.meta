@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: 66f55cd4e4a081d48bdd2a854b6f7ac7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: coloring barg
+    21300002: coloring barg_00001
+    21300004: coloring barg_00002
+    21300006: coloring barg_00003
+    21300008: coloring barg_00004
+    21300010: coloring barg_00005
+    21300012: coloring barg_00006
+    21300014: coloring barg_00007
+    21300016: coloring barg_00008
+    21300018: coloring barg_00009
+    21300020: coloring barg_00010
+    21300022: coloring barg_00011
+    21300024: coloring barg_00012
+    21300026: coloring barg_00013
+    21300028: coloring barg_00014
+    21300030: coloring barg_00015
+    21300032: coloring barg_00016
+    21300034: coloring barg_00017
+    21300036: coloring barg_00018
+    21300038: coloring barg_00019
+    21300040: coloring barg_00020
+    21300042: coloring barg_00021
+    21300044: coloring barg_00022
+    21300046: coloring barg_00023
+    21300048: coloring barg_00024
+    21300050: coloring barg_00025
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coloring barg_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 767
+        width: 229
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5021834, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6db6ec969044994d963f2bfc53de16e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00002
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 767
+        width: 229
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5021834, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8edc446643155a4092b8be377d4221a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00003
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 767
+        width: 228
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289d8891bbd54134a888274c1a8f4247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00004
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 771
+        width: 217
+        height: 252
+      alignment: 9
+      pivot: {x: 0.47465438, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb49825d6ebd8d64a867f340ca71b4b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 509
+        width: 207
+        height: 256
+      alignment: 9
+      pivot: {x: 0.44927537, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb16ed6bc26c6643baaef0df8768643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00006
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 516
+        width: 206
+        height: 249
+      alignment: 9
+      pivot: {x: 0.44660193, y: 0.48594376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18ef79d3dc340b44925283bc7cf48cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00007
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 518
+        width: 198
+        height: 247
+      alignment: 9
+      pivot: {x: 0.42424244, y: 0.48178136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7d71b9624e37644b2fdce15420350d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00008
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 518
+        width: 179
+        height: 247
+      alignment: 9
+      pivot: {x: 0.36312848, y: 0.48178136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b404023c44bcb6f4ab5a3b25c8c80b8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00009
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 517
+        width: 180
+        height: 248
+      alignment: 9
+      pivot: {x: 0.36666667, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15028162d58293f4591ee6e00033a760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 268
+        width: 166
+        height: 239
+      alignment: 9
+      pivot: {x: 0.31325302, y: 0.46443516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01636d885ff4e2449cd1ab66dcd8bff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00011
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 270
+        width: 152
+        height: 237
+      alignment: 9
+      pivot: {x: 0.25, y: 0.4599156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11db8420059d6f643b90028aae798181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00012
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 269
+        width: 150
+        height: 238
+      alignment: 9
+      pivot: {x: 0.24, y: 0.46218488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb34bdb0516f28a4198f72f5606bc301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00013
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 279
+        width: 135
+        height: 228
+      alignment: 9
+      pivot: {x: 0.15555556, y: 0.4385965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd8c00dd265bde44a0545f693fa5f25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00014
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 283
+        width: 135
+        height: 224
+      alignment: 9
+      pivot: {x: 0.14814815, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fe78fc74dee5b4a9ccb52ddde34a05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00015
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 284
+        width: 122
+        height: 223
+      alignment: 9
+      pivot: {x: 0.06557377, y: 0.42600897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff331bac38f12c4e9769933b69f6b41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00016
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 297
+        width: 122
+        height: 210
+      alignment: 9
+      pivot: {x: 0.06557377, y: 0.3904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d6014cf3f060f4380c117eb9896b4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 77
+        width: 106
+        height: 189
+      alignment: 9
+      pivot: {x: -0.0754717, y: 0.3227513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd0f0a1b6502474aa0b65e8802bf52b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00018
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 75
+        width: 89
+        height: 191
+      alignment: 9
+      pivot: {x: -0.28089887, y: 0.32984293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2907ec40882c104fbaf1db41c707547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00019
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 89
+        width: 91
+        height: 177
+      alignment: 9
+      pivot: {x: -0.25274727, y: 0.27683616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e9e37744a9bab4db5d04917138b19b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00020
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 90
+        width: 73
+        height: 176
+      alignment: 9
+      pivot: {x: -0.56164384, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d07c462c4f202042b1982b5ba9591e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00021
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 100
+        width: 61
+        height: 166
+      alignment: 9
+      pivot: {x: -0.86885244, y: 0.22891566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000705005759c2e498a3bff313029112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00022
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 120
+        width: 58
+        height: 146
+      alignment: 9
+      pivot: {x: -0.9655172, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce585e32971baa4a8c597584841cc9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00023
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 154
+        width: 38
+        height: 112
+      alignment: 9
+      pivot: {x: -1.9473684, y: -0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c17c372bd58e9438f9285827ec83a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00024
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 168
+        width: 24
+        height: 98
+      alignment: 9
+      pivot: {x: -3.75, y: -0.30612245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c973ee7a275694e86160b80c02635f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring barg_00025
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 265
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 128, y: -127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2d3d0208bf22c4f84c8b9accc44e1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d79579667732b184d82a053b5e63460f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

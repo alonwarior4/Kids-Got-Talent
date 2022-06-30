@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49caf15c4c6cb424ea888cc96692f6d0, type: 3}
+  m_Name: CA_Info Wooden
+  m_EditorClassIdentifier: 
+  ObjectsType: 4
+  Objects:
+  - Name: 
+    Sp: {fileID: 21300000, guid: 6d10dee6d2972ce4f93f5eb538cb72cb, type: 3}
+    nameSound: {fileID: 8300000, guid: a03757dd2fa027e4eb9e3f45fe8ac75a, type: 3}
+    Choosed: 0
+  - Name: 
+    Sp: {fileID: 21300002, guid: 6d10dee6d2972ce4f93f5eb538cb72cb, type: 3}
+    nameSound: {fileID: 8300000, guid: c3c1ea4aea664384e80e1a1f10b6cc5e, type: 3}
+    Choosed: 0
+  - Name: 
+    Sp: {fileID: 21300004, guid: 6d10dee6d2972ce4f93f5eb538cb72cb, type: 3}
+    nameSound: {fileID: 8300000, guid: 978501a398d7a8844bcaa65dd61763fd, type: 3}
+    Choosed: 0
+  - Name: 
+    Sp: {fileID: 21300006, guid: 6d10dee6d2972ce4f93f5eb538cb72cb, type: 3}
+    nameSound: {fileID: 8300000, guid: 3db6ab3ccad99a74e994d136ef95d49e, type: 3}
+    Choosed: 0
+  - Name: 
+    Sp: {fileID: 21300008, guid: 6d10dee6d2972ce4f93f5eb538cb72cb, type: 3}
+    nameSound: {fileID: 8300000, guid: ca539be5ce679254f9622723252113c4, type: 3}
+    Choosed: 0
+  - Name: 
+    Sp: {fileID: 21300010, guid: 6d10dee6d2972ce4f93f5eb538cb72cb, type: 3}
+    nameSound: {fileID: 8300000, guid: 5e385830a6809ea42ac038721c89b86e, type: 3}
+    Choosed: 0
+  - Name: 
+    Sp: {fileID: 21300012, guid: 6d10dee6d2972ce4f93f5eb538cb72cb, type: 3}
+    nameSound: {fileID: 8300000, guid: e399a07df4180094a8c52ac93728515d, type: 3}
+    Choosed: 0
+  - Name: 
+    Sp: {fileID: 21300014, guid: 6d10dee6d2972ce4f93f5eb538cb72cb, type: 3}
+    nameSound: {fileID: 8300000, guid: d97442d23e2f73841b1652e4ba1d2715, type: 3}
+    Choosed: 0
+  - Name: 
+    Sp: {fileID: 21300016, guid: 6d10dee6d2972ce4f93f5eb538cb72cb, type: 3}
+    nameSound: {fileID: 8300000, guid: f7b1dd9f22b1dfe4da7da57b193f57cf, type: 3}
+    Choosed: 0

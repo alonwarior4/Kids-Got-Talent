@@ -1,0 +1,862 @@
+fileFormatVersion: 2
+guid: 4fc1ae43e79861c4fb326fdd4a3d73e0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tabloo kharazmi_00001
+    21300002: tabloo kharazmi_00002
+    21300004: tabloo kharazmi_00003
+    21300006: tabloo kharazmi_00004
+    21300008: tabloo kharazmi_00005
+    21300010: tabloo kharazmi_00006
+    21300012: tabloo kharazmi_00007
+    21300014: tabloo kharazmi_00008
+    21300016: tabloo kharazmi_00009
+    21300018: tabloo kharazmi_00010
+    21300020: tabloo kharazmi_00011
+    21300022: tabloo kharazmi_00012
+    21300024: tabloo kharazmi_00013
+    21300026: tabloo kharazmi_00014
+    21300028: tabloo kharazmi_00015
+    21300030: tabloo kharazmi_00016
+    21300032: tabloo kharazmi_00017
+    21300034: tabloo kharazmi_00018
+    21300036: tabloo kharazmi_00019
+    21300038: tabloo kharazmi_00020
+    21300040: tabloo kharazmi_00021
+    21300042: tabloo kharazmi_00022
+    21300044: tabloo kharazmi_00023
+    21300046: tabloo kharazmi_00024
+    21300048: tabloo kharazmi_00025
+    21300050: tabloo kharazmi_00026
+    21300052: tabloo kharazmi_00027
+    21300054: tabloo kharazmi_00028
+    21300056: tabloo kharazmi_00029
+    21300058: tabloo kharazmi_00030
+    21300060: tabloo kharazmi_00031
+    21300062: tabloo kharazmi_00032
+    21300064: tabloo kharazmi_00033
+    21300066: tabloo kharazmi_00034
+    21300068: tabloo kharazmi_00035
+    21300070: tabloo kharazmi_00036
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tabloo kharazmi_00001
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1011
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 15.5, y: -9.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ab4d8647405d14dbe8d3955cea7b5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00002
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 997
+        width: 40
+        height: 26
+      alignment: 9
+      pivot: {x: 3.125, y: -4.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d204604f741d87f459b224f5765785d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00003
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 995
+        width: 41
+        height: 28
+      alignment: 9
+      pivot: {x: 3.097561, y: -3.6785715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97905b4b9b9e1a43997732ee5d45f77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00004
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 970
+        width: 37
+        height: 53
+      alignment: 9
+      pivot: {x: 3.3513513, y: -1.6226416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cee637b94b86442bd71cedb346f1fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00005
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 966
+        width: 57
+        height: 57
+      alignment: 9
+      pivot: {x: 2.1754386, y: -1.245614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fec4424f489cc5479a7205ff8a9f991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00006
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 950
+        width: 81
+        height: 73
+      alignment: 9
+      pivot: {x: 1.7037038, y: -0.7671233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f043fa69dace45489c36b821fab8a95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00007
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 909
+        width: 98
+        height: 114
+      alignment: 9
+      pivot: {x: 1.5, y: -0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2dcfce00543d84c9979df15c704365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00008
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 913
+        width: 92
+        height: 110
+      alignment: 9
+      pivot: {x: 1.3478261, y: -0.16363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ceeaa5a1ffdde47b405bdb05f9a763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00009
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 895
+        width: 108
+        height: 128
+      alignment: 9
+      pivot: {x: 1.1666666, y: -0.0078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33ffc56396cb2c4797874a0391ff513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 746
+        width: 119
+        height: 143
+      alignment: 9
+      pivot: {x: 1.0504202, y: 0.0979021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4fb7a9a8899dc49bc301f9482ea699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00011
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 734
+        width: 132
+        height: 155
+      alignment: 9
+      pivot: {x: 0.95454544, y: 0.16774194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222b594fe2f509b4ebfecd4f9483e2f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00012
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 564
+        width: 145
+        height: 163
+      alignment: 9
+      pivot: {x: 0.8689655, y: 0.21472393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c4d2e637fe70f4a84fb7e62da52a67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00013
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 388
+        width: 155
+        height: 174
+      alignment: 9
+      pivot: {x: 0.8, y: 0.25287357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782b9f0fe31eece48b795efe342c55c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 399
+        width: 182
+        height: 163
+      alignment: 9
+      pivot: {x: 0.7692308, y: 0.18404908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf38a642f231b004b9c81e6b0ceec4a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00015
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 566
+        width: 181
+        height: 161
+      alignment: 9
+      pivot: {x: 0.71270716, y: 0.19254659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fba1398877508448ae84791f95baa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00016
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 729
+        width: 179
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6592179, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba32b2b402aa8546a01ad1f4ce7f1ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00017
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 391
+        width: 191
+        height: 171
+      alignment: 9
+      pivot: {x: 0.58115184, y: 0.19298245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32c96001ae2126488ac950f94c12e0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00018
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 566
+        width: 175
+        height: 161
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.19254659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309d624eb1df0f240b2e757719ecd7af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00019
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 385
+        width: 172
+        height: 177
+      alignment: 9
+      pivot: {x: 0.49418604, y: 0.17514125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7762207758f4d42bc72e65a18b5422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00020
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 565
+        width: 170
+        height: 162
+      alignment: 9
+      pivot: {x: 0.42352942, y: 0.19135803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a968dab173703144697d7edd6ac8a7ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00021
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 729
+        width: 166
+        height: 160
+      alignment: 9
+      pivot: {x: 0.3554217, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dd93a75168e884e875be018a237e1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00022
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 564
+        width: 164
+        height: 163
+      alignment: 9
+      pivot: {x: 0.30487806, y: 0.20858896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c7af8f55d131c4795bfd6455e5e894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00023
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 386
+        width: 151
+        height: 176
+      alignment: 9
+      pivot: {x: 0.22516556, y: 0.19318181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26930521b6bd5cd4184b29b7fad57548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00024
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 730
+        width: 148
+        height: 159
+      alignment: 9
+      pivot: {x: 0.13513513, y: 0.18867925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9aa6cd7cb54c6943a55f7c077dd9d3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00025
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 730
+        width: 142
+        height: 159
+      alignment: 9
+      pivot: {x: 0.056338027, y: 0.19496855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e01da85f1cdbc4b87bb7aab8d8e2e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00026
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 566
+        width: 139
+        height: 161
+      alignment: 9
+      pivot: {x: -0.021582734, y: 0.19875777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579da46b649dea64eb01180da7c2bd55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00027
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 731
+        width: 108
+        height: 158
+      alignment: 9
+      pivot: {x: -0.14814815, y: 0.20886075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf7483bd2a65c24ea36990eb2a04122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00028
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 891
+        width: 104
+        height: 132
+      alignment: 9
+      pivot: {x: -0.35576922, y: 0.23484848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad403cdb33157b429bd098ae565e7e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00029
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 906
+        width: 75
+        height: 117
+      alignment: 9
+      pivot: {x: -0.6533333, y: 0.2735043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6101e6150cd456642892086a4c383a7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00030
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 935
+        width: 72
+        height: 88
+      alignment: 9
+      pivot: {x: -0.9027778, y: 0.35227272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ab49b241d206b43a49fcb535eca424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00031
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 948
+        width: 45
+        height: 75
+      alignment: 9
+      pivot: {x: -1.7555555, y: 0.41333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd82d85604f62146b2b494b591a8d87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00032
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 954
+        width: 29
+        height: 69
+      alignment: 9
+      pivot: {x: -3.275862, y: 0.68115944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6816f3d6ed546429e3b55e50ed870d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00033
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 966
+        width: 55
+        height: 57
+      alignment: 9
+      pivot: {x: -1.5454545, y: 1.0350877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea09e416988cff478999748387fc523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00034
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 981
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: -3.5925925, y: 1.2619047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cfab70fa907cf448c699ee9cb80515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00035
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1015
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: -15, y: 4.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9291f6bd577cd4eadaa23d5f28fb7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tabloo kharazmi_00036
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1022
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 160, y: -179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47db86957484204482d5e8e66e2f57d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f3c30bc9fe28d15419cf59b84dfb3b21
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

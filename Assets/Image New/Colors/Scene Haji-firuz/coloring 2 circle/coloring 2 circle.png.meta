@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: 7aa613c8c679bd8479ae180dc8104232
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: coloring 2 circle
+    21300002: coloring 2 circle_00001
+    21300004: coloring 2 circle_00002
+    21300006: coloring 2 circle_00003
+    21300008: coloring 2 circle_00004
+    21300010: coloring 2 circle_00005
+    21300012: coloring 2 circle_00006
+    21300014: coloring 2 circle_00007
+    21300016: coloring 2 circle_00008
+    21300018: coloring 2 circle_00009
+    21300020: coloring 2 circle_00010
+    21300022: coloring 2 circle_00011
+    21300024: coloring 2 circle_00012
+    21300026: coloring 2 circle_00013
+    21300028: coloring 2 circle_00014
+    21300030: coloring 2 circle_00015
+    21300032: coloring 2 circle_00016
+    21300034: coloring 2 circle_00017
+    21300036: coloring 2 circle_00018
+    21300038: coloring 2 circle_00019
+    21300040: coloring 2 circle_00020
+    21300042: coloring 2 circle_00021
+    21300044: coloring 2 circle_00022
+    21300046: coloring 2 circle_00023
+    21300048: coloring 2 circle_00024
+    21300050: coloring 2 circle_00025
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coloring 2 circle_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1585
+        width: 472
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f6a7732c6c50c4e8bee58050a1ee6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00002
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1583
+        width: 472
+        height: 464
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5021552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa0b1081c73dae48b10f75beab27f4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00003
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1584
+        width: 472
+        height: 463
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5010799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d113114cb1a7114780336851c3daf63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00004
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1584
+        width: 472
+        height: 463
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5010799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9826a2f1a397a8043826f2d191af40a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1118
+        width: 472
+        height: 463
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5010799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314e7b806b294aa45853b8948ba4e1fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00006
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1118
+        width: 472
+        height: 463
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5010799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e69a16882111a4d881691764dd38e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00007
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1118
+        width: 471
+        height: 463
+      alignment: 9
+      pivot: {x: 0.50106156, y: 0.5010799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201c1cbe76832114c8b50e849a44c870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00008
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1118
+        width: 470
+        height: 463
+      alignment: 9
+      pivot: {x: 0.50212765, y: 0.5010799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b0ee4287d6e8a4a9b7f943cd9c5c14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 653
+        width: 463
+        height: 463
+      alignment: 9
+      pivot: {x: 0.5097192, y: 0.5010799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c5f7ebade05dc4b9b4cd3c72d1593c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00010
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 653
+        width: 440
+        height: 463
+      alignment: 9
+      pivot: {x: 0.53636366, y: 0.5010799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760156f6b8d14214c85c39fcd3df5865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00011
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 653
+        width: 403
+        height: 463
+      alignment: 9
+      pivot: {x: 0.58560795, y: 0.5010799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c637f81eb805d514b91b0ddf7a89d4c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00012
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 653
+        width: 355
+        height: 463
+      alignment: 9
+      pivot: {x: 0.6647887, y: 0.5010799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fabe91dcdc04849b66a26e437ef738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00013
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 653
+        width: 285
+        height: 463
+      alignment: 9
+      pivot: {x: 0.82807016, y: 0.5010799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8906ce018b786994a9d56ca67b93084a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 187
+        width: 250
+        height: 464
+      alignment: 9
+      pivot: {x: 0.944, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a9a1ed2d631b547a063dec61d502a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00015
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 202
+        width: 250
+        height: 449
+      alignment: 9
+      pivot: {x: 0.944, y: 0.5167038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212ea70053b0afd4fa59a022b9248dac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00016
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 227
+        width: 250
+        height: 424
+      alignment: 9
+      pivot: {x: 0.944, y: 0.5471698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc351ee36dcf764dbdd48e7d81eee18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00017
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 284
+        width: 250
+        height: 367
+      alignment: 9
+      pivot: {x: 0.944, y: 0.6321526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f7253993b46cf449ca485d6f486eff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00018
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 341
+        width: 250
+        height: 310
+      alignment: 9
+      pivot: {x: 0.944, y: 0.7483871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06638691e56cb5f4a902bd688a93d255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00019
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 400
+        width: 252
+        height: 251
+      alignment: 9
+      pivot: {x: 0.9444444, y: 0.9243028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdb3b5ca2b713548bf3a58945460f84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00020
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 469
+        width: 238
+        height: 182
+      alignment: 9
+      pivot: {x: 0.9453781, y: 1.2747253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a28ea923add6543b5961db353ddd46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00021
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 506
+        width: 217
+        height: 145
+      alignment: 9
+      pivot: {x: 0.94009215, y: 1.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63bcd34126995249ac4249ab33f058c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00022
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 179
+        height: 103
+      alignment: 9
+      pivot: {x: 0.9162011, y: 2.252427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e374901adefe6a643ab654e6e65721e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00023
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 100
+        width: 157
+        height: 85
+      alignment: 9
+      pivot: {x: 0.91719747, y: 2.7294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bb44221ab4f854c8422195c6ea09cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00024
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 110
+        width: 115
+        height: 75
+      alignment: 9
+      pivot: {x: 0.8956522, y: 3.1866667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fe53816f25ff449bd9d2848ede9411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring 2 circle_00025
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 184
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 240, y: -239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2df45ff216dcf64cb4ef7b239d9fe6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 31c98739d3c7c5f46a691488e342cd6a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

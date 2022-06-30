@@ -1,0 +1,1292 @@
+fileFormatVersion: 2
+guid: 1166527ad81f46c449fb9f8cf4fc9bd5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: i have been here for six month_00001
+    21300002: i have been here for six month_00002
+    21300004: i have been here for six month_00003
+    21300006: i have been here for six month_00004
+    21300008: i have been here for six month_00005
+    21300010: i have been here for six month_00006
+    21300012: i have been here for six month_00007
+    21300014: i have been here for six month_00008
+    21300016: i have been here for six month_00009
+    21300018: i have been here for six month_00010
+    21300020: i have been here for six month_00011
+    21300022: i have been here for six month_00012
+    21300024: i have been here for six month_00013
+    21300026: i have been here for six month_00014
+    21300028: i have been here for six month_00015
+    21300030: i have been here for six month_00016
+    21300032: i have been here for six month_00017
+    21300034: i have been here for six month_00018
+    21300036: i have been here for six month_00019
+    21300038: i have been here for six month_00020
+    21300040: i have been here for six month_00021
+    21300042: i have been here for six month_00022
+    21300044: i have been here for six month_00023
+    21300046: i have been here for six month_00024
+    21300048: i have been here for six month_00025
+    21300050: i have been here for six month_00026
+    21300052: i have been here for six month_00027
+    21300054: i have been here for six month_00028
+    21300056: i have been here for six month_00029
+    21300058: i have been here for six month_00030
+    21300060: i have been here for six month_00031
+    21300062: i have been here for six month_00032
+    21300064: i have been here for six month_00033
+    21300066: i have been here for six month_00034
+    21300068: i have been here for six month_00035
+    21300070: i have been here for six month_00036
+    21300072: i have been here for six month_00037
+    21300074: i have been here for six month_00038
+    21300076: i have been here for six month_00039
+    21300078: i have been here for six month_00040
+    21300080: i have been here for six month_00041
+    21300082: i have been here for six month_00042
+    21300084: i have been here for six month_00043
+    21300086: i have been here for six month_00044
+    21300088: i have been here for six month_00045
+    21300090: i have been here for six month_00046
+    21300092: i have been here for six month_00047
+    21300094: i have been here for six month_00048
+    21300096: i have been here for six month_00049
+    21300098: i have been here for six month_00050
+    21300100: i have been here for six month_00051
+    21300102: i have been here for six month_00052
+    21300104: i have been here for six month_00053
+    21300106: i have been here for six month_00054
+    21300108: i have been here for six month_00055
+    21300110: i have been here for six month_00056
+    21300112: i have been here for six month_00057
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: i have been here for six month_00001
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6838673bf69c92141b83a4a8aea5a9dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00002
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 565
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c3515ade9f1df4e875dd27ad8c4fde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00003
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 565
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ac8412216775640babf7630b834067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00004
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 830
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6feded8430cb248ace7b0b8a32ef92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00005
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 830
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a51c36358d83d64999addc9d23c7af6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00006
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 830
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c795d46b91fd5ec4b8c3e5dd2dcb31fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00007
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 565
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1aa547cc8e5724384b9d80ed6b6746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 565
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ee2dccf63644b4498148fa12e6f68b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00009
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 895
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f232b56956f0644b1e726249e5e661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 830
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934995b48ffec684fb36081a8146c4da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00011
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6665c6d93c06005439590a8c135e7f8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00012
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8531f56a456f33140a3148ce85be3fe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00013
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb2e2c245d17ab42b0c6d8a807793fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00014
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75fcd0f2d1669648acbdb1d921483e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00015
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 960
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a28ead602a2aae4086feeec9d5ecc59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00016
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 565
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c9c45d69c2fb147ae90163479d38cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00017
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 565
+        width: 62
+        height: 64
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f978b2be3c5694ca80ef9993560fa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00018
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 895
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f125d5716620d3642bb6ae4a743b98e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00019
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 960
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cba3538efe11845aae44f5f0a64197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00020
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 960
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0881ff4aa85c01f43bdd210a185b9687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00021
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 499
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e230616fad26f4244b28f0260a2c09f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00022
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 499
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40e097fc9ad5124690222e384d29a58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00023
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 433
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144285a7280e54d4b87e08076060a80d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00024
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 499
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0df0ec8a1f157a43bcf88df7880dd67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00025
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 961
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b8b694c8cf67e4aa745e2f96bd1b8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00026
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 499
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4920635, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4277d5f039e7cf54bb462ebb8272b1fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00027
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 499
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b3c523d93a70c41b523b98e410c0f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00028
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 565
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6dcfa39fd1f9b4d8a4c2a4d1461e12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00029
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 631
+        width: 62
+        height: 64
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ebe9a2c5db95241b5d45043241fa54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00030
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 895
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ee56dd72dad044cb6c33ce7dca0b83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00031
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 895
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610c09d94b8420242ab2adc3c146e03d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00032
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 895
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91068cb8e08753643be917aa59278113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00033
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 895
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f236b7dde8f4a341879f06f162708dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00034
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 499
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396f0cc2c7b96a24daaf181220d40e70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00035
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 631
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b6e7d581573df4e8c54fe1bc0fc46a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00036
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 830
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee6ec4d9f0c1c843be9d20f1b5c16fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00037
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 763
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4920635, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b087bf5f0e535447ac3aa915f407d9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00038
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 829
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802a7a2fa124acf48ab4785ddb3b42d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00039
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 763
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6065447393cfaa4a97e456c9d25da34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00040
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 697
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c87f722fed1b0948a2aa3cdb79510ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00041
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 895
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b70c56f312e9047bc59c9bb3df050d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00042
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 697
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce5ef66d64361a41a6f11df9dbc2766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00043
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 960
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df169d766a35244ebca0e883c726543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00044
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 960
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92184e334742ed142925a02128d67952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00045
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 697
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fd3c91caa471148965f67dca4f909f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00046
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 960
+        width: 62
+        height: 63
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888a3d52fc68aa744b4c98c5ea939bc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00047
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 697
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4920635, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2649636ef99fa9a4294c19db7bfbe48f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00048
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 697
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece0ac47697bf8b498cc8c87c0e072bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00049
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 830
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f558f6fbe8ce94784292199968bef5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00050
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 763
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4920635, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae1aaa9d25e15e41b3c9fa470a715c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00051
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 763
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4784b36c7aa40ae4db24866c333903b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00052
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 697
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bb6a542cb3ea34487d6696c75eea28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00053
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 697
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2703e5d60c13e3d46898923dcf866a64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00054
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 763
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f41cd128dd1c5428c3d2780af2a6ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00055
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 763
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbc8ad65096c8b49810ca98fe3872c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00056
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 763
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95dee97d3e2e6f4796ab2fe850f0437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i have been here for six month_00057
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 499
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437567f1f1900e143b94b981cb16b3d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 710efdbdfd132d241b8a6b2d1830f4db
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

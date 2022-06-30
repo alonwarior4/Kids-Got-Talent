@@ -1,0 +1,956 @@
+fileFormatVersion: 2
+guid: 2546408e604f8534c8021c78bebe8a09
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: yes what about you_00001
+    21300002: yes what about you_00002
+    21300004: yes what about you_00003
+    21300006: yes what about you_00004
+    21300008: yes what about you_00005
+    21300010: yes what about you_00006
+    21300012: yes what about you_00007
+    21300014: yes what about you_00008
+    21300016: yes what about you_00009
+    21300018: yes what about you_00010
+    21300020: yes what about you_00011
+    21300022: yes what about you_00012
+    21300024: yes what about you_00013
+    21300026: yes what about you_00014
+    21300028: yes what about you_00015
+    21300030: yes what about you_00016
+    21300032: yes what about you_00017
+    21300034: yes what about you_00018
+    21300036: yes what about you_00019
+    21300038: yes what about you_00020
+    21300040: yes what about you_00021
+    21300042: yes what about you_00022
+    21300044: yes what about you_00023
+    21300046: yes what about you_00024
+    21300048: yes what about you_00025
+    21300050: yes what about you_00026
+    21300052: yes what about you_00027
+    21300054: yes what about you_00028
+    21300056: yes what about you_00029
+    21300058: yes what about you_00030
+    21300060: yes what about you_00031
+    21300062: yes what about you_00032
+    21300064: yes what about you_00033
+    21300066: yes what about you_00034
+    21300068: yes what about you_00035
+    21300070: yes what about you_00036
+    21300072: yes what about you_00037
+    21300074: yes what about you_00038
+    21300076: yes what about you_00039
+    21300078: yes what about you_00040
+    21300080: yes what about you_00041
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yes what about you_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 447
+        width: 62
+        height: 64
+      alignment: 9
+      pivot: {x: 1.6935484, y: -0.78125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc92fb9d91ab0446a45d42d34be9f3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 285
+        width: 58
+        height: 68
+      alignment: 9
+      pivot: {x: 1.7413793, y: -0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801bf195bc5cabd49a2ab6bbf238e9af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00003
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 456
+        width: 59
+        height: 55
+      alignment: 9
+      pivot: {x: 1.6271186, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332b8ded8f33fec4da3f6dcba33501af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00004
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 253
+        width: 57
+        height: 63
+      alignment: 9
+      pivot: {x: 1.754386, y: -0.8095238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58561f4c7780d9478bb6f59ab6ab19e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00005
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 259
+        width: 57
+        height: 68
+      alignment: 9
+      pivot: {x: 1.754386, y: -0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8705a18cbd3d65842930985faec62e7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 220
+        width: 57
+        height: 63
+      alignment: 9
+      pivot: {x: 1.754386, y: -0.8095238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f5206f84fec814cb2ce12e8927ea7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00007
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 157
+        width: 53
+        height: 48
+      alignment: 9
+      pivot: {x: 1.6981132, y: -1.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2716e98d10edc48428c4bcdd97c5b276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00008
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 264
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbee900862bf2843a9b5fc80896afdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00009
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 467
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54f9f6ed4c51e04bace3996a38dd10f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00010
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 467
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5867bb6a15aa0dd408bac6c118c0d4f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00011
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 5
+        width: 50
+        height: 48
+      alignment: 9
+      pivot: {x: 1.78, y: -1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c21ce967d9391542aa85142c093a66c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00012
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 421
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903b5b377645b824bb499f0ddf1a3c99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00013
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 410
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9c1efefc2bed544b8bdcdb71b722c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 401
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cd0a6439486d642b77b9aa3f296480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00015
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 421
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd62a7f5f03a2a49989607942ea0812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00016
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 375
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f989f0ca98962a4c8d0898802166bd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00017
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 364
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031af5e8e872d0d468ea35d09568720c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00018
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 52
+        height: 63
+      alignment: 9
+      pivot: {x: 1.8076923, y: -0.82539684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c088a16051ce44481c14f0dcdd7f22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00019
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 58
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9333333, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9a1d02c892ab24696e7a56ba5e07ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00020
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 149
+        width: 54
+        height: 62
+      alignment: 9
+      pivot: {x: 1.7777778, y: -0.83870965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dceb2ef7a0d7eb34c8414c60b4f8d3a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00021
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 310
+        width: 58
+        height: 63
+      alignment: 9
+      pivot: {x: 1.637931, y: -0.9206349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2892ef2994e8af44282d694e9c079768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00022
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 105
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee15087170b0eff468decb757cf96849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00023
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 61
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4ff4ca6609dc642bb7e638f600ebb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00024
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 218
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2545b277b8a1dff47a6d658d593ae17e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00025
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 355
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dd1ccd97ddf33488a484ed7cbe6ce5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00026
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 375
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d29c9977d7fdbc4d9324bb23dba8fa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00027
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 171
+        width: 56
+        height: 45
+      alignment: 9
+      pivot: {x: 1.625, y: -1.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1edf2626c3c29040a358f5564f69bda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00028
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 105
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc9b3e908af30543b98f24c9c45fde8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00029
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 213
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f361733972f96a42850a4b3f87f085f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00030
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 207
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63628da83cbf6604cbc1b5a0068c0251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00031
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 17
+        width: 43
+        height: 42
+      alignment: 9
+      pivot: {x: 2, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e604127378ef6194680f9da27de12d84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00032
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 102
+        width: 51
+        height: 53
+      alignment: 9
+      pivot: {x: 1.7058823, y: -1.0566038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5673dc85b076e3e4d93ecc975aa739a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00033
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 51
+        height: 52
+      alignment: 9
+      pivot: {x: 1.6862745, y: -1.0769231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6939d5ce4bf93864a80dbd8f1e9f973b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00034
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 49
+        height: 52
+      alignment: 9
+      pivot: {x: 1.8571428, y: -1.0576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342dcadc7d73d884bba2cccb83bcc10f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00035
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 58
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9333333, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e837745334ef14aa50536d1e51c45b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00036
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2
+        width: 48
+        height: 57
+      alignment: 9
+      pivot: {x: 1.875, y: -0.9649123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aed439a619aa30429fc7605bc64614b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00037
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 61
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191c05360ea4cbd46abb0bbb7ffa128b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00038
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 174
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b755ddf91f53de46b7a9ea797df86cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00039
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 329
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56477b732219764c907d7a73bce1d69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00040
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 50
+        height: 48
+      alignment: 9
+      pivot: {x: 1.78, y: -1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4f215e4de7ca541be2f2d986434a14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yes what about you_00041
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 318
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96758adb98d04a4bb2f2bf3c67faa4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3c610e88f0a861649af0623339eb9f05
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

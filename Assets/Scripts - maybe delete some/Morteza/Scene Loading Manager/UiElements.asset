@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0251a4377fe200d4d9d56132b4b2262d, type: 3}
+  m_Name: UiElements
+  m_EditorClassIdentifier: 
+  ColorUiImages:
+  - activeSprite: {fileID: 21300000, guid: 1aa9a9b54996c95418fb361126f6276e, type: 3}
+    inActiveSprite: {fileID: 21300000, guid: 8690c1cae5b1ce24da7a88c49651e2e4, type: 3}
+  - activeSprite: {fileID: 21300000, guid: 2671dd3b76c0303449c00c22cc1064b1, type: 3}
+    inActiveSprite: {fileID: 21300000, guid: 3ee66afa347631b47b8d18094ff0a75e, type: 3}
+  NumberUiImages:
+  - activeSprite: {fileID: 21300000, guid: 169d5998f4238cd41b875e6feb616f9a, type: 3}
+    inActiveSprite: {fileID: 21300000, guid: ba2a75c1af0c0bc4c9767b6862db3fe7, type: 3}
+  DialogueUiImages:
+  - activeSprite: {fileID: 21300000, guid: 5b6f2de247f6f3f4f842a22f3618fe8b, type: 3}
+    inActiveSprite: {fileID: 21300000, guid: b9a02b2a8b257c843a805014fabbfda3, type: 3}
+  - activeSprite: {fileID: 21300000, guid: 01d08ff06c963fe438b0a8d84ac86268, type: 3}
+    inActiveSprite: {fileID: 21300000, guid: 7ca217043795a454881ce9da314abdc2, type: 3}

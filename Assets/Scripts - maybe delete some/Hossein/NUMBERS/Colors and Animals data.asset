@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a562ad00f4f8e54a851ed7aa33cb623, type: 3}
+  m_Name: Colors and Animals data
+  m_EditorClassIdentifier: 
+  colorsdataBirds:
+  - indexColor: 0
+    Clip: {fileID: 8300000, guid: 5eb2570771b4a5746b76b83ef4cc2d5e, type: 3}
+  - indexColor: 1
+    Clip: {fileID: 8300000, guid: ec82c6613382d3c449cb7671babbef8b, type: 3}
+  - indexColor: 2
+    Clip: {fileID: 8300000, guid: 3a462c39eaba4fb4e9e4f8cc90e305f2, type: 3}
+  - indexColor: 3
+    Clip: {fileID: 8300000, guid: 2077715901032c24aa702e8b1a0d930e, type: 3}
+  - indexColor: 4
+    Clip: {fileID: 8300000, guid: 08825510092cb024c8bb2510ecdd2867, type: 3}
+  - indexColor: 5
+    Clip: {fileID: 8300000, guid: b4b47cc391d81c64eb07cea8c474ee3c, type: 3}
+  - indexColor: 6
+    Clip: {fileID: 8300000, guid: 77df37703b2300b45aeaf487d209803f, type: 3}
+  colorsdataSheeps:
+  - indexColor: 0
+    Clip: {fileID: 8300000, guid: 5eb2570771b4a5746b76b83ef4cc2d5e, type: 3}
+  - indexColor: 1
+    Clip: {fileID: 8300000, guid: 3a462c39eaba4fb4e9e4f8cc90e305f2, type: 3}
+  - indexColor: 2
+    Clip: {fileID: 8300000, guid: b4b47cc391d81c64eb07cea8c474ee3c, type: 3}
+  - indexColor: 3
+    Clip: {fileID: 8300000, guid: 77df37703b2300b45aeaf487d209803f, type: 3}
+  and: {fileID: 8300000, guid: 299089250a696be4780ff20f21f0479d, type: 3}
+  Birds: {fileID: 8300000, guid: f12ed3a6607e90447ab4a03c80d8e17f, type: 3}
+  Sheeps: {fileID: 8300000, guid: e6fc2e4f4ae48cd44b27b6abcf3e7f7a, type: 3}
+  bird: {fileID: 8300000, guid: 2cba3b5d9cede794198097ad7fa0cdde, type: 3}
+  sheep: {fileID: 8300000, guid: 47cb1545e3e07dd4ca8f3bafcab73eab, type: 3}

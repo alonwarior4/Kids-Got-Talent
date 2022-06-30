@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: f291d4240cf91c144aa4e4e14dce109a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hand Raise_00001
+    21300002: Hand Raise_00002
+    21300004: Hand Raise_00003
+    21300006: Hand Raise_00004
+    21300008: Hand Raise_00005
+    21300010: Hand Raise_00006
+    21300012: Hand Raise_00007
+    21300014: Hand Raise_00008
+    21300016: Hand Raise_00009
+    21300018: Hand Raise_00010
+    21300020: Hand Raise_00011
+    21300022: Hand Raise_00012
+    21300024: Hand Raise_00013
+    21300026: Hand Raise_00014
+    21300028: Hand Raise_00015
+    21300030: Hand Raise_00016
+    21300032: Hand Raise_00017
+    21300034: Hand Raise_00018
+    21300036: Hand Raise_00019
+    21300038: Hand Raise_00020
+    21300040: Hand Raise_00021
+    21300042: Hand Raise_00022
+    21300044: Hand Raise_00023
+    21300046: Hand Raise_00024
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hand Raise_00001
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1733
+        width: 231
+        height: 314
+      alignment: 9
+      pivot: {x: 0.5021645, y: 0.8121019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c210bd7088c3f847a553f9d59761fdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Raise_00002
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 567
+        width: 231
+        height: 314
+      alignment: 9
+      pivot: {x: 0.5021645, y: 0.8121019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafa713191db96b41aa33cb50ac65663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Raise_00003
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1342
+        width: 231
+        height: 316
+      alignment: 9
+      pivot: {x: 0.5021645, y: 0.806962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ab9d3618e16034c90fd282098395cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Raise_00004
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 883
+        width: 231
+        height: 322
+      alignment: 9
+      pivot: {x: 0.5021645, y: 0.7919255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eded5e1df071f040a1b1ddb6ee75694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Raise_00005
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 24
+        width: 231
+        height: 333
+      alignment: 9
+      pivot: {x: 0.5021645, y: 0.7657658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97401ec69650f364eb57a856ef1e2b30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Raise_00006
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 13
+        width: 231
+        height: 344
+      alignment: 9
+      pivot: {x: 0.5021645, y: 0.74127907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2e34f3e6ed2d64a949a9c17ae30db4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Raise_00007
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 2
+        width: 231
+        height: 355
+      alignment: 9
+      pivot: {x: 0.5021645, y: 0.7183099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32fb92f01d79264dadc4bb79ab5ba04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Raise_00008
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 359
+        width: 231
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5021645, y: 0.6836461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfd058e0a718464fa4827007db6c216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Raise_00009
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 359
+        width: 232
+        height: 373
+      alignment: 9
+      pivot: {x: 0.50431037, y: 0.6836461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0220c54a9d823aa4c92a485d380eb433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Raise_00010
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1660
+        width: 233
+        height: 387
+      alignment: 9
+      pivot: {x: 0.49785408, y: 0.65891474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916b336db5090ab409ad6a55e9f1f7c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Raise_00011
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1207
+        width: 236
+        height: 409
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0.62347186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb5c0f9bc0bbf746b476ca8d2d6325e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Raise_00012
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 734
+        width: 241
+        height: 409
+      alignment: 9
+      pivot: {x: 0.4813278, y: 0.62347186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041bc3812de134d419899025813b136a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Raise_00013
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1618
+        width: 241
+        height: 429
+      alignment: 9
+      pivot: {x: 0.4813278, y: 0.5944056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6523b1d5fd057cd429abeb25fd49785e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Raise_00014
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 261
+        width: 238
+        height: 423
+      alignment: 9
+      pivot: {x: 0.48739496, y: 0.6028369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d8736c6c060b849ae5e310d22b276f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Raise_00015
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 686
+        width: 238
+        height: 440
+      alignment: 9
+      pivot: {x: 0.48739496, y: 0.57954544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d02eec67289a9f49b7c3c6a663f760c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Raise_00016
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1145
+        width: 238
+        height: 438
+      alignment: 9
+      pivot: {x: 0.48739496, y: 0.58219177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ea1e9efa9b8ad4c9cf6e5f922b7fc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Raise_00017
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 195
+        width: 248
+        height: 450
+      alignment: 9
+      pivot: {x: 0.46774194, y: 0.56666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc21aaee385a4064b9af98d9f1d9147b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Raise_00018
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 647
+        width: 250
+        height: 456
+      alignment: 9
+      pivot: {x: 0.464, y: 0.55921054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97493161a1afc6b438c8acc70320bccd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Raise_00019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 644
+        width: 259
+        height: 459
+      alignment: 9
+      pivot: {x: 0.44787645, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00f52b87afd9e34e8a6ffabd41d5f7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Raise_00020
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1128
+        width: 262
+        height: 455
+      alignment: 9
+      pivot: {x: 0.4427481, y: 0.5604396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c34549d2f611a41b6e4b94d6314d8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Raise_00021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 186
+        width: 266
+        height: 456
+      alignment: 9
+      pivot: {x: 0.43609023, y: 0.55921054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f61d45e2fbb094bb46a8a6d2436a30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Raise_00022
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1105
+        width: 278
+        height: 463
+      alignment: 9
+      pivot: {x: 0.4172662, y: 0.5507559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0bc34606e306e4784a404f99522b95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Raise_00023
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1570
+        width: 277
+        height: 477
+      alignment: 9
+      pivot: {x: 0.41877255, y: 0.5345912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab7335e09a95004291c3fc1b9931a06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Raise_00024
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1585
+        width: 278
+        height: 462
+      alignment: 9
+      pivot: {x: 0.4172662, y: 0.5519481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b480ae36f643e4d4a85de1b54726d900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ffd5d7aa3e4d44446b6b80d944d20e36
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 99fdf37ff3a422e4380f67506103df19
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: coloring jelighe chap
+    21300002: colorin jelighe chap_00001
+    21300004: colorin jelighe chap_00002
+    21300006: colorin jelighe chap_00003
+    21300008: colorin jelighe chap_00004
+    21300010: colorin jelighe chap_00005
+    21300012: colorin jelighe chap_00006
+    21300014: colorin jelighe chap_00007
+    21300016: colorin jelighe chap_00008
+    21300018: colorin jelighe chap_00009
+    21300020: colorin jelighe chap_00010
+    21300022: colorin jelighe chap_00011
+    21300024: colorin jelighe chap_00012
+    21300026: colorin jelighe chap_00013
+    21300028: colorin jelighe chap_00014
+    21300030: colorin jelighe chap_00015
+    21300032: colorin jelighe chap_00016
+    21300034: colorin jelighe chap_00017
+    21300036: colorin jelighe chap_00018
+    21300038: colorin jelighe chap_00019
+    21300040: colorin jelighe chap_00020
+    21300042: colorin jelighe chap_00021
+    21300044: colorin jelighe chap_00022
+    21300046: colorin jelighe chap_00023
+    21300048: colorin jelighe chap_00024
+    21300050: colorin jelighe chap_00025
+    21300052: colorin jelighe chap_00026
+    21300054: colorin jelighe chap_00027
+    21300056: colorin jelighe chap_00028
+    21300058: colorin jelighe chap_00029
+    21300060: colorin jelighe chap_00030
+    21300062: colorin jelighe chap_00031
+    21300064: colorin jelighe chap_00032
+    21300066: colorin jelighe chap_00033
+    21300068: colorin jelighe chap_00034
+    21300070: colorin jelighe chap_00035
+    21300072: colorin jelighe chap_00036
+    21300074: colorin jelighe chap_00037
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: colorin jelighe chap_00001
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1538
+        width: 180
+        height: 509
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.4990177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e717ca49c88984494a51ce24635c61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1035
+        width: 180
+        height: 509
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.4990177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d81591fd965d42458541c5611b0bda6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00003
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1538
+        width: 180
+        height: 509
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.4990177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f0efd121144b047bc0fd5b369f85d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1546
+        width: 182
+        height: 501
+      alignment: 9
+      pivot: {x: 0.51648355, y: 0.506986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8926f92d110b744b51bc6931c4dcb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00005
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 684
+        width: 171
+        height: 483
+      alignment: 9
+      pivot: {x: 0.4853801, y: 0.5258799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8553204cc0a7cb346a92030d38f72bed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00006
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 549
+        width: 171
+        height: 466
+      alignment: 9
+      pivot: {x: 0.4853801, y: 0.5450644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83649d36b6b942c4793983d01d6a46c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00007
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 565
+        width: 171
+        height: 448
+      alignment: 9
+      pivot: {x: 0.4853801, y: 0.56696427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11e37212e36197488878e1f93307113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 361
+        width: 171
+        height: 430
+      alignment: 9
+      pivot: {x: 0.4853801, y: 0.59069765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbc6751f58aaaa439625aab56e94601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00009
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 155
+        width: 171
+        height: 408
+      alignment: 9
+      pivot: {x: 0.4853801, y: 0.622549}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc32c88c4fd79d4ca23f2a90def61ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00010
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1467
+        width: 173
+        height: 391
+      alignment: 9
+      pivot: {x: 0.47976878, y: 0.64961636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43667f735626e1b43a3d5e6ed9e268a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00011
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 174
+        width: 171
+        height: 373
+      alignment: 9
+      pivot: {x: 0.4853801, y: 0.6809651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2b4e8445a93bf4dba5ad615759e389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00012
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1431
+        width: 173
+        height: 354
+      alignment: 9
+      pivot: {x: 0.47976878, y: 0.7175141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bf788c0f94ff741888b023f940de25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00013
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1130
+        width: 173
+        height: 335
+      alignment: 9
+      pivot: {x: 0.47976878, y: 0.75820893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69afe9309438bc84bb369332594418d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 171
+        height: 312
+      alignment: 9
+      pivot: {x: 0.4853801, y: 0.8141026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b24c126f5347c141b7603453d06212c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00015
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1222
+        width: 173
+        height: 314
+      alignment: 9
+      pivot: {x: 0.47976878, y: 0.8089172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5fd681e7e3cda408d2788a102e1cb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00016
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1239
+        width: 173
+        height: 297
+      alignment: 9
+      pivot: {x: 0.47976878, y: 0.8552188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c928ae5148c18242804914bd29670ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00017
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 271
+        width: 171
+        height: 276
+      alignment: 9
+      pivot: {x: 0.4853801, y: 0.9202899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066062d17b2d03645a4969b19629d0ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00018
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1169
+        width: 173
+        height: 260
+      alignment: 9
+      pivot: {x: 0.47976878, y: 0.97692305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3034bd6a57879624ba87be3bb7dc3c1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 793
+        width: 172
+        height: 240
+      alignment: 9
+      pivot: {x: 0.47674417, y: 1.0583333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3cec7ff68837842a441756f01180eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00020
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 890
+        width: 170
+        height: 238
+      alignment: 9
+      pivot: {x: 0.48235294, y: 1.0672269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b152ac20406e7544490262b00a71dcbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00021
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1017
+        width: 173
+        height: 220
+      alignment: 9
+      pivot: {x: 0.47976878, y: 1.1545454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a48d080090f4bb428de18b9aea2f94c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00022
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1015
+        width: 173
+        height: 205
+      alignment: 9
+      pivot: {x: 0.47976878, y: 1.2390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cca66ba7c74f548be282620af7c37e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00023
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 3
+        width: 169
+        height: 184
+      alignment: 9
+      pivot: {x: 0.49112427, y: 1.3804348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b52da73c95aa5408b2e85bef80f339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00024
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1860
+        width: 174
+        height: 187
+      alignment: 9
+      pivot: {x: 0.4770115, y: 1.3636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ab3d9edcfc6bf49a866073c55fe529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00025
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 4
+        width: 169
+        height: 168
+      alignment: 9
+      pivot: {x: 0.49112427, y: 1.5119047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2994f9aa6940f304c83015f1051022f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00026
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 6
+        width: 169
+        height: 147
+      alignment: 9
+      pivot: {x: 0.49112427, y: 1.7278912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37b743ce17fae94494680a7ab85adf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00027
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1900
+        width: 175
+        height: 147
+      alignment: 9
+      pivot: {x: 0.47428572, y: 1.7346939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11c4004dc73db54fa9a280de577c7b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00028
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 22
+        width: 169
+        height: 131
+      alignment: 9
+      pivot: {x: 0.49112427, y: 1.9389313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91060c54f77ee8147a9eaa2a8a6123e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00029
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 777
+        width: 170
+        height: 111
+      alignment: 9
+      pivot: {x: 0.48235294, y: 2.2882884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e689ec62e35684ca678f04287a99f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00030
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1787
+        width: 174
+        height: 111
+      alignment: 9
+      pivot: {x: 0.49425286, y: 2.2882884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e648259d534ae347a3ee317bde0dd71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00031
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 176
+        width: 163
+        height: 93
+      alignment: 9
+      pivot: {x: 0.47239265, y: 2.7311828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca53889d413de164196db78579ebb3b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00032
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 696
+        width: 167
+        height: 79
+      alignment: 9
+      pivot: {x: 0.46107784, y: 3.21519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a699692fbbe9cfa48a6d199b63f0aac0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00033
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 189
+        width: 154
+        height: 80
+      alignment: 9
+      pivot: {x: 0.41558442, y: 3.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd045499f2a34924f89e4190c49019db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00034
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1066
+        width: 133
+        height: 62
+      alignment: 9
+      pivot: {x: 0.33082706, y: 4.096774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c680377988b251542b5b44ccc8557451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00035
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 2003
+        width: 116
+        height: 44
+      alignment: 9
+      pivot: {x: 0.25862068, y: 5.7727275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9320548639bd83a4582c20c9dcdb5cf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00036
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1976
+        width: 59
+        height: 25
+      alignment: 9
+      pivot: {x: -0.42372882, y: 10.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d29cd142e754745883353b92cbf02e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorin jelighe chap_00037
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2046
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 96, y: -255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793ca72324f1df747bedfd0d29e2bc4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6b1603aaf6c256b4abcbc479798e1f26
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

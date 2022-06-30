@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49caf15c4c6cb424ea888cc96692f6d0, type: 3}
+  m_Name: CA_Info Fruits
+  m_EditorClassIdentifier: 
+  ObjectsType: 6
+  Objects:
+  - Name: 
+    Sp: {fileID: 21300000, guid: 9859a9646aa152445ba85628b8a154d5, type: 3}
+    nameSound: {fileID: 8300000, guid: c0efedd8e3c9f674db4adccc0dfac08a, type: 3}
+    Choosed: 0
+  - Name: 
+    Sp: {fileID: 21300002, guid: 9859a9646aa152445ba85628b8a154d5, type: 3}
+    nameSound: {fileID: 8300000, guid: 4880879eecf79494b95e8c8d10863f5f, type: 3}
+    Choosed: 0
+  - Name: 
+    Sp: {fileID: 21300004, guid: 9859a9646aa152445ba85628b8a154d5, type: 3}
+    nameSound: {fileID: 8300000, guid: cd884e4cd91a9394dade6f679d6d4872, type: 3}
+    Choosed: 0
+  - Name: 
+    Sp: {fileID: 21300006, guid: 9859a9646aa152445ba85628b8a154d5, type: 3}
+    nameSound: {fileID: 8300000, guid: 2ec5bf892af69714f891e12092cc6a70, type: 3}
+    Choosed: 0
+  - Name: 
+    Sp: {fileID: 21300008, guid: 9859a9646aa152445ba85628b8a154d5, type: 3}
+    nameSound: {fileID: 8300000, guid: e42973d50eff81247ad02a9f0c8833bc, type: 3}
+    Choosed: 0
+  - Name: 
+    Sp: {fileID: 21300010, guid: 9859a9646aa152445ba85628b8a154d5, type: 3}
+    nameSound: {fileID: 8300000, guid: 4fd0934e535bdf74591920effdf39763, type: 3}
+    Choosed: 0
+  - Name: 
+    Sp: {fileID: 21300012, guid: 9859a9646aa152445ba85628b8a154d5, type: 3}
+    nameSound: {fileID: 8300000, guid: 437e111421f98e94ca885fb0621b0d03, type: 3}
+    Choosed: 0
+  - Name: 
+    Sp: {fileID: 21300014, guid: 9859a9646aa152445ba85628b8a154d5, type: 3}
+    nameSound: {fileID: 8300000, guid: 8c1b73d1ed493494c8d3b771917252af, type: 3}
+    Choosed: 0
+  - Name: 
+    Sp: {fileID: 21300016, guid: 9859a9646aa152445ba85628b8a154d5, type: 3}
+    nameSound: {fileID: 8300000, guid: 1f306c81ab2464448858b8fd4cb9107e, type: 3}
+    Choosed: 0
+  - Name: 
+    Sp: {fileID: 21300018, guid: 9859a9646aa152445ba85628b8a154d5, type: 3}
+    nameSound: {fileID: 8300000, guid: 2a4ddbc240dfa4247b162f773baac9e3, type: 3}
+    Choosed: 0
+  - Name: 
+    Sp: {fileID: 21300020, guid: 9859a9646aa152445ba85628b8a154d5, type: 3}
+    nameSound: {fileID: 8300000, guid: 42ed4333c216ef240999b811472e1626, type: 3}
+    Choosed: 0
+  - Name: 
+    Sp: {fileID: 21300022, guid: 9859a9646aa152445ba85628b8a154d5, type: 3}
+    nameSound: {fileID: 8300000, guid: 8517a8d9cd854fe498fbab940ecbe58a, type: 3}
+    Choosed: 0
+  - Name: 
+    Sp: {fileID: 21300024, guid: 9859a9646aa152445ba85628b8a154d5, type: 3}
+    nameSound: {fileID: 8300000, guid: ddf4ef4145c40374a8f19f80f73fcc5f, type: 3}
+    Choosed: 0
+  - Name: 
+    Sp: {fileID: 21300026, guid: 9859a9646aa152445ba85628b8a154d5, type: 3}
+    nameSound: {fileID: 8300000, guid: b153baf5ee203a74b8ffa11aa621dad0, type: 3}
+    Choosed: 0

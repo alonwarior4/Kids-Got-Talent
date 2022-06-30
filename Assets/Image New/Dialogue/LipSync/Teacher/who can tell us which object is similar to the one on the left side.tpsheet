@@ -1,0 +1,127 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:c9e1ebf146a149624aaeaa4d7ca04fd8:b98a93907729351381b3eec498211641:2e1f5cc164cfc44fb8db180d6363a6ff$
+#
+:format=40300
+:texture=who can tell us which object is similar to the one on the left side.png
+:size=512x512
+:pivotpoints=enabled
+:borders=disabled
+
+who can tell us which object is similar to the one on the left side_00001;1;190;40;35; 1.025;-2.8285714285714287; 0;0;0;0; 4;40;0;0;0;0;35;40;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00002;1;1;40;35; 1.025;-2.8285714285714287; 0;0;0;0; 4;40;0;0;0;0;35;40;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00003;43;190;40;35; 1.025;-2.8285714285714287; 0;0;0;0; 4;40;0;0;0;0;35;40;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00004;167;42;39;35; 1.0512820512820513;-2.8285714285714287; 0;0;0;0; 4;39;0;0;0;0;35;39;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00005;169;5;39;35; 1.0512820512820513;-2.8285714285714287; 0;0;0;0; 4;39;0;0;0;0;35;39;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00006;210;227;39;35; 1.0512820512820513;-2.8285714285714287; 0;0;0;0; 4;39;0;0;0;0;35;39;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00007;96;425;44;42; 1.0454545454545454;-2.238095238095238; 0;0;0;0; 4;44;14;12;0;0;40;44;42; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00008;429;266;40;36; 1.025;-2.7222222222222223; 0;0;0;0; 4;40;0;0;0;0;36;40;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00009;324;383;40;38; 1.025;-2.526315789473684; 0;0;0;0; 4;40;0;0;0;0;38;40;38; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00010;48;383;44;42; 1.0454545454545454;-2.238095238095238; 0;0;0;0; 4;44;14;12;0;0;40;44;42; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00011;169;227;39;35; 1.0512820512820513;-2.8285714285714287; 0;0;0;0; 4;39;0;0;0;0;35;39;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00012;337;468;45;43; 1.0222222222222221;-2.1627906976744184; 0;0;0;0; 4;45;15;13;0;0;41;45;43; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00013;471;266;40;36; 1.025;-2.7222222222222223; 0;0;0;0; 4;40;0;0;0;0;36;40;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00014;49;469;46;42; 1;-2.238095238095238; 0;0;0;0; 4;46;11;12;0;0;40;44;42; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00015;429;228;40;36; 1.025;-2.7222222222222223; 0;0;0;0; 4;40;0;0;0;0;36;40;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00016;43;38;39;36; 1.0512820512820513;-2.7222222222222223; 0;0;0;0; 4;39;0;0;0;0;36;39;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00017;84;38;39;36; 1.0512820512820513;-2.7222222222222223; 0;0;0;0; 4;39;0;0;0;0;36;39;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00018;261;342;40;37; 1.025;-2.6216216216216215; 0;0;0;0; 4;40;0;0;0;0;37;40;37; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00019;366;383;40;38; 1.025;-2.526315789473684; 0;0;0;0; 4;40;0;0;0;0;38;40;38; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00020;303;304;40;37; 1.025;-2.6216216216216215; 0;0;0;0; 4;40;0;0;0;0;37;40;37; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00021;471;228;40;36; 1.025;-2.7222222222222223; 0;0;0;0; 4;40;0;0;0;0;36;40;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00022;1;382;44;42; 1.0454545454545454;-2.238095238095238; 0;0;0;0; 4;44;14;12;0;0;40;44;42; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00023;142;425;44;42; 1.0454545454545454;-2.238095238095238; 0;0;0;0; 4;44;14;12;0;0;40;44;42; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00024;251;227;39;35; 1.0512820512820513;-2.8285714285714287; 0;0;0;0; 4;39;0;0;0;0;35;39;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00025;168;153;39;35; 1.0512820512820513;-2.8285714285714287; 0;0;0;0; 4;39;0;0;0;0;35;39;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00026;169;190;39;35; 1.0512820512820513;-2.8285714285714287; 0;0;0;0; 4;39;0;0;0;0;35;39;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00027;303;227;40;36; 1.025;-2.7222222222222223; 0;0;0;0; 4;40;0;0;0;0;36;40;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00028;408;344;40;38; 1.025;-2.526315789473684; 0;0;0;0; 4;40;0;0;0;0;38;40;38; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00029;261;303;40;37; 1.025;-2.6216216216216215; 0;0;0;0; 4;40;0;0;0;0;37;40;37; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00030;345;227;40;36; 1.025;-2.7222222222222223; 0;0;0;0; 4;40;0;0;0;0;36;40;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00031;188;425;44;42; 1.0454545454545454;-2.238095238095238; 0;0;0;0; 4;44;14;12;0;0;40;44;42; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00032;387;227;40;36; 1.025;-2.7222222222222223; 0;0;0;0; 4;40;0;0;0;0;36;40;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00033;450;344;40;38; 1.025;-2.526315789473684; 0;0;0;0; 4;40;0;0;0;0;38;40;38; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00034;429;190;40;36; 1.025;-2.7222222222222223; 0;0;0;0; 4;40;0;0;0;0;36;40;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00035;43;1;40;35; 1.025;-2.8285714285714287; 0;0;0;0; 4;40;0;0;0;0;35;40;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00036;85;1;40;35; 1.025;-2.8285714285714287; 0;0;0;0; 4;40;0;0;0;0;35;40;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00037;289;470;46;41; 1;-2.317073170731707; 0;0;0;0; 4;46;8;13;0;0;39;43;41; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00038;97;469;46;42; 1;-2.238095238095238; 0;0;0;0; 4;46;11;12;0;0;40;44;42; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00039;289;425;45;43; 1.0222222222222221;-2.1627906976744184; 0;0;0;0; 4;45;15;13;0;0;41;45;43; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00040;234;425;44;42; 1.0454545454545454;-2.238095238095238; 0;0;0;0; 4;44;14;12;0;0;40;44;42; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00041;471;190;40;36; 1.025;-2.7222222222222223; 0;0;0;0; 4;40;0;0;0;0;36;40;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00042;345;304;40;37; 1.025;-2.6216216216216215; 0;0;0;0; 4;40;0;0;0;0;37;40;37; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00043;324;343;40;38; 1.025;-2.526315789473684; 0;0;0;0; 4;40;0;0;0;0;38;40;38; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00044;93;302;40;37; 1.025;-2.6216216216216215; 0;0;0;0; 4;40;0;0;0;0;37;40;37; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00045;89;264;40;36; 1.025;-2.7222222222222223; 0;0;0;0; 4;40;0;0;0;0;36;40;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00046;94;381;44;42; 1.0454545454545454;-2.238095238095238; 0;0;0;0; 4;44;14;12;0;0;40;44;42; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00047;43;262;40;36; 1.025;-2.7222222222222223; 0;0;0;0; 4;40;0;0;0;0;36;40;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00048;47;300;40;37; 1.025;-2.6216216216216215; 0;0;0;0; 4;40;0;0;0;0;37;40;37; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00049;366;343;40;38; 1.025;-2.526315789473684; 0;0;0;0; 4;40;0;0;0;0;38;40;38; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00050;1;261;40;36; 1.025;-2.7222222222222223; 0;0;0;0; 4;40;0;0;0;0;36;40;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00051;85;190;40;35; 1.025;-2.8285714285714287; 0;0;0;0; 4;40;0;0;0;0;35;40;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00052;85;227;40;35; 1.025;-2.8285714285714287; 0;0;0;0; 4;40;0;0;0;0;35;40;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00053;408;304;40;38; 1.025;-2.526315789473684; 0;0;0;0; 4;40;0;0;0;0;38;40;38; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00054;1;299;40;37; 1.025;-2.6216216216216215; 0;0;0;0; 4;40;0;0;0;0;37;40;37; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00055;85;152;39;36; 1.0512820512820513;-2.7222222222222223; 0;0;0;0; 4;39;0;0;0;0;36;39;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00056;145;469;46;42; 1;-2.238095238095238; 0;0;0;0; 4;46;11;12;0;0;40;44;42; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00057;384;468;45;43; 1.0222222222222221;-2.1627906976744184; 0;0;0;0; 4;45;15;13;0;0;41;45;43; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00058;47;339;44;42; 1.0454545454545454;-2.238095238095238; 0;0;0;0; 4;44;14;12;0;0;40;44;42; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00059;168;116;39;35; 1.0512820512820513;-2.8285714285714287; 0;0;0;0; 4;39;0;0;0;0;35;39;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00060;168;79;39;35; 1.0512820512820513;-2.8285714285714287; 0;0;0;0; 4;39;0;0;0;0;35;39;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00061;208;42;39;35; 1.0512820512820513;-2.8285714285714287; 0;0;0;0; 4;39;0;0;0;0;35;39;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00062;1;338;44;42; 1.0454545454545454;-2.238095238095238; 0;0;0;0; 4;44;14;12;0;0;40;44;42; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00063;131;264;40;36; 1.025;-2.7222222222222223; 0;0;0;0; 4;40;0;0;0;0;36;40;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00064;450;304;40;38; 1.025;-2.526315789473684; 0;0;0;0; 4;40;0;0;0;0;38;40;38; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00065;173;264;40;36; 1.025;-2.7222222222222223; 0;0;0;0; 4;40;0;0;0;0;36;40;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00066;210;5;39;35; 1.0512820512820513;-2.8285714285714287; 0;0;0;0; 4;39;0;0;0;0;35;39;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00067;215;264;40;36; 1.025;-2.7222222222222223; 0;0;0;0; 4;40;0;0;0;0;36;40;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00068;135;302;40;37; 1.025;-2.6216216216216215; 0;0;0;0; 4;40;0;0;0;0;37;40;37; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00069;93;341;40;38; 1.025;-2.526315789473684; 0;0;0;0; 4;40;0;0;0;0;38;40;38; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00070;177;302;40;37; 1.025;-2.6216216216216215; 0;0;0;0; 4;40;0;0;0;0;37;40;37; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00071;1;152;40;36; 1.025;-2.7222222222222223; 0;0;0;0; 4;40;0;0;0;0;36;40;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00072;209;153;39;35; 1.0512820512820513;-2.8285714285714287; 0;0;0;0; 4;39;0;0;0;0;35;39;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00073;140;381;44;42; 1.0454545454545454;-2.238095238095238; 0;0;0;0; 4;44;14;12;0;0;40;44;42; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00074;1;114;40;36; 1.025;-2.7222222222222223; 0;0;0;0; 4;40;0;0;0;0;36;40;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00075;219;302;40;37; 1.025;-2.6216216216216215; 0;0;0;0; 4;40;0;0;0;0;37;40;37; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00076;135;341;40;38; 1.025;-2.526315789473684; 0;0;0;0; 4;40;0;0;0;0;38;40;38; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00077;303;265;40;37; 1.025;-2.6216216216216215; 0;0;0;0; 4;40;0;0;0;0;37;40;37; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00078;1;76;40;36; 1.025;-2.7222222222222223; 0;0;0;0; 4;40;0;0;0;0;36;40;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00079;210;190;39;35; 1.0512820512820513;-2.8285714285714287; 0;0;0;0; 4;39;0;0;0;0;35;39;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00080;186;381;44;42; 1.0454545454545454;-2.238095238095238; 0;0;0;0; 4;44;14;12;0;0;40;44;42; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00081;209;116;39;35; 1.0512820512820513;-2.8285714285714287; 0;0;0;0; 4;39;0;0;0;0;35;39;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00082;1;38;40;36; 1.025;-2.7222222222222223; 0;0;0;0; 4;40;0;0;0;0;36;40;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00083;261;264;40;37; 1.025;-2.6216216216216215; 0;0;0;0; 4;40;0;0;0;0;37;40;37; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00084;177;341;40;38; 1.025;-2.526315789473684; 0;0;0;0; 4;40;0;0;0;0;38;40;38; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00085;345;265;40;37; 1.025;-2.6216216216216215; 0;0;0;0; 4;40;0;0;0;0;37;40;37; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00086;85;114;39;36; 1.0512820512820513;-2.7222222222222223; 0;0;0;0; 4;39;0;0;0;0;36;39;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00087;85;76;39;36; 1.0512820512820513;-2.7222222222222223; 0;0;0;0; 4;39;0;0;0;0;36;39;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00088;43;152;40;36; 1.025;-2.7222222222222223; 0;0;0;0; 4;40;0;0;0;0;36;40;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00089;193;469;46;42; 1;-2.238095238095238; 0;0;0;0; 4;46;11;12;0;0;40;44;42; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00090;125;39;40;35; 1.025;-2.8285714285714287; 0;0;0;0; 4;40;0;0;0;0;35;40;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00091;430;426;45;40; 1.0444444444444445;-2.4; 0;0;0;0; 4;45;12;15;0;0;38;45;40; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00092;430;384;45;40; 1.0444444444444445;-2.4; 0;0;0;0; 4;45;12;15;0;0;38;45;40; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00093;49;427;45;40; 1.0444444444444445;-2.4; 0;0;0;0; 4;45;12;15;0;0;38;45;40; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00094;1;426;45;40; 1.0444444444444445;-2.4; 0;0;0;0; 4;45;12;15;0;0;38;45;40; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00095;232;381;44;42; 1.0454545454545454;-2.238095238095238; 0;0;0;0; 4;44;14;12;0;0;40;44;42; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00096;209;79;39;35; 1.0512820512820513;-2.8285714285714287; 0;0;0;0; 4;39;0;0;0;0;35;39;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00097;43;114;40;36; 1.025;-2.7222222222222223; 0;0;0;0; 4;40;0;0;0;0;36;40;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00098;387;265;40;37; 1.025;-2.6216216216216215; 0;0;0;0; 4;40;0;0;0;0;37;40;37; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00099;219;341;40;38; 1.025;-2.526315789473684; 0;0;0;0; 4;40;0;0;0;0;38;40;38; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00100;431;468;45;43; 1.0222222222222221;-2.1627906976744184; 0;0;0;0; 4;45;9;13;0;0;41;45;43; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00101;1;468;46;43; 1;-2.1627906976744184; 0;0;0;0; 4;46;10;13;0;0;41;43;43; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00102;336;423;45;43; 1.0222222222222221;-2.1627906976744184; 0;0;0;0; 4;45;12;14;0;0;41;45;43; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00103;241;469;46;42; 1;-2.238095238095238; 0;0;0;0; 4;46;11;12;0;0;40;44;42; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00104;43;76;40;36; 1.025;-2.7222222222222223; 0;0;0;0; 4;40;0;0;0;0;36;40;36; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00105;383;423;45;43; 1.0222222222222221;-2.1627906976744184; 0;0;0;0; 4;45;15;13;0;0;41;45;43; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00106;249;42;39;35; 1.0512820512820513;-2.8285714285714287; 0;0;0;0; 4;39;0;0;0;0;35;39;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00107;278;381;44;42; 1.0454545454545454;-2.238095238095238; 0;0;0;0; 4;44;14;12;0;0;40;44;42; 2;0;2;3;0;1;2
+who can tell us which object is similar to the one on the left side_00108;127;2;40;35; 1.025;-2.8285714285714287; 0;0;0;0; 4;40;0;0;0;0;35;40;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00109;126;153;40;35; 1.025;-2.8285714285714287; 0;0;0;0; 4;40;0;0;0;0;35;40;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00110;127;190;40;35; 1.025;-2.8285714285714287; 0;0;0;0; 4;40;0;0;0;0;35;40;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00111;127;227;40;35; 1.025;-2.8285714285714287; 0;0;0;0; 4;40;0;0;0;0;35;40;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00112;126;116;40;35; 1.025;-2.8285714285714287; 0;0;0;0; 4;40;0;0;0;0;35;40;35; 2;1;2;3;0;1;3
+who can tell us which object is similar to the one on the left side_00113;126;79;40;35; 1.025;-2.8285714285714287; 0;0;0;0; 4;40;0;0;0;0;35;40;35; 2;1;2;3;0;1;3

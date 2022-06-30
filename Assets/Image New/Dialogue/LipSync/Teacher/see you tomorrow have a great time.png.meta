@@ -1,0 +1,1607 @@
+fileFormatVersion: 2
+guid: 2a9286ae1f384464ea9a409c064f114f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: see you tomorrow have a great time_00001
+    21300002: see you tomorrow have a great time_00002
+    21300004: see you tomorrow have a great time_00003
+    21300006: see you tomorrow have a great time_00004
+    21300008: see you tomorrow have a great time_00005
+    21300010: see you tomorrow have a great time_00006
+    21300012: see you tomorrow have a great time_00007
+    21300014: see you tomorrow have a great time_00008
+    21300016: see you tomorrow have a great time_00009
+    21300018: see you tomorrow have a great time_00010
+    21300020: see you tomorrow have a great time_00011
+    21300022: see you tomorrow have a great time_00012
+    21300024: see you tomorrow have a great time_00013
+    21300026: see you tomorrow have a great time_00014
+    21300028: see you tomorrow have a great time_00015
+    21300030: see you tomorrow have a great time_00016
+    21300032: see you tomorrow have a great time_00017
+    21300034: see you tomorrow have a great time_00018
+    21300036: see you tomorrow have a great time_00019
+    21300038: see you tomorrow have a great time_00020
+    21300040: see you tomorrow have a great time_00021
+    21300042: see you tomorrow have a great time_00022
+    21300044: see you tomorrow have a great time_00023
+    21300046: see you tomorrow have a great time_00024
+    21300048: see you tomorrow have a great time_00025
+    21300050: see you tomorrow have a great time_00026
+    21300052: see you tomorrow have a great time_00027
+    21300054: see you tomorrow have a great time_00028
+    21300056: see you tomorrow have a great time_00029
+    21300058: see you tomorrow have a great time_00030
+    21300060: see you tomorrow have a great time_00031
+    21300062: see you tomorrow have a great time_00032
+    21300064: see you tomorrow have a great time_00033
+    21300066: see you tomorrow have a great time_00034
+    21300068: see you tomorrow have a great time_00035
+    21300070: see you tomorrow have a great time_00036
+    21300072: see you tomorrow have a great time_00037
+    21300074: see you tomorrow have a great time_00038
+    21300076: see you tomorrow have a great time_00039
+    21300078: see you tomorrow have a great time_00040
+    21300080: see you tomorrow have a great time_00041
+    21300082: see you tomorrow have a great time_00042
+    21300084: see you tomorrow have a great time_00043
+    21300086: see you tomorrow have a great time_00044
+    21300088: see you tomorrow have a great time_00045
+    21300090: see you tomorrow have a great time_00046
+    21300092: see you tomorrow have a great time_00047
+    21300094: see you tomorrow have a great time_00048
+    21300096: see you tomorrow have a great time_00049
+    21300098: see you tomorrow have a great time_00050
+    21300100: see you tomorrow have a great time_00051
+    21300102: see you tomorrow have a great time_00052
+    21300104: see you tomorrow have a great time_00053
+    21300106: see you tomorrow have a great time_00054
+    21300108: see you tomorrow have a great time_00055
+    21300110: see you tomorrow have a great time_00056
+    21300112: see you tomorrow have a great time_00057
+    21300114: see you tomorrow have a great time_00058
+    21300116: see you tomorrow have a great time_00059
+    21300118: see you tomorrow have a great time_00060
+    21300120: see you tomorrow have a great time_00061
+    21300122: see you tomorrow have a great time_00062
+    21300124: see you tomorrow have a great time_00063
+    21300126: see you tomorrow have a great time_00064
+    21300128: see you tomorrow have a great time_00065
+    21300130: see you tomorrow have a great time_00066
+    21300132: see you tomorrow have a great time_00067
+    21300134: see you tomorrow have a great time_00068
+    21300136: see you tomorrow have a great time_00069
+    21300138: see you tomorrow have a great time_00070
+    21300140: see you tomorrow have a great time_00071
+    21300142: see you tomorrow have a great time_00072
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00001
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 318
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae79d41f2a999e44289b5d497504e267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00002
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 351
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c6199332c82404ea4721be5976204d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00003
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 351
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528b451a8b414a34d9ad543f845ddfe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00004
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 350
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa847d1eabb2ef94096b438d2d7e1516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00005
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 350
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88512bd91e8d24442a4dab78ab3f0576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00006
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 311
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8355b79bfb7d9204990f3ad9783b1682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00007
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 469
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda1f919230488544bb4d31bff764b9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 469
+        width: 46
+        height: 42
+      alignment: 9
+      pivot: {x: 1, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06094bef05fe6e94db250a0243e5f507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00009
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 468
+        width: 45
+        height: 43
+      alignment: 9
+      pivot: {x: 1.0222223, y: -2.1627908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8be943e7f2295746807e15ce969146c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00010
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 469
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0561ddad1fd323b4aae9dad654f1eea4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00011
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 276
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146e69e1cf9d44848ba4bb1dd80329d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00012
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 274
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9fc7561c43e96459f95b0d1a065474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00013
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 427
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0911bf780250e7843b226fe380ddafe4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00014
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 243
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844c568e9972ab646b3709739efc3d19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 348
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429248169c2f72340a3f2618e0289af7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00016
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 348
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7048f28fbd0c16d41bf8f16c94e32b10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00017
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 389
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71853b287fb21da41a5ade8c64732b92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00018
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 473
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 1.025, y: -2.5263157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf236a5fea993b49aaa413ce23f8b5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00019
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 387
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 1.025, y: -2.6216216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29262a744ca19d948ba07d675189c63f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 385
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 1.025, y: -2.6216216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae06ac11be07d94c903423d3368e6be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00021
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 387
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09c7138b991fd74bba7c8c6f971ad65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00022
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 243
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c17f9c294cff414c9a24fddd9f699f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00023
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 310
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240ff552e7d57eb4a8aba863f345e484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00024
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 310
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101381449d650d243969660963f8467a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00025
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 276
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2633993e3bf1bc4094cbcbcb3f0952d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00026
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 273
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7407e8314935542a94cd3011b56207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00027
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 273
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927b9580d30b6254d99dbfcac29558ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00028
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 348
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33944f298dba004eb7e789ddc209f79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00029
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 314
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8e851c57d925b4f88281e494747fc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00030
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 313
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f1afbb0a6473547bb522d4622ad935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00031
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 313
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cccb49ac1084274b84d46635637abca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00032
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 314
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e969a529b674814aab6edd05bef049e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00033
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 314
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe2e48dcc64e7347b2900e983824e5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00034
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 240
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82379e9f558b26146a12893faddc13b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00035
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 426
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7000f46f110066d4e9db71c345d92ec3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00036
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 351
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0805914ffee9e644786c24578121b25e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00037
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 385
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 1.025, y: -2.6216216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f8dbc36d350454d9bb93e74d042a3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00038
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 433
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 1.025, y: -2.5263157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2804e032968779b43a2c07148ae9f9f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00039
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 387
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974ef71298bede34d825e3d2ad40e5f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00040
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 312
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f183c8a40f003d4b9c8ccc59d3404e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00041
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 471
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 1.0444444, y: -2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5721946b10371324aafcde047d15ca7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00042
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 471
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 1.0444444, y: -2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fae11a9e60a0a499893869161d016a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00043
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 471
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 1.0444444, y: -2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b6801992eadf74e956cdafaae687c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00044
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 470
+        width: 45
+        height: 41
+      alignment: 9
+      pivot: {x: 1.0222223, y: -2.317073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0941d87fcc24f046a1a1dad66638833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00045
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 393
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 1.025, y: -2.5263157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980104b867b6d6141aad6e9a916d7485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00046
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 385
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 1.025, y: -2.6216216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92345603f6a4e30449db827b435069f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00047
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 355
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e240bdb4f5e84c46a74f5e9b26e5c0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00048
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 424
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52aa81a8c380add4eb977cf12a4ca917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00049
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 424
+        width: 45
+        height: 43
+      alignment: 9
+      pivot: {x: 1.0222223, y: -2.1627908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5492cdc6c399fd43b7e02bd947c45bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00050
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 469
+        width: 46
+        height: 42
+      alignment: 9
+      pivot: {x: 1, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52fa5b9a74a0174b97222f341f9fdd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00051
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 424
+        width: 45
+        height: 43
+      alignment: 9
+      pivot: {x: 1.0222223, y: -2.1627908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc11df4c3f9ad44f93c03822eaf15a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00052
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 239
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2730890a986849a4093e8fdeca3676d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00053
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 427
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7372a46b13f121a45aa0d86d386b9435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00054
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 427
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ade3b451d3163d4ba15219a2993d669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00055
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 427
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95590d5da1e9014687461717d721b57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00056
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 425
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98c609735da495469fff50a94145011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00057
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 349
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c340f8aaf6e189e4a8bccea8043268e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00058
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 388
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 1.025, y: -2.6216216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45f47dd79283e54688fc2ca562343a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00059
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 387
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 1.025, y: -2.5263157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5340a219f131c0f4a9314f4edb0ad748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00060
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 388
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 1.025, y: -2.6216216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ecc8b3849ed7d41bc90f3ca2dd3a69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00061
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 349
+        width: 40
+        height: 36
+      alignment: 9
+      pivot: {x: 1.025, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d8f6430518b9f4185d92aa4bfb293b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00062
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 425
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.2380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6358547d711e0b45a111929c9b9c65e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00063
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 237
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc246236c21f75c4b85d831063c8afc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00064
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 471
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 1.0222223, y: -2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615b0f56c1c84004e8ca5f2d42daeeee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00065
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 312
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1b6d1d608b6bd4e8c164ab6effe003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00066
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 281
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09bf75b89f218a4384094da5aeee517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00067
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 281
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2479eec2f7073034d9452f73cac86404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00068
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 277
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf56a6ba99a6544d98f2ef162074bdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00069
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 277
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde2a5b42523ffb4490c3015490580a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00070
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 277
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de58fa367d37c240879d05e5177bbe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00071
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 275
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12e61db3e72d02478550c904294beb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: see you tomorrow have a great time_00072
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 275
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359807da2b8582547aab67bab697c754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1343c3430e2e5db469051f8b8b21a260
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

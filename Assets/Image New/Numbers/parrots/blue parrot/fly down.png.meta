@@ -1,0 +1,674 @@
+fileFormatVersion: 2
+guid: f6249bce774f902499cf770d65036888
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fly down
+    21300002: fly down_00001
+    21300004: fly down_00002
+    21300006: fly down_00003
+    21300008: fly down_00004
+    21300010: fly down_00005
+    21300012: fly down_00006
+    21300014: fly down_00007
+    21300016: fly down_00008
+    21300018: fly down_00009
+    21300020: fly down_00010
+    21300022: fly down_00011
+    21300024: fly down_00012
+    21300026: fly down_00013
+    21300028: fly down_00014
+    21300030: fly down_00015
+    21300032: fly down_00016
+    21300034: fly down_00017
+    21300036: fly down_00018
+    21300038: fly down_00019
+    21300040: fly down_00020
+    21300042: fly down_00021
+    21300044: fly down_00022
+    21300046: fly down_00023
+    21300048: fly down_00024
+    21300050: fly down_00025
+    21300052: fly down_00026
+    21300054: fly down_00027
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fly down_00001
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1158
+        width: 241
+        height: 289
+      alignment: 9
+      pivot: {x: 0.5228216, y: 0.42214534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511c84604927b9c4ba80349fbc9b3e3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00002
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1765
+        width: 260
+        height: 282
+      alignment: 9
+      pivot: {x: 0.52692306, y: 0.39007092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9b55719d834714997321ccbbc866e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00003
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 908
+        width: 251
+        height: 278
+      alignment: 9
+      pivot: {x: 0.5179283, y: 0.38848922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0c20bd26364394490eaacb30927784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00004
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1746
+        width: 220
+        height: 301
+      alignment: 9
+      pivot: {x: 0.49545455, y: 0.41860464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc99c664680876459a167b7eab3942b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00005
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 12
+        width: 225
+        height: 300
+      alignment: 9
+      pivot: {x: 0.4977778, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baed42f6e85432409ed2bc92319ff45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00006
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 584
+        width: 234
+        height: 285
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.39298245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9767b944cbb4f645a74b20644bf0771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00007
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1200
+        width: 255
+        height: 279
+      alignment: 9
+      pivot: {x: 0.5254902, y: 0.39784947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af97ec285361824eaca43a365e59a59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 636
+        width: 241
+        height: 279
+      alignment: 9
+      pivot: {x: 0.5228216, y: 0.4014337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff07c2391accac4e8251c30fa9a8984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00009
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1188
+        width: 254
+        height: 285
+      alignment: 9
+      pivot: {x: 0.47244096, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0165c3d02dc230147a3fd660ce183a3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 917
+        width: 254
+        height: 281
+      alignment: 9
+      pivot: {x: 0.52362204, y: 0.39145908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69236bf42d749624d84f71fb4868675b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1765
+        width: 270
+        height: 282
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.39007092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b39c36ab193c04dbf496d553437948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00012
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 349
+        width: 234
+        height: 282
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.38652483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2783f6c0afce3e040bab50bf15c1ce0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 226
+        height: 301
+      alignment: 9
+      pivot: {x: 0.460177, y: 0.42524916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d46c562ca74104f9647e227337865d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00014
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 12
+        width: 225
+        height: 300
+      alignment: 9
+      pivot: {x: 0.4977778, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dbd82452172e3418b14ae19152c8d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00015
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 618
+        width: 234
+        height: 288
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.39930555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966775a61edd719478cb5beadea70512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00016
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1481
+        width: 257
+        height: 282
+      alignment: 9
+      pivot: {x: 0.5175097, y: 0.39716312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e57ea9d16ec8944af4ffcb810f82ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00017
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 633
+        width: 237
+        height: 283
+      alignment: 9
+      pivot: {x: 0.51476794, y: 0.39575973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ac01cf087259441a5a251c6e03c609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00018
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1475
+        width: 256
+        height: 287
+      alignment: 9
+      pivot: {x: 0.4765625, y: 0.39721254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c995a0086f89e0a438d17270834ee18b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00019
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 918
+        width: 254
+        height: 280
+      alignment: 9
+      pivot: {x: 0.52362204, y: 0.3892857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a152682ac72ca224dae9d869040f21c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1483
+        width: 263
+        height: 280
+      alignment: 9
+      pivot: {x: 0.49809885, y: 0.3892857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23312a92265f8fb48af25111bcc71c57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 346
+        width: 234
+        height: 288
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.39930555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de6a5a651bd374408831164e2af0341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00022
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 314
+        width: 226
+        height: 302
+      alignment: 9
+      pivot: {x: 0.460177, y: 0.4271523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39eaa1d215d27f84594e110da8749078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00023
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 47
+        width: 225
+        height: 300
+      alignment: 9
+      pivot: {x: 0.4977778, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daef28d243b358d4b96b3a81361149a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00024
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1449
+        width: 220
+        height: 295
+      alignment: 9
+      pivot: {x: 0.5090909, y: 0.41355932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f26170db855a1c478bef92d124a3404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00025
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1764
+        width: 265
+        height: 283
+      alignment: 9
+      pivot: {x: 0.5018868, y: 0.39575973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65abe29c05a675947ab61ed515e09968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00026
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 871
+        width: 252
+        height: 285
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.41754386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3d3d739821a454b8239eeed94e8930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly down_00027
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1200
+        width: 256
+        height: 281
+      alignment: 9
+      pivot: {x: 0.4921875, y: 0.40569395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd0309cb908a154f99814b882d8d716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b2dc2637e7f64964f8306127540d75fc
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

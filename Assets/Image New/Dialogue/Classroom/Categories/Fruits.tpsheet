@@ -1,0 +1,28 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:4cddb3bdd01aa66d03908db05ca66844:cc9dbd1c5dff30485156ce0f94f724dc:50588f205aaf81920a228d98c1c7fc0b$
+#
+:format=40300
+:texture=Fruits.png
+:size=2048x1024
+:pivotpoints=enabled
+:borders=disabled
+
+apple;1;216;371;422; 0.5;0.5; 0;0;0;0
+banana;1626;34;419;296; 0.5;0.5; 0;0;0;0
+carrot;431;677;418;346; 0.5;0.5; 0;0;0;0
+cherry;1259;265;365;389; 0.5;0.5; 0;0;0;0
+grapes;1;640;428;383; 0.5;0.5; 0;0;0;0
+lemon;644;21;423;248; 0.5;0.5; 0;0;0;0
+mango;1069;15;428;248; 0.5;0.5; 0;0;0;0
+peach;1653;665;378;358; 0.5;0.5; 0;0;0;0
+pear 2;644;271;269;404; 0.5;0.5; 0;0;0;0
+pineapple;374;126;268;512; 0.5;0.5; 0;0;0;0
+plum;915;280;342;402; 0.5;0.5; 0;0;0;0
+strawberry;1626;332;241;322; 0.5;0.5; 0;0;0;0
+tomato;1272;656;379;367; 0.5;0.5; 0;0;0;0
+watermelon;851;684;419;339; 0.5;0.5; 0;0;0;0

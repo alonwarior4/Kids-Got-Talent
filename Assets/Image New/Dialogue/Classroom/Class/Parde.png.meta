@@ -1,0 +1,620 @@
+fileFormatVersion: 2
+guid: 9a177f3e8079294469fed180096c6d86
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Prade_00084
+    21300002: Prade_00085
+    21300004: Prade_00086
+    21300006: Prade_00087
+    21300008: Prade_00088
+    21300010: Prade_00089
+    21300012: Prade_00090
+    21300014: Prade_00091
+    21300016: Prade_00092
+    21300018: Prade_00093
+    21300020: Prade_00094
+    21300022: Prade_00095
+    21300024: Prade_00096
+    21300026: Prade_00097
+    21300028: Prade_00098
+    21300030: Prade_00099
+    21300032: Prade_00100
+    21300034: Prade_00101
+    21300036: Prade_00102
+    21300038: Prade_00103
+    21300040: Prade_00104
+    21300042: Prade_00105
+    21300044: Prade_00106
+    21300046: Prade_00107
+    21300048: Prade_00108
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Prade_00084
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1094
+        width: 1042
+        height: 175
+      alignment: 9
+      pivot: {x: 0.49712092, y: -0.46285716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cd36c10388fbf458a557941ebad343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00085
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1271
+        width: 1042
+        height: 189
+      alignment: 9
+      pivot: {x: 0.49712092, y: -0.35449734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b121b5f7e8d0d4ba22d521e9bfd726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00086
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1261
+        width: 1042
+        height: 203
+      alignment: 9
+      pivot: {x: 0.49712092, y: -0.26108375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d284d34919cfac049aa1ff35d83f62ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00087
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 1256
+        width: 1042
+        height: 217
+      alignment: 9
+      pivot: {x: 0.49712092, y: -0.1797235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4ccbbd05130b24a8bd236ffd4617e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00088
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 1475
+        width: 1042
+        height: 254
+      alignment: 9
+      pivot: {x: 0.49712092, y: -0.007874016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67deaeb950c8d5c499b3ae0062057c89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00089
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1462
+        width: 1042
+        height: 268
+      alignment: 9
+      pivot: {x: 0.49712092, y: 0.04477612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9840d9e286c5fd4fbc70a30e0ad155e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00090
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1466
+        width: 1042
+        height: 264
+      alignment: 9
+      pivot: {x: 0.49712092, y: 0.030303031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014d5a871cddb5345bda6fd05ced2d41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00091
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1732
+        width: 1042
+        height: 273
+      alignment: 9
+      pivot: {x: 0.49712092, y: 0.062271062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b7bc3746598d442b42ff2a5566644f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00092
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1732
+        width: 1042
+        height: 287
+      alignment: 9
+      pivot: {x: 0.49712092, y: 0.108013935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b49a2b09e3f38a40897b8eb6d09dbb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00093
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 1731
+        width: 1042
+        height: 301
+      alignment: 9
+      pivot: {x: 0.49712092, y: 0.14950167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7fbaa908a69734ebba1a557767e82a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00094
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 2034
+        width: 1042
+        height: 315
+      alignment: 9
+      pivot: {x: 0.49712092, y: 0.18730159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d590190e4e738ac4aa4a0d34754d7063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00095
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2021
+        width: 1042
+        height: 329
+      alignment: 9
+      pivot: {x: 0.49712092, y: 0.2218845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a90dc12a639e847bcea5288005c6cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00096
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2007
+        width: 1042
+        height: 343
+      alignment: 9
+      pivot: {x: 0.49712092, y: 0.25364432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c93e2503b63a747a2c9198eedf3007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00097
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2352
+        width: 1042
+        height: 357
+      alignment: 9
+      pivot: {x: 0.49712092, y: 0.28291318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f73370c7b0fd540bb9fe9c956be0e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00098
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2352
+        width: 1042
+        height: 371
+      alignment: 9
+      pivot: {x: 0.49712092, y: 0.30997303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faf4f861c2453b48baa3ed622d6e3f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00099
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 2351
+        width: 1042
+        height: 385
+      alignment: 9
+      pivot: {x: 0.49712092, y: 0.33506495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd2d264e9d8c774da0a730e6d09eeb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00100
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 2738
+        width: 1042
+        height: 399
+      alignment: 9
+      pivot: {x: 0.49712092, y: 0.358396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4df0956e72dbe4d9b6a65bfa522507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00101
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2725
+        width: 1042
+        height: 413
+      alignment: 9
+      pivot: {x: 0.49712092, y: 0.38014528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a33eb5d111f9fd4ebaeee145d3f1b96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00102
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2711
+        width: 1042
+        height: 427
+      alignment: 9
+      pivot: {x: 0.49712092, y: 0.40046838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476f21511372e2d4bae86fdc5868828c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00103
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3140
+        width: 1042
+        height: 441
+      alignment: 9
+      pivot: {x: 0.49712092, y: 0.41950113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5450696afe927e74cbcaa62a8e02ca0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00104
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 3140
+        width: 1042
+        height: 455
+      alignment: 9
+      pivot: {x: 0.49712092, y: 0.43736264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67bf4c78c7cb0c479d124fac9f89991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00105
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 3139
+        width: 1042
+        height: 470
+      alignment: 9
+      pivot: {x: 0.49712092, y: 0.45531914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc47fda7620dcc546b5d86168f071921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00106
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 3611
+        width: 1042
+        height: 484
+      alignment: 9
+      pivot: {x: 0.49712092, y: 0.47107437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf0ff35c0b21e948b7c628fb5324cf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00107
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 3597
+        width: 1042
+        height: 498
+      alignment: 9
+      pivot: {x: 0.49712092, y: 0.48594376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ba44a6a5c05a544914146b139fd608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prade_00108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3583
+        width: 1042
+        height: 512
+      alignment: 9
+      pivot: {x: 0.49712092, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b90bdb3265e3145a85354a25404d05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c1f01e5562047fd4d87c3612d2be8bfa
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

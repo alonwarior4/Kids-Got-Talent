@@ -1,0 +1,134 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:682884bcd494ee1fc5d69284d3db7856:846dfeaf0893c5f1f83572e0f14987eb:8635055f8a4f22a73ec0c42d7fdcee50$
+#
+:format=40300
+:texture=movement.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+
+snail movement fixed_00001;1;1921;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00002;227;1921;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00003;453;1921;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00004;679;1921;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00005;905;1921;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00006;1131;1921;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00007;1357;1921;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00008;1583;1921;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00009;1809;1921;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00010;1;1793;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00011;227;1793;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00012;453;1793;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00013;679;1793;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00014;905;1793;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00015;1131;1793;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00016;1357;1793;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00017;1583;1793;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00018;1809;1793;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00019;1;1665;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00020;227;1665;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00021;453;1665;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00022;679;1665;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00023;905;1665;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00024;1131;1665;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00025;1357;1665;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00026;1583;1665;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00027;1809;1665;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00028;1;1537;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00029;227;1537;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00030;453;1537;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00031;679;1537;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00032;905;1537;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00033;1131;1537;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00034;1357;1537;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00035;1583;1537;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00036;1809;1537;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00037;1;1409;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00038;227;1409;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00039;453;1409;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00040;679;1409;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00041;905;1409;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00042;1131;1409;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00043;1357;1409;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00044;1583;1409;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00045;1809;1409;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00046;1;1281;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00047;227;1281;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00048;453;1281;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00049;679;1281;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00050;905;1281;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00051;1131;1281;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00052;1357;1281;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00053;1583;1281;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00054;1809;1281;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00055;1;1153;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00056;227;1153;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00057;453;1153;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00058;679;1153;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00059;905;1153;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00060;1131;1153;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00061;1357;1153;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00062;1583;1153;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00063;1809;1153;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00064;1;1025;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00065;227;1025;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00066;453;1025;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00067;679;1025;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00068;905;1025;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00069;1131;1025;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00070;1357;1025;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00071;1583;1025;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00072;1809;1025;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00073;1;897;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00074;227;897;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00075;453;897;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00076;679;897;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00077;905;897;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00078;1131;897;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00079;1357;897;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00080;1583;897;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00081;1809;897;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00082;1;769;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00083;227;769;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00084;453;769;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00085;679;769;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00086;905;769;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00087;1131;769;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00088;1357;769;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00089;1583;769;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00090;1809;769;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00091;1;641;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00092;227;641;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00093;453;641;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00094;679;641;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00095;905;641;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00096;1131;641;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00097;1357;641;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00098;1583;641;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00099;1809;641;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00100;1;513;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00101;227;513;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00102;453;513;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00103;679;513;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00104;905;513;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00105;1131;513;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00106;1357;513;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00107;1583;513;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00108;1809;513;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00109;1;385;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00110;227;385;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00111;453;385;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00112;679;385;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00113;905;385;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00114;1131;385;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00115;1357;385;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00116;1583;385;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00117;1809;385;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00118;1;257;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00119;905;1153;224;126; 0.5;0.5; 0;0;0;0
+snail movement fixed_00120;1131;1153;224;126; 0.5;0.5; 0;0;0;0

@@ -1,0 +1,631 @@
+fileFormatVersion: 2
+guid: b165995b357e87e4ea84d404ed366f29
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stand speak_00048
+    21300002: stand speak_00049
+    21300004: stand speak_00050
+    21300006: stand speak_00051
+    21300008: stand speak_00052
+    21300010: stand speak_00053
+    21300012: stand speak_00054
+    21300014: stand speak_00055
+    21300016: stand speak_00056
+    21300018: stand speak_00057
+    21300020: stand speak_00058
+    21300022: stand speak_00059
+    21300024: stand speak_00060
+    21300026: stand speak_00061
+    21300028: stand speak_00062
+    21300030: stand speak_00063
+    21300032: stand speak_00064
+    21300034: stand speak_00065
+    21300036: stand speak_00066
+    21300038: stand speak_00067
+    21300040: stand speak_00068
+    21300042: stand speak_00069
+    21300044: stand speak_00070
+    21300046: stand speak_00071
+    21300048: stand speak_00072
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stand speak_00048
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 2213
+        width: 270
+        height: 626
+      alignment: 9
+      pivot: {x: 0.37037036, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6634b514d0408cd45967d4ea17f6c95b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00049
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1585
+        width: 272
+        height: 626
+      alignment: 9
+      pivot: {x: 0.36764705, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92a3bbba88f6624a8f79f183a9e2fa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00050
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 2841
+        width: 269
+        height: 626
+      alignment: 9
+      pivot: {x: 0.37174723, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3392a32c0d799b74286b59fbff29c706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00051
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 2841
+        width: 268
+        height: 626
+      alignment: 9
+      pivot: {x: 0.37313432, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87ec9f019db7324dafcb543696b156f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00052
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1585
+        width: 272
+        height: 626
+      alignment: 9
+      pivot: {x: 0.36764705, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f348d3e93fca24e43a4911e374b06e60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00053
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1585
+        width: 272
+        height: 626
+      alignment: 9
+      pivot: {x: 0.36764705, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b83ea124b853c4fa1c99b941fd428f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00054
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 2213
+        width: 270
+        height: 626
+      alignment: 9
+      pivot: {x: 0.37037036, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c0ea52b24ba8242807968f936f3f6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00055
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2213
+        width: 269
+        height: 626
+      alignment: 9
+      pivot: {x: 0.37174723, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc28e9a27b252bf43a8ab4e3dd05ade7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00056
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3469
+        width: 266
+        height: 626
+      alignment: 9
+      pivot: {x: 0.37593985, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12d757718fb65a4f86b0f8c61988fc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00057
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 3469
+        width: 266
+        height: 626
+      alignment: 9
+      pivot: {x: 0.37593985, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f103accde580c468bb32bab62ebb72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00058
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3469
+        width: 266
+        height: 626
+      alignment: 9
+      pivot: {x: 0.37593985, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed78e69b812436f44a79f73f43900a34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00059
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2841
+        width: 267
+        height: 626
+      alignment: 9
+      pivot: {x: 0.37453184, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c86854ac3f5e3b459d0bd79314a7676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00060
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2841
+        width: 267
+        height: 626
+      alignment: 9
+      pivot: {x: 0.37453184, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658d18a299692974a8a5e2c06e3993ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00061
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 3469
+        width: 266
+        height: 626
+      alignment: 9
+      pivot: {x: 0.37593985, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6447ce9ac73d66a418a330fd29f7ffdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00062
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 3469
+        width: 266
+        height: 626
+      alignment: 9
+      pivot: {x: 0.37593985, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0203a3521a1ea45b08e40120290827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00063
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 3469
+        width: 266
+        height: 626
+      alignment: 9
+      pivot: {x: 0.37593985, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d5c487f63f311479940e6bdd1e8d82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00064
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 3469
+        width: 266
+        height: 626
+      alignment: 9
+      pivot: {x: 0.37593985, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e37790b86c8d946940cb0e7e134bb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00065
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2841
+        width: 269
+        height: 626
+      alignment: 9
+      pivot: {x: 0.37174723, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf4fbb2e5a00374fb676a6b4a6f743d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00066
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 2213
+        width: 270
+        height: 626
+      alignment: 9
+      pivot: {x: 0.37037036, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a93e151e7609bc458e3508bc0cdb35f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00067
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2841
+        width: 268
+        height: 626
+      alignment: 9
+      pivot: {x: 0.37313432, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb16585f66f52046b464fd564503dbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00068
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2213
+        width: 269
+        height: 626
+      alignment: 9
+      pivot: {x: 0.37174723, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2c1dda915276641a0f62a9ed00799f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00069
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 2841
+        width: 268
+        height: 626
+      alignment: 9
+      pivot: {x: 0.37313432, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abd8860e07ad5e4f80e4eb34fc4e37e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00070
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1585
+        width: 272
+        height: 626
+      alignment: 9
+      pivot: {x: 0.36764705, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aeb03158156df544a91757e4c903ab0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00071
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2213
+        width: 270
+        height: 626
+      alignment: 9
+      pivot: {x: 0.37037036, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2d9a29b643e1c4e965bcd3c2744935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand speak_00072
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 2213
+        width: 270
+        height: 626
+      alignment: 9
+      pivot: {x: 0.37037036, y: 0.54552716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b2a9a37d937b441b41a6682dd6817c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: aa3638b2379ea53469bcfb9e46118257
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,631 @@
+fileFormatVersion: 2
+guid: de07e1e23e9ca6b479f37af9bf53009e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stand to sleep_00096
+    21300002: stand to sleep_00097
+    21300004: stand to sleep_00098
+    21300006: stand to sleep_00099
+    21300008: stand to sleep_00100
+    21300010: stand to sleep_00101
+    21300012: stand to sleep_00102
+    21300014: stand to sleep_00103
+    21300016: stand to sleep_00104
+    21300018: stand to sleep_00105
+    21300020: stand to sleep_00106
+    21300022: stand to sleep_00107
+    21300024: stand to sleep_00108
+    21300026: stand to sleep_00109
+    21300028: stand to sleep_00110
+    21300030: stand to sleep_00111
+    21300032: stand to sleep_00112
+    21300034: stand to sleep_00113
+    21300036: stand to sleep_00114
+    21300038: stand to sleep_00115
+    21300040: stand to sleep_00116
+    21300042: stand to sleep_00117
+    21300044: stand to sleep_00118
+    21300046: stand to sleep_00119
+    21300048: stand to sleep_00120
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stand to sleep_00096
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1311
+        width: 308
+        height: 253
+      alignment: 9
+      pivot: {x: 0.5016234, y: 0.49802372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c315a50e12339c645b86e990294d021a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00097
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1796
+        width: 324
+        height: 251
+      alignment: 9
+      pivot: {x: 0.49228394, y: 0.50199205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091e82d3ec38fab43a340bd8c63611d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00098
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1538
+        width: 313
+        height: 252
+      alignment: 9
+      pivot: {x: 0.49361023, y: 0.50396824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4663b2194b6f2214cac8e42d66d394b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00099
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1795
+        width: 323
+        height: 252
+      alignment: 9
+      pivot: {x: 0.49071208, y: 0.50396824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a98f1b16e42b247812cd5402eb74e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00100
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1544
+        width: 323
+        height: 250
+      alignment: 9
+      pivot: {x: 0.49071208, y: 0.508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a558f1478158d44494a43293bd3dd4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00101
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1792
+        width: 319
+        height: 255
+      alignment: 9
+      pivot: {x: 0.48119122, y: 0.49803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6553eb2ce427d9146beabb2e5ecc5326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00102
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1797
+        width: 316
+        height: 250
+      alignment: 9
+      pivot: {x: 0.48259494, y: 0.508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6d9da99a4f6af46bdbe811c6555fd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00103
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1544
+        width: 318
+        height: 249
+      alignment: 9
+      pivot: {x: 0.47955975, y: 0.51004016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ba985a4daaf13449b45e02194401d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00104
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1543
+        width: 310
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4919355, y: 0.50793654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee764091d4bcf34aa74cc93da94a855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00105
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1566
+        width: 311
+        height: 249
+      alignment: 9
+      pivot: {x: 0.49356914, y: 0.5140562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f84966021dae0f40bd418ba5fb0ccea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00106
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1801
+        width: 318
+        height: 246
+      alignment: 9
+      pivot: {x: 0.4827044, y: 0.5203252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5831af9b26a6cd7478ad764fae7c6758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00107
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1297
+        width: 308
+        height: 244
+      alignment: 9
+      pivot: {x: 0.49837664, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ae81fc2d8574145af3430924fbae75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00108
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1558
+        width: 315
+        height: 241
+      alignment: 9
+      pivot: {x: 0.47142857, y: 0.53112036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23a832ef78bda64eb70897e5d7b93f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00109
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1073
+        width: 304
+        height: 244
+      alignment: 9
+      pivot: {x: 0.48848686, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df99797e399f4f546b4cbe91fcc51bf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00110
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 839
+        width: 302
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48509935, y: 0.5289256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643021b219091134daf777f9fe3e23d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00111
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1300
+        width: 305
+        height: 236
+      alignment: 9
+      pivot: {x: 0.49016392, y: 0.5423729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f4faa0f7d590443a8e55d7aaa5f650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1083
+        width: 303
+        height: 233
+      alignment: 9
+      pivot: {x: 0.48679867, y: 0.5493562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b31af366ae6994c879cc97d1b522f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00113
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1817
+        width: 313
+        height: 230
+      alignment: 9
+      pivot: {x: 0.46166134, y: 0.5521739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027ca3bfcfcb89846bdbcc51739f3a4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00114
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1325
+        width: 309
+        height: 231
+      alignment: 9
+      pivot: {x: 0.46116504, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c596f0e442061b40ba187d66d7687ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00115
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 842
+        width: 298
+        height: 229
+      alignment: 9
+      pivot: {x: 0.4748322, y: 0.55021834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be475284faf5ad04cb785419b9d75daf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00116
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1318
+        width: 307
+        height: 224
+      alignment: 9
+      pivot: {x: 0.4576547, y: 0.55803573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d32c113fcd16d24ab9b8a295783088f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00117
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1082
+        width: 307
+        height: 227
+      alignment: 9
+      pivot: {x: 0.45439738, y: 0.5638766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f414015bc43172419609c0b959d6a37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00118
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1093
+        width: 300
+        height: 230
+      alignment: 9
+      pivot: {x: 0.46166667, y: 0.5565217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba228cd0182b8fd4eb30bc4c7f1212f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00119
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1319
+        width: 307
+        height: 223
+      alignment: 9
+      pivot: {x: 0.45114008, y: 0.57399106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6da5928f9a63a488dcc52d71fde3cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand to sleep_00120
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1070
+        width: 300
+        height: 228
+      alignment: 9
+      pivot: {x: 0.46166667, y: 0.5614035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe86e7b242593d408ddbc815abbbf2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ee5587148660df441aa89dde65315676
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

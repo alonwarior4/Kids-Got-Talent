@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 47b7ed8140832144c927bedd8e127b74
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: coloring astin rast
+    21300002: coloring astine rast_00001
+    21300004: coloring astine rast_00002
+    21300006: coloring astine rast_00003
+    21300008: coloring astine rast_00004
+    21300010: coloring astine rast_00005
+    21300012: coloring astine rast_00006
+    21300014: coloring astine rast_00007
+    21300016: coloring astine rast_00008
+    21300018: coloring astine rast_00009
+    21300020: coloring astine rast_00010
+    21300022: coloring astine rast_00011
+    21300024: coloring astine rast_00012
+    21300026: coloring astine rast_00013
+    21300028: coloring astine rast_00014
+    21300030: coloring astine rast_00015
+    21300032: coloring astine rast_00016
+    21300034: coloring astine rast_00017
+    21300036: coloring astine rast_00018
+    21300038: coloring astine rast_00019
+    21300040: coloring astine rast_00020
+    21300042: coloring astine rast_00021
+    21300044: coloring astine rast_00022
+    21300046: coloring astine rast_00023
+    21300048: coloring astine rast_00024
+    21300050: coloring astine rast_00025
+    21300052: coloring astine rast_00026
+    21300054: coloring astine rast_00027
+    21300056: coloring astine rast_00028
+    21300058: coloring astine rast_00029
+    21300060: coloring astine rast_00030
+    21300062: coloring astine rast_00031
+    21300064: coloring astine rast_00032
+    21300066: coloring astine rast_00033
+    21300068: coloring astine rast_00034
+    21300070: coloring astine rast_00035
+    21300072: coloring astine rast_00036
+    21300074: coloring astine rast_00037
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coloring astine rast_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1675
+        width: 347
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5100865, y: 0.49462366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a9b7541deb4a6419a831a6a1c31b3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00002
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1675
+        width: 347
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5100865, y: 0.49462366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573402caa5092814f92acb6eeed90237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00003
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1675
+        width: 347
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5100865, y: 0.49462366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58726473aa65949439622908a77e3528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00004
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1675
+        width: 347
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5100865, y: 0.49462366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a68a8f121c654b45a7af9755e3684ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00005
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1675
+        width: 347
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5100865, y: 0.49462366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3170a422bdb64f1479ed16f848287ec3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1300
+        width: 326
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5429448, y: 0.49329758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2cf628624a23a4aa1c71d8f8365a02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00007
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1300
+        width: 326
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5429448, y: 0.49329758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbbee284c4b3b847b31b9b4f39dad0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00008
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1301
+        width: 329
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5379939, y: 0.49462366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764b5224c1a253240a8f84a538cc4534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00009
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1301
+        width: 312
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5673077, y: 0.49462366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96781cfa9f0eba44c9367671bac2e822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00010
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1301
+        width: 295
+        height: 372
+      alignment: 9
+      pivot: {x: 0.6, y: 0.49462366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea257f2c295bf7e429b144d5a914d4d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00011
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1300
+        width: 295
+        height: 373
+      alignment: 9
+      pivot: {x: 0.6, y: 0.49329758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203bc7c21f79fb6468be6c7e3abaf7a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 925
+        width: 295
+        height: 373
+      alignment: 9
+      pivot: {x: 0.6, y: 0.49329758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee295deef1596b64dac0f3b329d2ae0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00013
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 927
+        width: 291
+        height: 371
+      alignment: 9
+      pivot: {x: 0.6185567, y: 0.49056605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603244cf4467a9c40a9f26eb8aa50b7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00014
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 937
+        width: 264
+        height: 361
+      alignment: 9
+      pivot: {x: 0.67045456, y: 0.5096953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f16c60966847d46a36ef60d5ca5e38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00015
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 939
+        width: 267
+        height: 359
+      alignment: 9
+      pivot: {x: 0.6741573, y: 0.5069638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44f28eb84b646a46beab6e34a614fa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00016
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 937
+        width: 263
+        height: 361
+      alignment: 9
+      pivot: {x: 0.6730038, y: 0.5096953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d74cff47427d747afbfa579e78cc5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00017
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 949
+        width: 259
+        height: 349
+      alignment: 9
+      pivot: {x: 0.6833977, y: 0.5272206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80426437df4d2d46aecd24768094965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00018
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1000
+        width: 220
+        height: 298
+      alignment: 9
+      pivot: {x: 0.80454546, y: 0.61744964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2923bfdccf3f74db9830df0cde12f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 625
+        width: 220
+        height: 298
+      alignment: 9
+      pivot: {x: 0.80454546, y: 0.61744964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129c07f5f8932d24eb4de9b90758ff1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00020
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 627
+        width: 223
+        height: 296
+      alignment: 9
+      pivot: {x: 0.80717486, y: 0.6148649}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03143c7c7cdaa64cb498888d73db726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00021
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 631
+        width: 222
+        height: 292
+      alignment: 9
+      pivot: {x: 0.8108108, y: 0.6232877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0a902b51f1863408874f500b8d3920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00022
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 659
+        width: 181
+        height: 264
+      alignment: 9
+      pivot: {x: 0.97790056, y: 0.6969697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b76414b282b74544b65fa9026dca672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00023
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 656
+        width: 179
+        height: 267
+      alignment: 9
+      pivot: {x: 0.9776536, y: 0.70037454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b5132406f7af44f9b57c8c57524721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00024
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 661
+        width: 185
+        height: 262
+      alignment: 9
+      pivot: {x: 0.972973, y: 0.6946565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccf402e1573eac4cb1084e4dc4d9448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00025
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 689
+        width: 156
+        height: 234
+      alignment: 9
+      pivot: {x: 1.1346154, y: 0.7863248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65a46d5007a9254eac70b9880358920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00026
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 681
+        width: 141
+        height: 242
+      alignment: 9
+      pivot: {x: 1.2553191, y: 0.78512394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ee74b70855684418644889c54b4bab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00027
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 687
+        width: 140
+        height: 236
+      alignment: 9
+      pivot: {x: 1.2642857, y: 0.779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea50a1f7e18f79c41b43d5efecd30987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00028
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 689
+        width: 133
+        height: 234
+      alignment: 9
+      pivot: {x: 1.3082707, y: 0.7991453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd71ad4cbee7cc4e810e094fb42db39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00029
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 708
+        width: 100
+        height: 215
+      alignment: 9
+      pivot: {x: 1.77, y: 0.855814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f7e4932fb2e2841ae24d4a9347ba56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00030
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 711
+        width: 103
+        height: 212
+      alignment: 9
+      pivot: {x: 1.7475728, y: 0.8584906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40f3fa28aeecd44e97fce1d0712bc11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00031
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 410
+        width: 96
+        height: 213
+      alignment: 9
+      pivot: {x: 1.84375, y: 0.86384976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4910192b8423e40a999579a4bda3e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00032
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 413
+        width: 78
+        height: 210
+      alignment: 9
+      pivot: {x: 2.2692308, y: 0.8761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dae8f2c55a1794a8cb665f2d810f53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00033
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 413
+        width: 64
+        height: 210
+      alignment: 9
+      pivot: {x: 2.8125, y: 0.8666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5253ff005faae46808a67b6aa6dc53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00034
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 406
+        width: 68
+        height: 217
+      alignment: 9
+      pivot: {x: 2.6029413, y: 0.88018435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237522ac990df2d49879062bee428827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00035
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 410
+        width: 60
+        height: 213
+      alignment: 9
+      pivot: {x: 3, y: 0.8685446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071ec2c0f9c3a164d8e235f6ef0dfe13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00036
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 572
+        width: 16
+        height: 51
+      alignment: 9
+      pivot: {x: 10.875, y: 3.5686274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0016852e5b44b6e4d8bdd418d1ec67c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring astine rast_00037
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 622
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 192, y: -191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baee1a5b4f955624a8980377f7eb49bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fa188f376cdbe804780c91ce16ed067b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

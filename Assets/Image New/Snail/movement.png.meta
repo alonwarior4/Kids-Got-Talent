@@ -1,0 +1,2615 @@
+fileFormatVersion: 2
+guid: 5e897a359e51e244fa481d92abca0d22
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: snail movement fixed_00001
+    21300002: snail movement fixed_00002
+    21300004: snail movement fixed_00003
+    21300006: snail movement fixed_00004
+    21300008: snail movement fixed_00005
+    21300010: snail movement fixed_00006
+    21300012: snail movement fixed_00007
+    21300014: snail movement fixed_00008
+    21300016: snail movement fixed_00009
+    21300018: snail movement fixed_00010
+    21300020: snail movement fixed_00011
+    21300022: snail movement fixed_00012
+    21300024: snail movement fixed_00013
+    21300026: snail movement fixed_00014
+    21300028: snail movement fixed_00015
+    21300030: snail movement fixed_00016
+    21300032: snail movement fixed_00017
+    21300034: snail movement fixed_00018
+    21300036: snail movement fixed_00019
+    21300038: snail movement fixed_00020
+    21300040: snail movement fixed_00021
+    21300042: snail movement fixed_00022
+    21300044: snail movement fixed_00023
+    21300046: snail movement fixed_00024
+    21300048: snail movement fixed_00025
+    21300050: snail movement fixed_00026
+    21300052: snail movement fixed_00027
+    21300054: snail movement fixed_00028
+    21300056: snail movement fixed_00029
+    21300058: snail movement fixed_00030
+    21300060: snail movement fixed_00031
+    21300062: snail movement fixed_00032
+    21300064: snail movement fixed_00033
+    21300066: snail movement fixed_00034
+    21300068: snail movement fixed_00035
+    21300070: snail movement fixed_00036
+    21300072: snail movement fixed_00037
+    21300074: snail movement fixed_00038
+    21300076: snail movement fixed_00039
+    21300078: snail movement fixed_00040
+    21300080: snail movement fixed_00041
+    21300082: snail movement fixed_00042
+    21300084: snail movement fixed_00043
+    21300086: snail movement fixed_00044
+    21300088: snail movement fixed_00045
+    21300090: snail movement fixed_00046
+    21300092: snail movement fixed_00047
+    21300094: snail movement fixed_00048
+    21300096: snail movement fixed_00049
+    21300098: snail movement fixed_00050
+    21300100: snail movement fixed_00051
+    21300102: snail movement fixed_00052
+    21300104: snail movement fixed_00053
+    21300106: snail movement fixed_00054
+    21300108: snail movement fixed_00055
+    21300110: snail movement fixed_00056
+    21300112: snail movement fixed_00057
+    21300114: snail movement fixed_00058
+    21300116: snail movement fixed_00059
+    21300118: snail movement fixed_00060
+    21300120: snail movement fixed_00061
+    21300122: snail movement fixed_00062
+    21300124: snail movement fixed_00063
+    21300126: snail movement fixed_00064
+    21300128: snail movement fixed_00065
+    21300130: snail movement fixed_00066
+    21300132: snail movement fixed_00067
+    21300134: snail movement fixed_00068
+    21300136: snail movement fixed_00069
+    21300138: snail movement fixed_00070
+    21300140: snail movement fixed_00071
+    21300142: snail movement fixed_00072
+    21300144: snail movement fixed_00073
+    21300146: snail movement fixed_00074
+    21300148: snail movement fixed_00075
+    21300150: snail movement fixed_00076
+    21300152: snail movement fixed_00077
+    21300154: snail movement fixed_00078
+    21300156: snail movement fixed_00079
+    21300158: snail movement fixed_00080
+    21300160: snail movement fixed_00081
+    21300162: snail movement fixed_00082
+    21300164: snail movement fixed_00083
+    21300166: snail movement fixed_00084
+    21300168: snail movement fixed_00085
+    21300170: snail movement fixed_00086
+    21300172: snail movement fixed_00087
+    21300174: snail movement fixed_00088
+    21300176: snail movement fixed_00089
+    21300178: snail movement fixed_00090
+    21300180: snail movement fixed_00091
+    21300182: snail movement fixed_00092
+    21300184: snail movement fixed_00093
+    21300186: snail movement fixed_00094
+    21300188: snail movement fixed_00095
+    21300190: snail movement fixed_00096
+    21300192: snail movement fixed_00097
+    21300194: snail movement fixed_00098
+    21300196: snail movement fixed_00099
+    21300198: snail movement fixed_00100
+    21300200: snail movement fixed_00101
+    21300202: snail movement fixed_00102
+    21300204: snail movement fixed_00103
+    21300206: snail movement fixed_00104
+    21300208: snail movement fixed_00105
+    21300210: snail movement fixed_00106
+    21300212: snail movement fixed_00107
+    21300214: snail movement fixed_00108
+    21300216: snail movement fixed_00109
+    21300218: snail movement fixed_00110
+    21300220: snail movement fixed_00111
+    21300222: snail movement fixed_00112
+    21300224: snail movement fixed_00113
+    21300226: snail movement fixed_00114
+    21300228: snail movement fixed_00115
+    21300230: snail movement fixed_00116
+    21300232: snail movement fixed_00117
+    21300234: snail movement fixed_00118
+    21300236: snail movement fixed_00119
+    21300238: snail movement fixed_00120
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snail movement fixed_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1921
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93defe5afa95dbe4da6594ad9ddde092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00002
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1921
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0207fa1fc38c794c8c900db39bb85a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00003
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1921
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf508170826d99e43ba59c9b45c5fc57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00004
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1921
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef6336075f336e4e89504e61dde532e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00005
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1921
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe3360f8bbde7840825582ab1b0a9cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00006
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1921
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871a8ced7310c7f4ca53e708ca6bd16c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00007
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1921
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777d14c0a0d7bb94e99599cb8c57afa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00008
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1921
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970eab04323d0d94ea838dd56ad5d388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00009
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1921
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e05d01fcc62274eb91547a5ef37466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1793
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4065076dfa463a4448420db9c7e760e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00011
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1793
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e095ae0d0b3c16a4d98b21c86fcdf8a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00012
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1793
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90511d4610ec0234ebeae84485b22dc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00013
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1793
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140c6a4a3b3d5394fa7f50519a186a05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00014
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1793
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653aceb40f9e9234e87137655eaef4f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00015
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1793
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58e246d8c763f64f892cc104f8562fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00016
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1793
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01577f99b1a963499e912d6743caecf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00017
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1793
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a8d78a2c1fe6c47bdb90466bc869fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00018
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1793
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad8bfdb3f1929441a24ec144c62c798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1665
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14645cdedbd874f45a5f919770246cf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00020
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1665
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4294a6ca289b4ae4db269aba47744ef5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00021
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1665
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18d9202c3526984a91d3817f6edd7f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00022
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1665
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597c89e1a97d3424d90679d09953af07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00023
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1665
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72e0388ab3a0634d94733659b929f05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00024
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1665
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0d093d23b53cb4c84cb6d2d3a881fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00025
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1665
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e7367762a2741459fb59791c3bddbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00026
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1665
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0c2544dc2524f4f93a070175009684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00027
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1665
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d784bb91012b9e04b9a0f0c784949cf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00028
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1537
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b168b55cf109a484d84ffc682378578a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00029
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1537
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003fa40238a12ef438deed28e43f934e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00030
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1537
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a364f8a9b0a9045428a9ce4b3a971090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00031
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1537
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c6762f0d9607c4ca714f11682dc277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00032
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1537
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc62b5659f0543949aabd565b03ff299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00033
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1537
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c901e6688b8d14b8ce72c9c1cca202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00034
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1537
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b5e14baa4c341428b33d23694aec47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00035
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1537
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a43f70e4799b5640a1f266480ce041c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00036
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1537
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884e8d6ffbbaa284bbff9e73bb7a78e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00037
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1409
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6d91ce2d18b764c9e4c8023f936c63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00038
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1409
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09dfa04681cc084ea5e875a9e8f2a85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00039
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1409
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eee5f7284a202a4fbfb69889621a97a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00040
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1409
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46531ec79f347e4d96d60c178d3ff46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00041
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1409
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1fef67a319bdb43a0ad3c0058a58fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00042
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1409
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27dc98a452bc838488a5260cf18d50fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00043
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1409
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3508f37a5834d20439f3191bf37f75a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00044
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1409
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e7d49d722a07846b613796c5e35e2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00045
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1409
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a9c32d5dbef2c4eb464ad5f5fa7b41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00046
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1281
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264a8b8017185d24191e046b4d14a2ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00047
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1281
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee887a6b6aead824d85eedfee8e21c9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00048
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1281
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7011ac4ca2286c14daa6fcde470b484e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00049
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1281
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd0ae7c77322cb449846149b4303e4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00050
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1281
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0a70fab2bb1be418468058e106844a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00051
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1281
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffb5c45c613bc54487e9f2a8d0f1358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00052
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1281
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b51fe405c4278438e78d8b7ea03a06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00053
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1281
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9c854504bbfcb42a3f8ca958f8ebba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00054
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1281
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d52f48559569d045a7ccf9893ad991b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00055
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1153
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f86364fa79e884abc12479f7ceab1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00056
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1153
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa8bd5943d62024e8f702e26dd90dab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00057
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1153
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e811edf77a197894a80aeeb8e700cf8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00058
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1153
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9dd4df90a02404ca8382eeb376eef3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00059
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1153
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ca4720323a8e04fb4104c093a13b39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00060
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1153
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11aaec8ba47393b428759ace87130685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00061
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1153
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab707d11ca330b242bf7609c21bafbfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00062
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1153
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b59bf9f28154245864954f19057aee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00063
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1153
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf236d738aafae849b36aca0b3df340f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00064
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1025
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dc88393bdcc384c8e0cd1198f77ebc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00065
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1025
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f2295bbd79d824ea2c3345ed291100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00066
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1025
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5a5ca7dc9615f42afaad723ed7f368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00067
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1025
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42406b494ab1cd9488cb264fe8c11671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00068
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1025
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc776319b17d054c966515983c2595e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00069
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1025
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bd3124da7dcec4c94f263ef259bdf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00070
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1025
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e4c23a4a8c99847951b121e0b3e9cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00071
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1025
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846d9062401497f4d89e60efe6d4365a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00072
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1025
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24e1ff6a28c4d049be8dbc6e2f93a93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00073
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 897
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3d55b7b6fe90947b0b43826b89a9a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00074
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 897
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d372e93295216aa4c98b34b8bd531913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00075
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 897
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0743e198231ac4b4686386c53de09697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00076
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 897
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e92c4a3fb43d3b43bc7e0b7e113cd9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00077
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 897
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6a6279bff039b4aa279f3e3943d87f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00078
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 897
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e64f7f8bfcc3b846beb4498cb370d58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00079
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 897
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81db071ab1fedaa4f87f22a050eaf936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00080
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 897
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd87b6f714f421c4bacd51f09fbcd81a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00081
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 897
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc58c6450cbe91479f59e5e9c3732cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00082
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 769
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19725f79b1e117144a780672d4b961ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00083
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 769
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18779de70cb05b44cb6981530a1d6540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00084
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 769
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3166fb23b567724390d922ed87bfab3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00085
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 769
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4f09ecbfb34eb4188effbf2a4f3af8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00086
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 769
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174043cc375973f49b523fe108306c2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00087
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 769
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90868f3a0171a8446a24cdd6dbaebf0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00088
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 769
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ca309ce968cc54ebf3c2cf21204236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00089
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 769
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72424fc4f2f498f438f2812482aa079b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00090
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 769
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb42ebb2d06c9aa46883cfb14f17961e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00091
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 641
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767b4535621a4f640b19ccbf760fddeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00092
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 641
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1472da7d401524794d0ee5fad5ad9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00093
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 641
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1844fcb6ce0c9984e984b31bf68f517a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00094
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 641
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8826548a052d57e44b689a7efbdb184e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00095
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 641
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e879e25a38dc1c84eacd6b199c18c53b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00096
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 641
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bbaa6c8da3f614595dc2b92fca15de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00097
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 641
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2288a37e470d73e4cbc80ae2a9b45daa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00098
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 641
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac609eb6b411604f9675725e72f9121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00099
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 641
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ba987f669616548a9f3d9d242155c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00100
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 513
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b020524452da38f46a9319c316cbfbe7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00101
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 513
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12899fa5569a104b9352e9a437394ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00102
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 513
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf95f7d43e877946afb8361d1f5f7a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00103
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 513
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3489dd6fcb1be584a89bddc921f33438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00104
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 513
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990a663932a55ba4393e61d58e5afc98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00105
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 513
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691a86f51b542494fb23ba530124f003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00106
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 513
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78423a58e7814841b1ef6a4f60cc689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00107
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 513
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac65647d0a05ca2489728060f3411464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00108
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 513
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606545707e1865441a0440260934aed2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00109
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 385
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802b6d5154e13fc4587f80099d499449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00110
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 385
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffc01f0afd4f0a4e8065c4caec54b77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00111
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 385
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fe38a4a9b883345a4ad39581c9f692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00112
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 385
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb81e799a26a8d419eeb80a47aa25f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00113
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 385
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddf00ab7ee8a324eaf7840029196152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00114
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 385
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae80ed6ac931fad47b9d8206cbb914b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00115
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 385
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcd7404f43a58d47b9f5be24b78521b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00116
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 385
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b999b86be1f5f140992173b09867c15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00117
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 385
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743beafe53b340e4087de7d0636871d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00118
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 257
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e9d6341b3331f419c3c24e741eca56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00119
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1153
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a0738ab9e5ee240be6233d4a95c2a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snail movement fixed_00120
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1153
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d35fc89b2fca547a29ca6802506ebc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eafcca68180f52a42940808124d87e32
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

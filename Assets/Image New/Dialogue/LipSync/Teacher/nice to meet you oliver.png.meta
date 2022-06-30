@@ -1,0 +1,1166 @@
+fileFormatVersion: 2
+guid: 2df2ff724a6c4b742a59f8dc9fb9bd37
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nice to meet you oliver_00001
+    21300002: nice to meet you oliver_00002
+    21300004: nice to meet you oliver_00003
+    21300006: nice to meet you oliver_00004
+    21300008: nice to meet you oliver_00005
+    21300010: nice to meet you oliver_00006
+    21300012: nice to meet you oliver_00007
+    21300014: nice to meet you oliver_00008
+    21300016: nice to meet you oliver_00009
+    21300018: nice to meet you oliver_00010
+    21300020: nice to meet you oliver_00011
+    21300022: nice to meet you oliver_00012
+    21300024: nice to meet you oliver_00013
+    21300026: nice to meet you oliver_00014
+    21300028: nice to meet you oliver_00015
+    21300030: nice to meet you oliver_00016
+    21300032: nice to meet you oliver_00017
+    21300034: nice to meet you oliver_00018
+    21300036: nice to meet you oliver_00019
+    21300038: nice to meet you oliver_00020
+    21300040: nice to meet you oliver_00021
+    21300042: nice to meet you oliver_00022
+    21300044: nice to meet you oliver_00023
+    21300046: nice to meet you oliver_00024
+    21300048: nice to meet you oliver_00025
+    21300050: nice to meet you oliver_00026
+    21300052: nice to meet you oliver_00027
+    21300054: nice to meet you oliver_00028
+    21300056: nice to meet you oliver_00029
+    21300058: nice to meet you oliver_00030
+    21300060: nice to meet you oliver_00031
+    21300062: nice to meet you oliver_00032
+    21300064: nice to meet you oliver_00033
+    21300066: nice to meet you oliver_00034
+    21300068: nice to meet you oliver_00035
+    21300070: nice to meet you oliver_00036
+    21300072: nice to meet you oliver_00037
+    21300074: nice to meet you oliver_00038
+    21300076: nice to meet you oliver_00039
+    21300078: nice to meet you oliver_00040
+    21300080: nice to meet you oliver_00041
+    21300082: nice to meet you oliver_00042
+    21300084: nice to meet you oliver_00043
+    21300086: nice to meet you oliver_00044
+    21300088: nice to meet you oliver_00045
+    21300090: nice to meet you oliver_00046
+    21300092: nice to meet you oliver_00047
+    21300094: nice to meet you oliver_00048
+    21300096: nice to meet you oliver_00049
+    21300098: nice to meet you oliver_00050
+    21300100: nice to meet you oliver_00051
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nice to meet you oliver_00001
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 207
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168bfb08d0f9c3d4ca363851df4e4af4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00002
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 353
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 1.025, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72e31a2c19806447a44208f52b820f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00003
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 351
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 1.025, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc02d81207d9b140964e4960085fc07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00004
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 317
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 1.025, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a8f4e7e3da53e4eb9af349360f331a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 474
+        width: 48
+        height: 37
+      alignment: 9
+      pivot: {x: 0.9791667, y: -2.6756756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b1a55178d6c3f40b5dbb7932138e4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00006
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 432
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3a209880cea4f45a1b04a5793815b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00007
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 429
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c86fafeb5dfae478ed2d9d62983f2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00008
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 428
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3c61ed369fc5d409553f3edd0ed728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 172
+        width: 39
+        height: 34
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5615d395ea3aca44da28815d94a070a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00010
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 211
+        width: 39
+        height: 34
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0708bb062d0b0324899aae5b3b4b92c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00011
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 175
+        width: 39
+        height: 34
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5528b7f48b3f3c468801585c94586d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00012
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 171
+        width: 39
+        height: 34
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04d765b58d36fe4a89f3cca37812499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 316
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 1.025, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b75ac85bad9a9945b05a101b24d0a4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00014
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 317
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 1.025, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c9c4a47846d314c9d510d848ba5dff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00015
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 315
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 1.025, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1776a5b0b4a7f2d4aa9e3ba100595208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00016
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 281
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 1.025, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb149c2d26d2924e931ffb62e0f6e4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00017
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 356
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4ace0705ddef344863115ce79ecb19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00018
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 470
+        width: 46
+        height: 41
+      alignment: 9
+      pivot: {x: 1, y: -2.317073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c995898ac137ac1458c4737f6d688300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 280
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 1.025, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e02d9a0c4443e46b5f99182031f6d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00020
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 389
+        width: 44
+        height: 37
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.6756756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc74f6f2e3908c54c82f070131b7eeaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 389
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d2d7ba15b520c488e914c28c579d8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00022
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 432
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2b9c7b2ad899c4386068fb531738c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00023
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 390
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b60f0dc6347bd49a381a2f79932fdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00024
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 169
+        width: 39
+        height: 34
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff62af6e52d8f78439f03276c874f677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00025
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 175
+        width: 39
+        height: 34
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84588ebcae4ed3e498ce5ab59574fd28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00026
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 136
+        width: 39
+        height: 34
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d553f550f1a47b4dbf3d4bc416cee6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00027
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 136
+        width: 39
+        height: 34
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae129d8a64387847a7e89244ac51335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00028
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 283
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 1.025, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42aaa8ff187451c4aa1c625b10aa76b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00029
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 281
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 1.025, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1d393751bb87a458e8529aff5ea572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00030
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 279
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 1.025, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800f2544474553d4894c3860f9e16335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00031
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 245
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 1.025, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fc7c2694f451143a7e47c57bddba74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00032
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 244
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 1.025, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6968f6ce7372e4ea92dbc07e812387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00033
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 172
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7121a985f278b64592a697835c94e33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00034
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 205
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 1.051282, y: -2.7222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee04429efc6db24faa1be7b2578cc8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00035
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 353
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aea35579243fb040bd9a356c4f2851d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00036
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 283
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 1.025, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98952aca1e953b949a94128f99d43f3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00037
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 247
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 1.025, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bced3278fbae5864bb7fd5fb950a50f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00038
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 245
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 1.025, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116b4beef8d430c41aa37f7018d8c3ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00039
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 474
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 1.0222223, y: -2.6756756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee053268633141479433ceda050098c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00040
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 474
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 1.0444444, y: -2.6756756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63560904e5b4db4392563d50789d658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00041
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 387
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4556f9c347bdf2c4f908d48d33969c5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00042
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 393
+        width: 44
+        height: 37
+      alignment: 9
+      pivot: {x: 1.0454545, y: -2.6756756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8280b51fb06e44fa6fa3fb9970f0a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00043
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 243
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 1.025, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16da6ee5077f24a489457900426a6ae2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00044
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 431
+        width: 46
+        height: 41
+      alignment: 9
+      pivot: {x: 1, y: -2.317073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4fc3f9c255024478f398a8cd571604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00045
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 319
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e59a2afe90a880448cb89c222182119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00046
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 352
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 1.025, y: -2.8285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafa24ff854c70249b5de95560d570cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00047
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 471
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 1, y: -2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862bb3c9338a0554a8e34ef9dfb2df9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00048
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 209
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 1.025, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac210f01532ba04b80f3d7da54558bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00049
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 208
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 1.025, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff40cfe60d35d2342a2f6ddbf3cf2173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00050
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 247
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 1.025, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7690f38ca2a1b14fa96607f22ae0cc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice to meet you oliver_00051
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 211
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 1.025, y: -2.9411764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c105675eb3c0c54cb19af00c04922a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: caf9a989930a3504e839839ac6dd09b0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: ddb50ebc477a90d43b0ae1d1e9e3b7ec
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pick_00001
+    21300002: pick_00002
+    21300004: pick_00003
+    21300006: pick_00004
+    21300008: pick_00005
+    21300010: pick_00006
+    21300012: pick_00007
+    21300014: pick_00008
+    21300016: pick_00009
+    21300018: pick_00010
+    21300020: pick_00011
+    21300022: pick_00012
+    21300024: pick_00013
+    21300026: pick_00014
+    21300028: pick_00015
+    21300030: pick_00016
+    21300032: pick_00017
+    21300034: pick_00018
+    21300036: pick_00019
+    21300038: pick_00020
+    21300040: pick_00021
+    21300042: pick_00022
+    21300044: pick_00023
+    21300046: pick_00024
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pick_00001
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1702
+        width: 351
+        height: 345
+      alignment: 9
+      pivot: {x: 0.50427353, y: 0.48985508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98734a804277cd542acc86f09eb401f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pick_00002
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1354
+        width: 350
+        height: 346
+      alignment: 9
+      pivot: {x: 0.49714285, y: 0.49710983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb9b3d4ab434304190c1e49437861af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pick_00003
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 298
+        width: 342
+        height: 349
+      alignment: 9
+      pivot: {x: 0.5, y: 0.504298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da2e6a3ab4b5b04181dc5269a9cf974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pick_00004
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 644
+        width: 345
+        height: 346
+      alignment: 9
+      pivot: {x: 0.49565217, y: 0.49421966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c9fb15362c94145be8aeff79e0e010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pick_00005
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1700
+        width: 350
+        height: 347
+      alignment: 9
+      pivot: {x: 0.4942857, y: 0.50432277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c86705394493d4cb734044771d8bd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pick_00006
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 992
+        width: 347
+        height: 350
+      alignment: 9
+      pivot: {x: 0.49567723, y: 0.50285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675e68041d1406e4db79aad1c6a5f2dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pick_00007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1701
+        width: 355
+        height: 346
+      alignment: 9
+      pivot: {x: 0.50140846, y: 0.4913295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e65ab87ffa8e84692f332a24ed1ece
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pick_00008
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1693
+        width: 353
+        height: 354
+      alignment: 9
+      pivot: {x: 0.49291784, y: 0.50282484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f112da8eaa2014c46ba0eca870bfdbd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pick_00009
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1344
+        width: 349
+        height: 351
+      alignment: 9
+      pivot: {x: 0.49856734, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3878c8a4495cd34cbd197ce905798c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pick_00010
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 302
+        width: 344
+        height: 345
+      alignment: 9
+      pivot: {x: 0.49127907, y: 0.4985507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a53bd61ddfd5c47a02f1672135b3c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pick_00011
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 292
+        width: 343
+        height: 350
+      alignment: 9
+      pivot: {x: 0.49271137, y: 0.50285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1180d83cb34164dafb766ace905dfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pick_00012
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 290
+        width: 343
+        height: 352
+      alignment: 9
+      pivot: {x: 0.5043732, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d747751204f426544975d1ce0d71f17b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pick_00013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1346
+        width: 352
+        height: 353
+      alignment: 9
+      pivot: {x: 0.50284094, y: 0.49858356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3125cdda4ebd0443b89c2ca517e87b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pick_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 653
+        width: 347
+        height: 346
+      alignment: 9
+      pivot: {x: 0.48991355, y: 0.50578034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf6e34daae39d04a85d0bd1caa6bc3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pick_00015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1001
+        width: 349
+        height: 343
+      alignment: 9
+      pivot: {x: 0.49283668, y: 0.50728863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c5f973cc45b234a9153f98c07748ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pick_00016
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1345
+        width: 348
+        height: 353
+      alignment: 9
+      pivot: {x: 0.49425286, y: 0.5042493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c9e21e8c6d80846acb27d75f4095b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pick_00017
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1004
+        width: 348
+        height: 348
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50287354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef16a866c5614dc448e89bca203e58a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pick_00018
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1344
+        width: 349
+        height: 347
+      alignment: 9
+      pivot: {x: 0.50143266, y: 0.50432277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca07deb58a4d0c64eb970e0ef051d793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pick_00019
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 995
+        width: 348
+        height: 348
+      alignment: 9
+      pivot: {x: 0.49425286, y: 0.5086207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac5e54b6134deb4f8bf4cf2b1cc58a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pick_00020
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1697
+        width: 352
+        height: 350
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50857145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f59c87923903949ad7b956f801b753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pick_00021
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 998
+        width: 347
+        height: 344
+      alignment: 9
+      pivot: {x: 0.5072046, y: 0.502907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f6590b8422c534ab0e17e9ef04b520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pick_00022
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 649
+        width: 346
+        height: 347
+      alignment: 9
+      pivot: {x: 0.49710983, y: 0.50432277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfc83b7e28532a419f658592b001471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pick_00023
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 300
+        width: 344
+        height: 351
+      alignment: 9
+      pivot: {x: 0.50581396, y: 0.5014245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901b887afb5bc8f469ea03b63631fca9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pick_00024
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 649
+        width: 346
+        height: 353
+      alignment: 9
+      pivot: {x: 0.4913295, y: 0.50141644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eeab00893c912a40b817ec54a9b4697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e4e97d3d9ef7a1e4da18a7c940bb5c74
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

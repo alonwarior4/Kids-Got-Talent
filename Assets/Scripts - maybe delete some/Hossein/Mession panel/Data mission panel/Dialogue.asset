@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cebb0198a0ecfc488454e3057afcb93, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  Data:
+  - Scenename: 9
+    BeforeFinished: {fileID: 21300000, guid: f6e7e99c6eb17c940914caba1b6cf55c, type: 3}
+    AfterFinished: {fileID: 21300000, guid: f6e7e99c6eb17c940914caba1b6cf55c, type: 3}
+  - Scenename: 7
+    BeforeFinished: {fileID: 21300000, guid: b9a02b2a8b257c843a805014fabbfda3, type: 3}
+    AfterFinished: {fileID: 21300000, guid: 5b6f2de247f6f3f4f842a22f3618fe8b, type: 3}
+  - Scenename: 6
+    BeforeFinished: {fileID: 21300000, guid: 7ca217043795a454881ce9da314abdc2, type: 3}
+    AfterFinished: {fileID: 21300000, guid: 01d08ff06c963fe438b0a8d84ac86268, type: 3}
+  - Scenename: 10
+    BeforeFinished: {fileID: 21300000, guid: db848b37b93028b44904fdba25067e7a, type: 3}
+    AfterFinished: {fileID: 21300000, guid: cf2bb2bd4aa17824ba9dce13f55d6945, type: 3}
+  - Scenename: 5
+    BeforeFinished: {fileID: 21300000, guid: 57cd2fa66d058304fbbb662dcd54ae31, type: 3}
+    AfterFinished: {fileID: 21300000, guid: 3abc820834094384397061a71c4758af, type: 3}
+  - Scenename: 8
+    BeforeFinished: {fileID: 21300000, guid: bae67582d03387e49bf30ad0384bba02, type: 3}
+    AfterFinished: {fileID: 21300000, guid: 2e643cd2f6d0cec468535fc76612693e, type: 3}

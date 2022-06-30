@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14be7127fd9be37498c1c959d281af15, type: 3}
+  m_Name: Coloring_Kharazmi
+  m_EditorClassIdentifier: 
+  StoryData:
+  - text: This is Kharazmi institute. It's a place where people learn English.
+    Audio: {fileID: 8300000, guid: a63aba8d39568dc43bbba162a1f01589, type: 3}
+    isFirst: 1
+    isLast: 0
+  - text: I want to color it but I don't know any colors. can you help me?
+    Audio: {fileID: 8300000, guid: dc87b48728feadf47bf9e90f813564ee, type: 3}
+    isFirst: 1
+    isLast: 0
+  - text: Thank you . Now it's the beautiful place where I will learn English.
+    Audio: {fileID: 8300000, guid: 6077531677a5eda4e8b3da9322d5294e, type: 3}
+    isFirst: 0
+    isLast: 1
+  oliverTalk:
+  - text: green , brown tree
+    Audio: {fileID: 8300000, guid: c44c22a624109ce49a3cdb61f1811ce6, type: 3}
+  - text: pink ball
+    Audio: {fileID: 8300000, guid: b58edc396fad0554b88d0c95c5e0662b, type: 3}
+  - text: yellow car
+    Audio: {fileID: 8300000, guid: 74e3ff2484db38f42bdae73158cbacc2, type: 3}
+  - text: blue , green , yellow and red kite
+    Audio: {fileID: 8300000, guid: b36dffef3d5e8c641b9e9d6025775d5b, type: 3}
+  - text: green , white and red flag
+    Audio: {fileID: 8300000, guid: f909587aad1e7d24785f65376efae5e9, type: 3}
+  - text: orange airplane
+    Audio: {fileID: 8300000, guid: 1800bafa6cf95df4dae6db917771f796, type: 3}
+  - text: blue windows
+    Audio: {fileID: 8300000, guid: 34df92fa21c45604496b1a9f4f15fdd1, type: 3}

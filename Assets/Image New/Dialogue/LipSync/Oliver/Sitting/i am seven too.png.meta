@@ -1,0 +1,746 @@
+fileFormatVersion: 2
+guid: bdb278e51cdbdf84fb1a234cce769b34
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: i am seven too_00001
+    21300002: i am seven too_00002
+    21300004: i am seven too_00003
+    21300006: i am seven too_00004
+    21300008: i am seven too_00005
+    21300010: i am seven too_00006
+    21300012: i am seven too_00007
+    21300014: i am seven too_00008
+    21300016: i am seven too_00009
+    21300018: i am seven too_00010
+    21300020: i am seven too_00011
+    21300022: i am seven too_00012
+    21300024: i am seven too_00013
+    21300026: i am seven too_00014
+    21300028: i am seven too_00015
+    21300030: i am seven too_00016
+    21300032: i am seven too_00017
+    21300034: i am seven too_00018
+    21300036: i am seven too_00019
+    21300038: i am seven too_00020
+    21300040: i am seven too_00021
+    21300042: i am seven too_00022
+    21300044: i am seven too_00023
+    21300046: i am seven too_00024
+    21300048: i am seven too_00025
+    21300050: i am seven too_00026
+    21300052: i am seven too_00027
+    21300054: i am seven too_00028
+    21300056: i am seven too_00029
+    21300058: i am seven too_00030
+    21300060: i am seven too_00031
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: i am seven too_00001
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 184
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ea97b92b3918f46a965720e90a0fde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00002
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 396
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a09c0e586cba434490cfcb8aea27cdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00003
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 410
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad98bb009b398e4aa234f0e4ce8ff24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00004
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 409
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f5821a4fc3dd8418abc522f2dc94d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00005
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 364
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5059a0b0c4aa0574db86fa97ceecb342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00006
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 350
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152ba14781d8b824d87381ce76ba9c67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00007
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 442
+        width: 57
+        height: 69
+      alignment: 9
+      pivot: {x: 1.754386, y: -0.7246377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212fd514243d18346a03d0a08b88c6b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00008
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 456
+        width: 59
+        height: 55
+      alignment: 9
+      pivot: {x: 1.6271186, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31abd7a0033382478574df0bd142239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 398
+        width: 60
+        height: 57
+      alignment: 9
+      pivot: {x: 1.6166667, y: -0.9298246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275594740d5210841853108142435112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00010
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 212
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 1.82, y: -1.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d7f477e5f85e249b41e708262c754a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00011
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 140
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0ca6ef7b4b86d4897df2d63d2baf48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00012
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 318
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7d4f58dfb83364aa7e49c2140a724a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00013
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 317
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b43ec6e3a053f64fb83156d01239afd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 350
+        width: 58
+        height: 46
+      alignment: 9
+      pivot: {x: 1.6206896, y: -1.3913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c1247a3b5e30d43a109319ff96ee63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 235
+        width: 53
+        height: 52
+      alignment: 9
+      pivot: {x: 1.6415094, y: -1.0961539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c38fe5799185642b107e2e0ed34fe6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 180
+        width: 46
+        height: 53
+      alignment: 9
+      pivot: {x: 1.9130435, y: -1.0566038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78f0acae7e11e54c8d7390a1fd9fd54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00017
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 255
+        width: 53
+        height: 60
+      alignment: 9
+      pivot: {x: 1.7924528, y: -0.9166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4529142b138193044afdf59eea39fc8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00018
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 168
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9333333, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cfdc0f6acbb3d4a96d4f9624047b4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00019
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 152
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9333333, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28a5d5bc0476ce4d9358e04d2255a29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 54
+        height: 59
+      alignment: 9
+      pivot: {x: 1.7777778, y: -0.9491525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3de1b016bb1fb4f8422b8d529796be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 136
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9333333, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db8e8f2da697f8429a55e3f3a004029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00022
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 196
+        width: 48
+        height: 57
+      alignment: 9
+      pivot: {x: 1.875, y: -0.9649123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0175450b2cf202243964568923fdc43c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00023
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 293
+        width: 54
+        height: 55
+      alignment: 9
+      pivot: {x: 1.7777778, y: -0.94545454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb453b15f394c7419089d91de24a675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00024
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 176
+        width: 45
+        height: 50
+      alignment: 9
+      pivot: {x: 1.9333333, y: -1.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d099b36716f50b4cb469db5ca818915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00025
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 228
+        width: 52
+        height: 63
+      alignment: 9
+      pivot: {x: 1.8076923, y: -0.82539684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c880bead8c9483442a3d839f17f73a2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00026
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 264
+        width: 54
+        height: 52
+      alignment: 9
+      pivot: {x: 1.6296296, y: -1.0961539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ea00c8e9539a545bc25fa6fdba0cb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00027
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 132
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6796f744cd53f48a1893c308876789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00028
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 124
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88d092fcd4781a499ee82feee555559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00029
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 457
+        width: 67
+        height: 54
+      alignment: 9
+      pivot: {x: 1.5522388, y: -1.037037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da0509576751c8438fef9b1614489af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00030
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 455
+        width: 65
+        height: 56
+      alignment: 9
+      pivot: {x: 1.6, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3652978905bc08d4cacd6c953c5bceb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i am seven too_00031
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 363
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924a6be88158ecd4ab91d6cb6e4a16fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 56f3ad61c10e099479940f6c47d4a2e0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

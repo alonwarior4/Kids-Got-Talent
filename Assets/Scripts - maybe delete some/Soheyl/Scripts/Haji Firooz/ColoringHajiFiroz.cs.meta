@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3154b971a1cfb354fac891e0672c76b0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SpriteForChangeColor: {instanceID: 0}
+  - EaraserAudioClip: {instanceID: 0}
+  - PenAudioClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

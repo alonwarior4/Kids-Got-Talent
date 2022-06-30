@@ -1,0 +1,893 @@
+fileFormatVersion: 2
+guid: fbaae6baf2946cc41a31dad638fe0667
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: my favorite color is pink_00001
+    21300002: my favorite color is pink_00002
+    21300004: my favorite color is pink_00003
+    21300006: my favorite color is pink_00004
+    21300008: my favorite color is pink_00005
+    21300010: my favorite color is pink_00006
+    21300012: my favorite color is pink_00007
+    21300014: my favorite color is pink_00008
+    21300016: my favorite color is pink_00009
+    21300018: my favorite color is pink_00010
+    21300020: my favorite color is pink_00011
+    21300022: my favorite color is pink_00012
+    21300024: my favorite color is pink_00013
+    21300026: my favorite color is pink_00014
+    21300028: my favorite color is pink_00015
+    21300030: my favorite color is pink_00016
+    21300032: my favorite color is pink_00017
+    21300034: my favorite color is pink_00018
+    21300036: my favorite color is pink_00019
+    21300038: my favorite color is pink_00020
+    21300040: my favorite color is pink_00021
+    21300042: my favorite color is pink_00022
+    21300044: my favorite color is pink_00023
+    21300046: my favorite color is pink_00024
+    21300048: my favorite color is pink_00025
+    21300050: my favorite color is pink_00026
+    21300052: my favorite color is pink_00027
+    21300054: my favorite color is pink_00028
+    21300056: my favorite color is pink_00029
+    21300058: my favorite color is pink_00030
+    21300060: my favorite color is pink_00031
+    21300062: my favorite color is pink_00032
+    21300064: my favorite color is pink_00033
+    21300066: my favorite color is pink_00034
+    21300068: my favorite color is pink_00035
+    21300070: my favorite color is pink_00036
+    21300072: my favorite color is pink_00037
+    21300074: my favorite color is pink_00038
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: my favorite color is pink_00001
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 93
+        width: 56
+        height: 45
+      alignment: 9
+      pivot: {x: 1.625, y: -1.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9779db13f49adc4ea2b768604b8ce41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00002
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 469
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3796936faf0cb8d499fbe27ba56fe30c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00003
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 452
+        width: 67
+        height: 59
+      alignment: 9
+      pivot: {x: 1.6268656, y: -0.84745765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e224d32630d6734290bf0a74aaa61cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00004
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 56
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 1.82, y: -1.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9100bb638b1d10b44be3793c971d2848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00005
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 393
+        width: 60
+        height: 57
+      alignment: 9
+      pivot: {x: 1.6166667, y: -0.9298246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e47ce29d206dda45b8cb31d9ca4d455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00006
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 336
+        width: 59
+        height: 55
+      alignment: 9
+      pivot: {x: 1.6271186, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664f1ac69d6069440901cd3cba7183d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 343
+        width: 60
+        height: 57
+      alignment: 9
+      pivot: {x: 1.6166667, y: -0.9298246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce63fc73d4072345b36c1094766e489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 1.82, y: -1.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba5ffab2bbb189449e5fc47b0de0051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00009
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 338
+        width: 60
+        height: 57
+      alignment: 9
+      pivot: {x: 1.6166667, y: -0.9298246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cbda677613cce4f95c9e50c70a4bf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 286
+        width: 59
+        height: 55
+      alignment: 9
+      pivot: {x: 1.6271186, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0c96f4426130d4a85bb72d9f85365d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00011
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 455
+        width: 62
+        height: 56
+      alignment: 9
+      pivot: {x: 1.5967742, y: -1.0178572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab237b15283bb740b081ee9724d2b30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00012
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 425
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f78e5efa5416e47981948ced36ffdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00013
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 232
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009b39aada7c4f8459ad738c2aceb7b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00014
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 200
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6fdb2bcffd5c94f8edad13747feefa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 459
+        width: 73
+        height: 52
+      alignment: 9
+      pivot: {x: 1.479452, y: -1.0769231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbe0dc3ba8a42e4bb4ada4257eef889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00016
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 198
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301d17943019a7441a7b679f061c75c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 194
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2cb9fc3cbd1024c8b363b9a66637bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00018
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 381
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98903644a7705af4681a97bab14d03b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00019
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 56
+        width: 49
+        height: 48
+      alignment: 9
+      pivot: {x: 1.7959183, y: -1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da21e96fd74003246a1189116bf34c9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 402
+        width: 63
+        height: 55
+      alignment: 9
+      pivot: {x: 1.5873016, y: -1.0363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a979261b9e5c7ec4cb3d6361af66acce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00021
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 324
+        width: 59
+        height: 55
+      alignment: 9
+      pivot: {x: 1.6271186, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a542ad99b529e549bd1156a8732f949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00022
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 397
+        width: 62
+        height: 56
+      alignment: 9
+      pivot: {x: 1.5967742, y: -1.0178572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a03c902404716c408d5e270b510244e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00023
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 58
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba0e127253a1414792580ced3231365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00024
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 186
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797af714049274942be79fbc792ed1fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00025
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 154
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ea515aeff3c4840a289b6fa0edc171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00026
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 292
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a64af5431f4c1a4d99bc16115b0ed73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00027
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 290
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea826660a1d5f44ea1052c37e177651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00028
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 278
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7054d9767fb5b80468ab1441d1dddb4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00029
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 152
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ed759ffb668e04aae9d104ade45ed5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00030
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 148
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adab5a42dceea8499f37483de71001f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00031
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 140
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c528eee24fd5824192430e3a773c37a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00032
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 108
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816916d605734b142a5b34e0f0fae6db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00033
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 106
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275f7b80192a3714bafd044fb06dc223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00034
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 102
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645297540906483438dbc27705a58d36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00035
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 246
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c48ee46d53e6074985b64583fc068d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00036
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 244
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d262d9a18ca344dbc570eec0173d28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00037
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 6
+        width: 50
+        height: 48
+      alignment: 9
+      pivot: {x: 1.78, y: -1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9a0990453cc8341b8ac69c44806020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is pink_00038
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 240
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6461cf52a66cb840b806ec5185c25a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2c8dee9d538605643b609d1a8f889902
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

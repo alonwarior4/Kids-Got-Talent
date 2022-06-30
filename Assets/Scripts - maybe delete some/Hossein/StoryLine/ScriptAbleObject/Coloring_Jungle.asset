@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14be7127fd9be37498c1c959d281af15, type: 3}
+  m_Name: Coloring_Jungle
+  m_EditorClassIdentifier: 
+  StoryData:
+  - text: This is a beautiful jungle. There are so many animals here but they are
+      colorless.
+    Audio: {fileID: 8300000, guid: 3fd5a9b50d0c1c94fba994b550102903, type: 3}
+    isFirst: 1
+    isLast: 0
+  - text: I want to color them but I don't know any colors. Can you help me?
+    Audio: {fileID: 8300000, guid: d3d5631546f304143b8a8e8ac7586c3c, type: 3}
+    isFirst: 1
+    isLast: 0
+  - text: Thank you. Now they look very happy.
+    Audio: {fileID: 8300000, guid: 49b60cf66e2743a4a83d0b4a4ae41034, type: 3}
+    isFirst: 0
+    isLast: 1
+  oliverTalk:
+  - text: yellow lion
+    Audio: {fileID: 8300000, guid: 41e96ce09c6a87f4eb86337ef31a7f30, type: 3}
+  - text: brown dog
+    Audio: {fileID: 8300000, guid: 8140305811483904f99d8ffd083b6404, type: 3}
+  - text: gray sheep
+    Audio: {fileID: 8300000, guid: 932d276c11f60c0489755062c49b3901, type: 3}
+  - text: purple cat
+    Audio: {fileID: 8300000, guid: a7728ed391dba7f41b849387f4a2595c, type: 3}
+  - text: pink rabbit
+    Audio: {fileID: 8300000, guid: bd132b823cb11144caecefbe6de88e9c, type: 3}
+  - text: green crocodile
+    Audio: {fileID: 8300000, guid: 9e94874a5d4d5294e8957b7cb5a82998, type: 3}
+  - text: black mouse
+    Audio: {fileID: 8300000, guid: 825841f41a6afcd4297ea1338a22334c, type: 3}

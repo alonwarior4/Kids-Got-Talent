@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: c781f2b540930064fa9cd923de895e4f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: coloring bala tane_00001
+    21300002: coloring bala tane_00002
+    21300004: coloring bala tane_00003
+    21300006: coloring bala tane_00004
+    21300008: coloring bala tane_00005
+    21300010: coloring bala tane_00006
+    21300012: coloring bala tane_00007
+    21300014: coloring bala tane_00008
+    21300016: coloring bala tane_00009
+    21300018: coloring bala tane_00010
+    21300020: coloring bala tane_00011
+    21300022: coloring bala tane_00012
+    21300024: coloring bala tane_00013
+    21300026: coloring bala tane_00014
+    21300028: coloring bala tane_00015
+    21300030: coloring bala tane_00016
+    21300032: coloring bala tane_00017
+    21300034: coloring bala tane_00018
+    21300036: coloring bala tane_00019
+    21300038: coloring bala tane_00020
+    21300040: coloring bala tane_00021
+    21300042: coloring bala tane_00022
+    21300044: coloring bala tane_00023
+    21300046: coloring bala tane_00024
+    21300048: coloring bala tane_00025
+    21300050: coloring bala tane_00026
+    21300052: coloring bala tane_00027
+    21300054: coloring bala tane_00028
+    21300056: coloring bala tane_00029
+    21300058: coloring bala tane_00030
+    21300060: coloring bala tane_00031
+    21300062: coloring bala tane_00032
+    21300064: coloring bala tane_00033
+    21300066: coloring bala tane_00034
+    21300068: coloring bala tane_00035
+    21300070: coloring bala tane_00036
+    21300072: coloring bala tane_00037
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coloring bala tane_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1661
+        width: 446
+        height: 386
+      alignment: 9
+      pivot: {x: 0.49775785, y: 0.5284974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5092bb3fe23e4d140b5eb5b6d7936828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00002
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1661
+        width: 446
+        height: 386
+      alignment: 9
+      pivot: {x: 0.49775785, y: 0.5284974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afe6c13c7472a5438b0a2d12bfefde2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00003
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1661
+        width: 446
+        height: 386
+      alignment: 9
+      pivot: {x: 0.49775785, y: 0.5284974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45b0a6695a368b4ca7ac506bd5db607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00004
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1661
+        width: 446
+        height: 386
+      alignment: 9
+      pivot: {x: 0.49775785, y: 0.5284974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ed4ed4226bf7e46be719e53945d503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00005
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 103
+        width: 445
+        height: 386
+      alignment: 9
+      pivot: {x: 0.4988764, y: 0.5284974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9eda461ee755824ca31a1b994e1aabd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00006
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 880
+        width: 442
+        height: 387
+      alignment: 9
+      pivot: {x: 0.5022625, y: 0.5297158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632380a6e24c3ef44b9fe634738a68a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00007
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 493
+        width: 417
+        height: 386
+      alignment: 9
+      pivot: {x: 0.5323741, y: 0.5284974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d2b196f010ef94db56d204b654bc7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00008
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1270
+        width: 421
+        height: 387
+      alignment: 9
+      pivot: {x: 0.5273159, y: 0.5297158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b0c330d9afd1343989574aed2094e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00009
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 92
+        width: 392
+        height: 387
+      alignment: 9
+      pivot: {x: 0.56632656, y: 0.5297158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9549ff14c3ab9874b9c46b708a9f535e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00010
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 105
+        width: 392
+        height: 386
+      alignment: 9
+      pivot: {x: 0.56632656, y: 0.5284974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c253b68578f8707489675fd1ea5a07f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00011
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 491
+        width: 390
+        height: 387
+      alignment: 9
+      pivot: {x: 0.5692308, y: 0.5297158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d0db8392db8e644ad80faf28edad2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00012
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1269
+        width: 358
+        height: 388
+      alignment: 9
+      pivot: {x: 0.6201117, y: 0.52835053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963bcee2509a66742ae2ea09f57612b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 85
+        width: 358
+        height: 388
+      alignment: 9
+      pivot: {x: 0.6201117, y: 0.52835053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6a509ae922a444f8719ed0cf1d0758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00014
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 102
+        width: 355
+        height: 387
+      alignment: 9
+      pivot: {x: 0.6253521, y: 0.5297158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6032969efbe0a6846961fa4e47bf80d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00015
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 491
+        width: 326
+        height: 387
+      alignment: 9
+      pivot: {x: 0.6809816, y: 0.5297158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd169a1b773fd3a43b0c7623f83894fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00016
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 881
+        width: 326
+        height: 387
+      alignment: 9
+      pivot: {x: 0.6809816, y: 0.5297158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bb9d81ec2c0f645a6d335c312ee494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00017
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1270
+        width: 326
+        height: 387
+      alignment: 9
+      pivot: {x: 0.6809816, y: 0.5297158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb061c8b76b3ae42be7a7cdd3698bea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00018
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1270
+        width: 283
+        height: 387
+      alignment: 9
+      pivot: {x: 0.7844523, y: 0.5297158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5b9434a85e4234b91aeb01e5c51069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00019
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 481
+        width: 283
+        height: 388
+      alignment: 9
+      pivot: {x: 0.7844523, y: 0.53092784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48c33323e1b4ad4b8eb3781073515ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00020
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 871
+        width: 281
+        height: 390
+      alignment: 9
+      pivot: {x: 0.7900356, y: 0.5307692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa6d81118a7b644a91eb066478c0a10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00021
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1659
+        width: 237
+        height: 388
+      alignment: 9
+      pivot: {x: 0.93670887, y: 0.52835053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b085b670213264643862975f8198551a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00022
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1267
+        width: 236
+        height: 390
+      alignment: 9
+      pivot: {x: 0.94067794, y: 0.5307692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f791a1229c438543afe49d70d6e4600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00023
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 475
+        width: 236
+        height: 391
+      alignment: 9
+      pivot: {x: 0.94067794, y: 0.5345268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b07ef30df711604390318ca6dbf5087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00024
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1263
+        width: 203
+        height: 394
+      alignment: 9
+      pivot: {x: 1.0935961, y: 0.53045684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e44be84ca2075e489b61188e4f1a8cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00025
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 868
+        width: 201
+        height: 393
+      alignment: 9
+      pivot: {x: 1.1044776, y: 0.52926207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beae397ab65db2f4bbe2352c7f073a87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00026
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 905
+        width: 201
+        height: 376
+      alignment: 9
+      pivot: {x: 1.1044776, y: 0.50797874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bf3640283a5f8419f280fbf490cf72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00027
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1283
+        width: 202
+        height: 376
+      alignment: 9
+      pivot: {x: 1.0990099, y: 0.50797874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4f0df3fd59cbc4abd172b010104187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00028
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 521
+        width: 157
+        height: 372
+      alignment: 9
+      pivot: {x: 1.4140128, y: 0.51344085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209ea41eeb785264297bf6c022293b1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00029
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 889
+        width: 157
+        height: 379
+      alignment: 9
+      pivot: {x: 1.4140128, y: 0.52242744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b4f15402644d343a7988100f4ff4be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00030
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 895
+        width: 162
+        height: 373
+      alignment: 9
+      pivot: {x: 1.3703704, y: 0.5067024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b5aaf68102a1b4bbf80f3d87225eac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00031
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 960
+        width: 117
+        height: 308
+      alignment: 9
+      pivot: {x: 1.8974359, y: 0.6136364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a61909036e00ac48b971e179298e954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00032
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 544
+        width: 102
+        height: 320
+      alignment: 9
+      pivot: {x: 2.1764705, y: 0.628125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37a9ed01865c844ea5d542c3159b924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00033
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 645
+        width: 103
+        height: 248
+      alignment: 9
+      pivot: {x: 2.1553397, y: 0.5201613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccf33f046473f94580f3f71b35a7377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00034
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 866
+        width: 66
+        height: 234
+      alignment: 9
+      pivot: {x: 3.3636363, y: 0.54273504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7724f1eab809149a2bed532c5875f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00035
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1102
+        width: 69
+        height: 166
+      alignment: 9
+      pivot: {x: 3.2173913, y: 0.31325302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75efe87951fdba742824fbdd89e49c95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00036
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 27
+        height: 51
+      alignment: 9
+      pivot: {x: 8.074074, y: 0.78431374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4127b6b176f59524286675e78114973e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring bala tane_00037
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 2046
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 224, y: -223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e26ab6104754d468e19cae69b317ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1fba7f0390ee70a428ee9b32cf697544
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

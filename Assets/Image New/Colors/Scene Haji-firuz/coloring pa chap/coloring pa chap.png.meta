@@ -1,0 +1,631 @@
+fileFormatVersion: 2
+guid: 1b81e8a3e1f2263439e6ddb49533680c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: coloring pa chap_00001
+    21300002: coloring pa chap_00002
+    21300004: coloring pa chap_00003
+    21300006: coloring pa chap_00004
+    21300008: coloring pa chap_00005
+    21300010: coloring pa chap_00006
+    21300012: coloring pa chap_00007
+    21300014: coloring pa chap_00008
+    21300016: coloring pa chap_00009
+    21300018: coloring pa chap_00010
+    21300020: coloring pa chap_00011
+    21300022: coloring pa chap_00012
+    21300024: coloring pa chap_00013
+    21300026: coloring pa chap_00014
+    21300028: coloring pa chap_00015
+    21300030: coloring pa chap_00016
+    21300032: coloring pa chap_00017
+    21300034: coloring pa chap_00018
+    21300036: coloring pa chap_00019
+    21300038: coloring pa chap_00020
+    21300040: coloring pa chap_00021
+    21300042: coloring pa chap_00022
+    21300044: coloring pa chap_00023
+    21300046: coloring pa chap_00024
+    21300048: coloring pa chap_00025
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coloring pa chap_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 396
+        width: 217
+        height: 115
+      alignment: 9
+      pivot: {x: 0.55760366, y: 0.51304346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c8fc84af056e741a5342dd26e2e2e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00002
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 396
+        width: 217
+        height: 115
+      alignment: 9
+      pivot: {x: 0.55760366, y: 0.51304346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e103ae0043c2435449cac4dc8a3bbd8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00003
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 395
+        width: 217
+        height: 116
+      alignment: 9
+      pivot: {x: 0.55760366, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10aa2d5c664bfc43b96df40c454dd3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00004
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 396
+        width: 224
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5401786, y: 0.51304346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00cdd066f5f88e458e47df2b61276c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 278
+        width: 217
+        height: 115
+      alignment: 9
+      pivot: {x: 0.55760366, y: 0.51304346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c802ab619f18cd240a5ee4fee12aea4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00006
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 278
+        width: 200
+        height: 115
+      alignment: 9
+      pivot: {x: 0.605, y: 0.51304346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67bd451698fd414390ad8e5b60d70d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00007
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 277
+        width: 205
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5902439, y: 0.5086207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d9859aaa9ecc04c98bb1553a9684a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00008
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 278
+        width: 185
+        height: 115
+      alignment: 9
+      pivot: {x: 0.65405405, y: 0.51304346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79599a6be5848ce4181b5e201bad51fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00009
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 277
+        width: 185
+        height: 116
+      alignment: 9
+      pivot: {x: 0.65405405, y: 0.5086207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a754f3adef73804a87059659adebb2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 159
+        width: 168
+        height: 116
+      alignment: 9
+      pivot: {x: 0.7202381, y: 0.5086207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b826b95c3817640b74659951782bd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00011
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 160
+        width: 168
+        height: 115
+      alignment: 9
+      pivot: {x: 0.7202381, y: 0.51304346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1090095e5372b4e857f54c53617e43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00012
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 160
+        width: 151
+        height: 115
+      alignment: 9
+      pivot: {x: 0.8013245, y: 0.51304346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305cde64d325d49ac9e7e6d20a3617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00013
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 152
+        width: 134
+        height: 123
+      alignment: 9
+      pivot: {x: 0.9029851, y: 0.4796748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbf09e214a985c42adbc3acb7adf0dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00014
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 152
+        width: 134
+        height: 123
+      alignment: 9
+      pivot: {x: 0.9029851, y: 0.4796748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cec357ea60435428f0a652cf016f81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00015
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 155
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 1.0083333, y: 0.49166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7932bf814d6f8e445ab83bcbbdeba6c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00016
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 154
+        width: 122
+        height: 121
+      alignment: 9
+      pivot: {x: 0.9918033, y: 0.4876033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813a760194d85294cb777bd31aa538a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 28
+        width: 104
+        height: 122
+      alignment: 9
+      pivot: {x: 1.1634616, y: 0.48360655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b601ed5e84303e4ca1d511b7e87cd9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00018
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 43
+        width: 92
+        height: 107
+      alignment: 9
+      pivot: {x: 1.3152174, y: 0.55140185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e44d09eb8c739c4da398fc73cdfaacf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00019
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 43
+        width: 85
+        height: 107
+      alignment: 9
+      pivot: {x: 1.4235294, y: 0.55140185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e96d73c0e35ca341a1a6219704f64de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00020
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 54
+        width: 71
+        height: 96
+      alignment: 9
+      pivot: {x: 1.7042253, y: 0.6145833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f28be89b2cbab48aa37cab769d02ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00021
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 56
+        width: 71
+        height: 94
+      alignment: 9
+      pivot: {x: 1.7042253, y: 0.62765956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e203d2affcd4a4cb7646b0e4af0806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00022
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 69
+        width: 55
+        height: 81
+      alignment: 9
+      pivot: {x: 2.2, y: 0.72839504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40be243fb3323094aa4fef13a1e4d6e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00023
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 68
+        width: 38
+        height: 82
+      alignment: 9
+      pivot: {x: 3.1842105, y: 0.70731705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b41d6737dadc34b9220d9c02d6fad8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00024
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 58
+        width: 46
+        height: 92
+      alignment: 9
+      pivot: {x: 2.652174, y: 0.6413044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf558201c337a21439b8d9593b4530e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa chap_00025
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 149
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 128, y: -63}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aea15bd9c0bafc4c9b923c41452af67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a8893f50a45fecf48a584e8a4733e417
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

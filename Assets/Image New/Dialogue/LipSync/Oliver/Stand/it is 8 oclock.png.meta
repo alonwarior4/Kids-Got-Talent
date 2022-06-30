@@ -1,0 +1,641 @@
+fileFormatVersion: 2
+guid: b8ffc8da3ad439448b558bb7150c91a9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: it is 8 oclock_00001
+    21300002: it is 8 oclock_00002
+    21300004: it is 8 oclock_00003
+    21300006: it is 8 oclock_00004
+    21300008: it is 8 oclock_00005
+    21300010: it is 8 oclock_00006
+    21300012: it is 8 oclock_00007
+    21300014: it is 8 oclock_00008
+    21300016: it is 8 oclock_00009
+    21300018: it is 8 oclock_00010
+    21300020: it is 8 oclock_00011
+    21300022: it is 8 oclock_00012
+    21300024: it is 8 oclock_00013
+    21300026: it is 8 oclock_00014
+    21300028: it is 8 oclock_00015
+    21300030: it is 8 oclock_00016
+    21300032: it is 8 oclock_00017
+    21300034: it is 8 oclock_00018
+    21300036: it is 8 oclock_00019
+    21300038: it is 8 oclock_00020
+    21300040: it is 8 oclock_00021
+    21300042: it is 8 oclock_00022
+    21300044: it is 8 oclock_00023
+    21300046: it is 8 oclock_00024
+    21300048: it is 8 oclock_00025
+    21300050: it is 8 oclock_00026
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: it is 8 oclock_00001
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 314
+        width: 72
+        height: 65
+      alignment: 9
+      pivot: {x: 1.4375, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234a34f04311ec741a4cafcab4d47d6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00002
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 447
+        width: 75
+        height: 64
+      alignment: 9
+      pivot: {x: 1.42, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c3583c0cfec524a8ee9b75a99ac54f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00003
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 381
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 1.4041096, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e93d05652095cf4b8dc8118153e10a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00004
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 383
+        width: 75
+        height: 64
+      alignment: 9
+      pivot: {x: 1.42, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9b5238edbf212459c0c7459c64e651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00005
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 314
+        width: 72
+        height: 65
+      alignment: 9
+      pivot: {x: 1.4375, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e893684289ac442aa86ff57652874b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00006
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 447
+        width: 78
+        height: 64
+      alignment: 9
+      pivot: {x: 1.4038461, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83736cb983c8ac429c6ee85fadcbd21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00007
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 248
+        width: 72
+        height: 64
+      alignment: 9
+      pivot: {x: 1.4375, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b39da2bed64bd4c9c5a30d423c31b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00008
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 447
+        width: 82
+        height: 64
+      alignment: 9
+      pivot: {x: 1.3231708, y: 0.140625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4a5f6f1d1cf8c4fb761e3682c0a792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00009
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 185
+        width: 72
+        height: 63
+      alignment: 9
+      pivot: {x: 1.3958334, y: 0.12698413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689efc42adfdacc4abd11ca5e89304c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00010
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 250
+        width: 72
+        height: 65
+      alignment: 9
+      pivot: {x: 1.4375, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f973a132157598243a98880c6d508251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00011
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 246
+        width: 71
+        height: 65
+      alignment: 9
+      pivot: {x: 1.4014084, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5de40a60e5ea9409cbffa25246764b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00012
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 448
+        width: 79
+        height: 63
+      alignment: 9
+      pivot: {x: 1.4113925, y: 0.12698413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f892f36995d9b44935555bcd0b4b75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00013
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 449
+        width: 77
+        height: 62
+      alignment: 9
+      pivot: {x: 1.3701298, y: 0.09677419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdddf5e3e9dcf8b48a002de4807862b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 243
+        width: 71
+        height: 68
+      alignment: 9
+      pivot: {x: 1.4436619, y: 0.19117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabb838623443c7488b1b2ed5efbf7c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00015
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 247
+        width: 72
+        height: 65
+      alignment: 9
+      pivot: {x: 1.4375, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1775d36fdbcbb44f83905f8170ac80d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 446
+        width: 83
+        height: 65
+      alignment: 9
+      pivot: {x: 1.3192772, y: 0.15384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fb1285d47f80c41b117e857dacf6b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00017
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 383
+        width: 78
+        height: 63
+      alignment: 9
+      pivot: {x: 1.4166666, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c7174c6a1fb2d4b9903631d490c073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00018
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 380
+        width: 77
+        height: 64
+      alignment: 9
+      pivot: {x: 1.4220779, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd307d3ac832cd468faf690222d8ab8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00019
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 380
+        width: 77
+        height: 65
+      alignment: 9
+      pivot: {x: 1.4220779, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1457525a6987141897a5046b9209d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00020
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 317
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 1.4041096, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab6b1785b1c26240aab5cbb1f1494c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00021
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 381
+        width: 75
+        height: 64
+      alignment: 9
+      pivot: {x: 1.42, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03d9f62aa4926d47be16051eaca452a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00022
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 313
+        width: 72
+        height: 65
+      alignment: 9
+      pivot: {x: 1.4375, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd0f4f3e36f0cf49bc99db5af72ab97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00023
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 313
+        width: 72
+        height: 65
+      alignment: 9
+      pivot: {x: 1.4375, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d7b1b931d3e064f88e0f1ef8a465ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00024
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 251
+        width: 72
+        height: 65
+      alignment: 9
+      pivot: {x: 1.4375, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05de2ae151371154f8944aebd21fec06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00025
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 318
+        width: 74
+        height: 63
+      alignment: 9
+      pivot: {x: 1.3851352, y: 0.12698413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f47f745864ee14fa0aea5819d59635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: it is 8 oclock_00026
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 183
+        width: 72
+        height: 62
+      alignment: 9
+      pivot: {x: 1.3819444, y: 0.12903225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb0be9d2ae08974291a6b98ccc4fa4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a48713c04c29bd2428e5c3d031dcd5fd
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

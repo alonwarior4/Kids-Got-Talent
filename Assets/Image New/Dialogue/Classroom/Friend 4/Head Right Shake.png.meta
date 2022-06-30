@@ -1,0 +1,620 @@
+fileFormatVersion: 2
+guid: fa00d65a44aad934b8291f74e618840f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Head Shake_00096
+    21300002: Head Shake_00097
+    21300004: Head Shake_00098
+    21300006: Head Shake_00099
+    21300008: Head Shake_00100
+    21300010: Head Shake_00101
+    21300012: Head Shake_00102
+    21300014: Head Shake_00103
+    21300016: Head Shake_00104
+    21300018: Head Shake_00105
+    21300020: Head Shake_00106
+    21300022: Head Shake_00107
+    21300024: Head Shake_00108
+    21300026: Head Shake_00109
+    21300028: Head Shake_00110
+    21300030: Head Shake_00111
+    21300032: Head Shake_00112
+    21300034: Head Shake_00113
+    21300036: Head Shake_00114
+    21300038: Head Shake_00115
+    21300040: Head Shake_00116
+    21300042: Head Shake_00117
+    21300044: Head Shake_00118
+    21300046: Head Shake_00119
+    21300048: Head Shake_00120
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Head Shake_00096
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 386
+        width: 185
+        height: 207
+      alignment: 9
+      pivot: {x: 0.51891893, y: -0.13043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acef953c7580db4dbb9b29971f5636f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00097
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 818
+        width: 183
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5081967, y: -0.13170731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bdf8cc9da52dd459a686ab52f92dc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00098
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 604
+        width: 181
+        height: 207
+      alignment: 9
+      pivot: {x: 0.49171272, y: -0.12560387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec67dbfcc21e57498885ab2f52c7d9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00099
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 578
+        width: 189
+        height: 221
+      alignment: 9
+      pivot: {x: 0.47089946, y: -0.07239819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5335aeca39f52a46be22af0ca4410de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00100
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 377
+        width: 184
+        height: 212
+      alignment: 9
+      pivot: {x: 0.47826087, y: -0.10377359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1b8095da285bf409452baaea737efd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00101
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 139
+        width: 182
+        height: 217
+      alignment: 9
+      pivot: {x: 0.46703297, y: -0.08294931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c600f9d315b3c4b8452f906eab9cae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00102
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 358
+        width: 181
+        height: 218
+      alignment: 9
+      pivot: {x: 0.44751382, y: -0.09174312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9dc0f37027d5943890061f422bd1ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00103
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 809
+        width: 177
+        height: 214
+      alignment: 9
+      pivot: {x: 0.4463277, y: -0.10280374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690e99ecced16184f8afc496c2401d93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00104
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 363
+        width: 178
+        height: 217
+      alignment: 9
+      pivot: {x: 0.43258426, y: -0.10599078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0b537591a94aa4280ed847bc9451d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00105
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 368
+        width: 181
+        height: 214
+      alignment: 9
+      pivot: {x: 0.4088398, y: -0.10280374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f0e5b3129a5024295df41d732f6ab9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00106
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 584
+        width: 181
+        height: 216
+      alignment: 9
+      pivot: {x: 0.3922652, y: -0.10185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4bd4c46e8468345927b8d8f722d661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00107
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 582
+        width: 178
+        height: 218
+      alignment: 9
+      pivot: {x: 0.39325842, y: -0.09174312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f459bce338729e142ad69b31a0ba905d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00108
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 802
+        width: 189
+        height: 221
+      alignment: 9
+      pivot: {x: 0.37566137, y: -0.09049774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dcc10a0a9d19f4e83981ef5e85073d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00109
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 134
+        width: 177
+        height: 219
+      alignment: 9
+      pivot: {x: 0.39548022, y: -0.0913242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac543d69f99321429a02ce1247cd2bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00110
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 355
+        width: 180
+        height: 221
+      alignment: 9
+      pivot: {x: 0.41666666, y: -0.09954751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f685bdad85a7a4b9202a8f0a3518e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00111
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 801
+        width: 183
+        height: 222
+      alignment: 9
+      pivot: {x: 0.40983605, y: -0.09009009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30be98964d9690a4c8df47fcb72858a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00112
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 807
+        width: 178
+        height: 216
+      alignment: 9
+      pivot: {x: 0.44382024, y: -0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce89f4407c8bd194285d0fdd924e0207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00113
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 591
+        width: 178
+        height: 214
+      alignment: 9
+      pivot: {x: 0.4550562, y: -0.10747664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed1bea25c3c58d45ade27efc2f6d081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00114
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 133
+        width: 179
+        height: 220
+      alignment: 9
+      pivot: {x: 0.47486034, y: -0.08181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec4b58e0b9f44e41879b766db99caad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00115
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 595
+        width: 183
+        height: 212
+      alignment: 9
+      pivot: {x: 0.48087433, y: -0.10377359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d708ae46ac2aa294dbf39c0be31fb113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00116
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 166
+        width: 185
+        height: 209
+      alignment: 9
+      pivot: {x: 0.4864865, y: -0.114832535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef05f30815a58b04c80a6bafc6892545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00117
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 813
+        width: 185
+        height: 210
+      alignment: 9
+      pivot: {x: 0.4972973, y: -0.10952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f514dd3d920c10a468d6b8d44b21c556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00118
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 181
+        width: 190
+        height: 203
+      alignment: 9
+      pivot: {x: 0.49473685, y: -0.12807882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f46e68e8416a048a0738f6e27f792c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00119
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 146
+        width: 187
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5080214, y: -0.093023255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c3635811702d34eb5c74d5f7bee1a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Shake_00120
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 386
+        width: 185
+        height: 207
+      alignment: 9
+      pivot: {x: 0.51891893, y: -0.13043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64957f4388f30eb40b0e07066ff711a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 84eaf8eec2b6ffa448669ecaa252e740
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

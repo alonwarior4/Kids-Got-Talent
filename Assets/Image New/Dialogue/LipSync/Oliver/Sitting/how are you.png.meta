@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 9ecc1c7fdf082a44b962cd3384ea9cc6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: how are you_00001
+    21300002: how are you_00002
+    21300004: how are you_00003
+    21300006: how are you_00004
+    21300008: how are you_00005
+    21300010: how are you_00006
+    21300012: how are you_00007
+    21300014: how are you_00008
+    21300016: how are you_00009
+    21300018: how are you_00010
+    21300020: how are you_00011
+    21300022: how are you_00012
+    21300024: how are you_00013
+    21300026: how are you_00014
+    21300028: how are you_00015
+    21300030: how are you_00016
+    21300032: how are you_00017
+    21300034: how are you_00018
+    21300036: how are you_00019
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: how are you_00001
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 141
+        width: 51
+        height: 53
+      alignment: 9
+      pivot: {x: 1.7058823, y: -1.0566038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7321877ab0a761043988fe4f7944970e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how are you_00002
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 103
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff6820ee91f06a48a0bd0d2f41cbba2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how are you_00003
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 165
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436b59ac6c8f95a4a85352ee5f3ed811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how are you_00004
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 119
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5816e28bf77c644d91b5171289d303d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how are you_00005
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 73
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b420a3ad09df7d240bd617917f953cc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how are you_00006
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 13
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6e838cc5dc8fd4e9e75a40a4e39432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how are you_00007
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 209
+        width: 58
+        height: 46
+      alignment: 9
+      pivot: {x: 1.6206896, y: -1.3913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec1a9074b6f8f14d8ebb79498626660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how are you_00008
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 19
+        width: 53
+        height: 52
+      alignment: 9
+      pivot: {x: 1.6415094, y: -1.0961539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f03a83d83301624fbef2830fa82e621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how are you_00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 18
+        width: 46
+        height: 53
+      alignment: 9
+      pivot: {x: 1.9130435, y: -1.0566038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caf8331355ebd1408fecf682705eddd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how are you_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 53
+        height: 60
+      alignment: 9
+      pivot: {x: 1.7924528, y: -0.9166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a047840846c12dd43b1a88758282742f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how are you_00011
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 29
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9333333, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bc999f03de065499a1342e7db7017c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how are you_00012
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 196
+        width: 54
+        height: 59
+      alignment: 9
+      pivot: {x: 1.7777778, y: -0.9491525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430bc6646d6c8d94684711634cad40ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how are you_00013
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 147
+        width: 49
+        height: 47
+      alignment: 9
+      pivot: {x: 1.8571428, y: -1.3829787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba32bb39a758914a8a1d371091def2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how are you_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 54
+        height: 55
+      alignment: 9
+      pivot: {x: 1.7777778, y: -0.94545454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e61590e1ed6414ca0f05cf90818fee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how are you_00015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 52
+        height: 63
+      alignment: 9
+      pivot: {x: 1.8076923, y: -0.82539684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6875b8af4939b4cb97da70a9c9ba62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how are you_00016
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 88
+        width: 55
+        height: 51
+      alignment: 9
+      pivot: {x: 1.6, y: -1.137255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cbc0962c8f04d4994ef6f0c25d636b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how are you_00017
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 59
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8b5918abee7034fb72c22555c94410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how are you_00018
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 29
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bf182d9188b2145bd90405c18f3786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how are you_00019
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 211
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44654f30e9ffde547889d97e4bf63d90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bacafa93b064b2f479218b5236581b26
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,631 @@
+fileFormatVersion: 2
+guid: 1430ba325170a1f4786b2e7eff3048dd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: breathe_00120
+    21300002: breathe_00121
+    21300004: breathe_00122
+    21300006: breathe_00123
+    21300008: breathe_00124
+    21300010: breathe_00125
+    21300012: breathe_00126
+    21300014: breathe_00127
+    21300016: breathe_00128
+    21300018: breathe_00129
+    21300020: breathe_00130
+    21300022: breathe_00131
+    21300024: breathe_00132
+    21300026: breathe_00133
+    21300028: breathe_00134
+    21300030: breathe_00135
+    21300032: breathe_00136
+    21300034: breathe_00137
+    21300036: breathe_00138
+    21300038: breathe_00139
+    21300040: breathe_00140
+    21300042: breathe_00141
+    21300044: breathe_00142
+    21300046: breathe_00143
+    21300048: breathe_00144
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: breathe_00120
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1765
+        width: 194
+        height: 282
+      alignment: 9
+      pivot: {x: 0.49484536, y: 0.5248227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee74efd30a67b84db77d549ad1b1da5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00121
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1485
+        width: 194
+        height: 282
+      alignment: 9
+      pivot: {x: 0.49484536, y: 0.5248227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4ca77281004214c84bed69d7375eff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00122
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1766
+        width: 197
+        height: 281
+      alignment: 9
+      pivot: {x: 0.47715735, y: 0.52313167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9478322fc43a6004795cbe42b7192aee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00123
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1205
+        width: 193
+        height: 280
+      alignment: 9
+      pivot: {x: 0.49222797, y: 0.5285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc126b25e7452294fb5f3ff27eca6b67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00124
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 369
+        width: 192
+        height: 279
+      alignment: 9
+      pivot: {x: 0.49479166, y: 0.53046596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44e168b5f9fe6e4d989e97eb8f249e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00125
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 633
+        width: 192
+        height: 282
+      alignment: 9
+      pivot: {x: 0.49479166, y: 0.535461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ee9bbd5e6791b49b4b67eaef140258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00126
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1194
+        width: 193
+        height: 290
+      alignment: 9
+      pivot: {x: 0.4974093, y: 0.5448276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1507f3dea6e331f4e8ae1d85c37731d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00127
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 916
+        width: 192
+        height: 287
+      alignment: 9
+      pivot: {x: 0.49479166, y: 0.5574913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04180f11d612a3940949e9f746f6b5de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00128
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1482
+        width: 193
+        height: 281
+      alignment: 9
+      pivot: {x: 0.49222797, y: 0.5516014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e33d08a2088784fac58c1545d58a9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00129
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1772
+        width: 200
+        height: 275
+      alignment: 9
+      pivot: {x: 0.475, y: 0.5490909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fe1c05a6326404081eed074ee45cee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00130
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 917
+        width: 193
+        height: 275
+      alignment: 9
+      pivot: {x: 0.4974093, y: 0.5527273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a385082a03d87b409e1fd9d8710e081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00131
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1486
+        width: 194
+        height: 278
+      alignment: 9
+      pivot: {x: 0.49484536, y: 0.55755395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd847258805cd9408820630812dbbf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00132
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1769
+        width: 195
+        height: 278
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.55755395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957a3634e5891ac48b4b0df4cfe9d7cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00133
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1212
+        width: 194
+        height: 275
+      alignment: 9
+      pivot: {x: 0.49484536, y: 0.56363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a3bf8161a692b40863834f4cdda404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00134
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 650
+        width: 193
+        height: 274
+      alignment: 9
+      pivot: {x: 0.4974093, y: 0.55474454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a77c6e484851d948a93feec12be5f36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00135
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 927
+        width: 193
+        height: 276
+      alignment: 9
+      pivot: {x: 0.48704663, y: 0.5507246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57055b4087d1f1d4585da347247b015e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00136
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1769
+        width: 195
+        height: 278
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.55755395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3a326f85645c7438fbd67ee18762d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00137
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 642
+        width: 192
+        height: 283
+      alignment: 9
+      pivot: {x: 0.49479166, y: 0.56537104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ba18294ecf1d24b8c54dce613c4d63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00138
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 926
+        width: 193
+        height: 284
+      alignment: 9
+      pivot: {x: 0.4974093, y: 0.556338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3d69d0a13684040908f1d73b75dbca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00139
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1203
+        width: 193
+        height: 277
+      alignment: 9
+      pivot: {x: 0.4974093, y: 0.5451264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1495c29718a364ea8cb8cf4e221747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00140
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 647
+        width: 192
+        height: 274
+      alignment: 9
+      pivot: {x: 0.49479166, y: 0.540146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50640ab1b396d64f909fa08ac90eed4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00141
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1205
+        width: 193
+        height: 278
+      alignment: 9
+      pivot: {x: 0.49222797, y: 0.5323741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e9a9ca83e3a40478f23607a27ef7ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00142
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 923
+        width: 192
+        height: 278
+      alignment: 9
+      pivot: {x: 0.49479166, y: 0.528777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1180d02c16e2c4fb04ec499bd00f7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00143
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1487
+        width: 194
+        height: 280
+      alignment: 9
+      pivot: {x: 0.49484536, y: 0.5285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57188d59ba5b1e4481417769bcbe792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breathe_00144
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1489
+        width: 195
+        height: 281
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.52669036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466427664d2b2a44c98095e3c8ab922d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9470e7f7b47cdab4295dac51a89316b0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

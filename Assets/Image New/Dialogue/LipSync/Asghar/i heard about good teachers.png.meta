@@ -1,0 +1,1166 @@
+fileFormatVersion: 2
+guid: e44805a8e52531441979f751108d224e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: i heard about its good teachers_00001
+    21300002: i heard about its good teachers_00002
+    21300004: i heard about its good teachers_00003
+    21300006: i heard about its good teachers_00004
+    21300008: i heard about its good teachers_00005
+    21300010: i heard about its good teachers_00006
+    21300012: i heard about its good teachers_00007
+    21300014: i heard about its good teachers_00008
+    21300016: i heard about its good teachers_00009
+    21300018: i heard about its good teachers_00010
+    21300020: i heard about its good teachers_00011
+    21300022: i heard about its good teachers_00012
+    21300024: i heard about its good teachers_00013
+    21300026: i heard about its good teachers_00014
+    21300028: i heard about its good teachers_00015
+    21300030: i heard about its good teachers_00016
+    21300032: i heard about its good teachers_00017
+    21300034: i heard about its good teachers_00018
+    21300036: i heard about its good teachers_00019
+    21300038: i heard about its good teachers_00020
+    21300040: i heard about its good teachers_00021
+    21300042: i heard about its good teachers_00022
+    21300044: i heard about its good teachers_00023
+    21300046: i heard about its good teachers_00024
+    21300048: i heard about its good teachers_00025
+    21300050: i heard about its good teachers_00026
+    21300052: i heard about its good teachers_00027
+    21300054: i heard about its good teachers_00028
+    21300056: i heard about its good teachers_00029
+    21300058: i heard about its good teachers_00030
+    21300060: i heard about its good teachers_00031
+    21300062: i heard about its good teachers_00032
+    21300064: i heard about its good teachers_00033
+    21300066: i heard about its good teachers_00034
+    21300068: i heard about its good teachers_00035
+    21300070: i heard about its good teachers_00036
+    21300072: i heard about its good teachers_00037
+    21300074: i heard about its good teachers_00038
+    21300076: i heard about its good teachers_00039
+    21300078: i heard about its good teachers_00040
+    21300080: i heard about its good teachers_00041
+    21300082: i heard about its good teachers_00042
+    21300084: i heard about its good teachers_00043
+    21300086: i heard about its good teachers_00044
+    21300088: i heard about its good teachers_00045
+    21300090: i heard about its good teachers_00046
+    21300092: i heard about its good teachers_00047
+    21300094: i heard about its good teachers_00048
+    21300096: i heard about its good teachers_00049
+    21300098: i heard about its good teachers_00050
+    21300100: i heard about its good teachers_00051
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: i heard about its good teachers_00001
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d0d5053ba92af47adf8515477ac767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00002
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101533d7c4c9d8741a29ef9b008d3e26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00003
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d391314770e94459ce3f29c6834c8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 318
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200f2f32dad6c804290fedd3e1b175bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00005
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 383
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8135a4e4edfc4419f08774cc9ec180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00006
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 383
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccb5c37b12374546b04bbeb7ce1a8db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00007
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debdbcc530462c8429a6ae0cfe751317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00008
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc988be2b4275247bb42f64c28c8ac4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00009
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 318
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6db652f409946f438e4d7ef76da9873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00010
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523c6753d378471418ac839ec3ea7955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00011
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 318
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d1bf5d924d97d4bae895e0913a35dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 318
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a244fc3e8e0644d44b6e081436c9afb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00013
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 318
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767a4cdd44775c04ca34992b051769ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00014
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7159a2bbf17ae44889f1f29b0b755b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00015
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 383
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae687243784796d4b9e2a5685ab77ca3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 318
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b2424a1489ff94583d50abecde3d7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00017
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feece3ed1892c4648ac3c12bbef02923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00018
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 383
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50793654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07e5dbcebb580f4993d599147ba1b1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 449
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dcdc2fe3450a041beeff70849b652a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00020
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 383
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d644ae2c5484f8408d111ab23cd2966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00021
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3b644369576d84c84aac6c12bd954b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00022
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 185
+        width: 62
+        height: 64
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12eaa2451970ab46a12c5b18b0af67f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00023
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 251
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4920635, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3d5b572f5a73447870c28939a653be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00024
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fccf8352f595c4386139d81b6827f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00025
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 185
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae145c3d79eb78499c6707d3ce8e762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00026
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee2bbdc1c5875046b8825c7372d6bba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00027
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 449
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e8fc70fe304e04cad4ae28f8ca4dae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00028
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 449
+        width: 63
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4920635, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58d7fca12524de4bbcbf0f7f85af02e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00029
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 449
+        width: 63
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4920635, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a2c74cd5e97364492955390b03583f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00030
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 383
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4920635, y: 0.50793654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19cc34844ba83644991f95dd1502b45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00031
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 449
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2c13688c8d1dd40a9252e20a60d7ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00032
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 449
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545ddc3f6f203d64c9b05143324c470f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00033
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 449
+        width: 63
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4920635, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3433c1ff89b47ff42ae9c42565af1f5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00034
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d837b70850e61b84598411e6f776b19c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00035
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 251
+        width: 62
+        height: 64
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb71d5607cf7cf46b3fd44b220e1fb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00036
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 383
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e1951a59ce9be48bc0b7a5901fe7ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00037
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 318
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3557836558b3bfd4e8d0fe5061eadf4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00038
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 448
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a38c671c540c92489584df918e9ed6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00039
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 317
+        width: 62
+        height: 64
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0cfc3951d359045824bce72e633d36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00040
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911d1cad10a103b45bd9185de5c03715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00041
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 251
+        width: 62
+        height: 64
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab005c706325dc48a55b216130b23af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00042
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 383
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f6bc946c644bb4ab1b439b7e48b06c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00043
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 318
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7223b0fe1840044a6762883a3f6eb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00044
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 448
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036bc8e9ceb7b134fa17d7a1070a7c7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00045
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 317
+        width: 62
+        height: 64
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec960b1d9208beb4489f98a817d2db30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00046
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471fcc0c6d02f2e47b267f1276601135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00047
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 318
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09304907736a7e40b39a74d41f91aa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00048
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 317
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4920635, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4ecfe72b3e3d541bca78c1fafc71d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00049
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 185
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362da27fa39981049ae277642d80f2b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00050
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d102a14782ad24b8f2fa9fa74d4ed9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i heard about its good teachers_00051
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 251
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63464ed1698b5aa48a81a76cf3c3b2b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c12baf9cd09b0a441a2433987fa8384e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

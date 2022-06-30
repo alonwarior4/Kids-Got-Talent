@@ -1,0 +1,998 @@
+fileFormatVersion: 2
+guid: 7925b601be1aa4d4883b81404293dcdc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: we just wanted to know each other_00001
+    21300002: we just wanted to know each other_00002
+    21300004: we just wanted to know each other_00003
+    21300006: we just wanted to know each other_00004
+    21300008: we just wanted to know each other_00005
+    21300010: we just wanted to know each other_00006
+    21300012: we just wanted to know each other_00007
+    21300014: we just wanted to know each other_00008
+    21300016: we just wanted to know each other_00009
+    21300018: we just wanted to know each other_00010
+    21300020: we just wanted to know each other_00011
+    21300022: we just wanted to know each other_00012
+    21300024: we just wanted to know each other_00013
+    21300026: we just wanted to know each other_00014
+    21300028: we just wanted to know each other_00015
+    21300030: we just wanted to know each other_00016
+    21300032: we just wanted to know each other_00017
+    21300034: we just wanted to know each other_00018
+    21300036: we just wanted to know each other_00019
+    21300038: we just wanted to know each other_00020
+    21300040: we just wanted to know each other_00021
+    21300042: we just wanted to know each other_00022
+    21300044: we just wanted to know each other_00023
+    21300046: we just wanted to know each other_00024
+    21300048: we just wanted to know each other_00025
+    21300050: we just wanted to know each other_00026
+    21300052: we just wanted to know each other_00027
+    21300054: we just wanted to know each other_00028
+    21300056: we just wanted to know each other_00029
+    21300058: we just wanted to know each other_00030
+    21300060: we just wanted to know each other_00031
+    21300062: we just wanted to know each other_00032
+    21300064: we just wanted to know each other_00033
+    21300066: we just wanted to know each other_00034
+    21300068: we just wanted to know each other_00035
+    21300070: we just wanted to know each other_00036
+    21300072: we just wanted to know each other_00037
+    21300074: we just wanted to know each other_00038
+    21300076: we just wanted to know each other_00039
+    21300078: we just wanted to know each other_00040
+    21300080: we just wanted to know each other_00041
+    21300082: we just wanted to know each other_00042
+    21300084: we just wanted to know each other_00043
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: we just wanted to know each other_00001
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 10
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9111111, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93924926e940524aaa893de6900955d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 11
+        width: 49
+        height: 54
+      alignment: 9
+      pivot: {x: 1.8571428, y: -1.1111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb80eec66800204cb694f816ae5bb8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00003
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 107
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5fdd25549382b42921731c9543581b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00004
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 60
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e0dd2ffa87cb5499e8c3bcfe39b358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00005
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 106
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53ef214346e2fd49b454ebcb87a513b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00006
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 154
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a879e83b851dc548b3c955ed889b06b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00007
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 146
+        width: 49
+        height: 54
+      alignment: 9
+      pivot: {x: 1.8571428, y: -1.1111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65275ad2ffbe7394da17805313a66ba9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00008
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 110
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9111111, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de10c02233de8da4b8e8d0bb9730492f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00009
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 66
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9545455, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce538ce59ef614e4a8340a5cff80c159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00010
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 202
+        width: 51
+        height: 53
+      alignment: 9
+      pivot: {x: 1.7058823, y: -1.0566038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03aed384db3ff14fafe45c458565af7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00011
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 200
+        width: 64
+        height: 55
+      alignment: 9
+      pivot: {x: 1.609375, y: -1.0181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba6f1f578821b74bbf98402e06c4597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00012
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 5
+        width: 53
+        height: 47
+      alignment: 9
+      pivot: {x: 1.6981132, y: -1.3617021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9146672efeb1848b5773be36510975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00013
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 55
+        width: 51
+        height: 49
+      alignment: 9
+      pivot: {x: 1.7647059, y: -1.3061224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa03ce15db76e794a9f19de007227c4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00014
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 16
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4ef87c0af0ed34894195d88a0d9334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00015
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 154
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e4b421a9cd8d2448f9c3d765e75bb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00016
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 156
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6976030f0511394fb3974e4c9994c2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00017
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 22
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522086c76280be84194394496302b40d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00018
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 48
+        height: 57
+      alignment: 9
+      pivot: {x: 1.875, y: -0.9649123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c74c342ace3f0b44ada6caf685c5cb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00019
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 102
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9333333, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a3e2c90b1acda44a33e10916539de5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00020
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 61
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae4285acf5efa64b83b85791c3b39fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00021
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 58
+        width: 43
+        height: 42
+      alignment: 9
+      pivot: {x: 2, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883665e9fbaeda846a26550fd8d1b608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00022
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 198
+        width: 59
+        height: 57
+      alignment: 9
+      pivot: {x: 1.6271186, y: -0.94736844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07a650430416804e87e04ebc8565bb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00023
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 202
+        width: 51
+        height: 53
+      alignment: 9
+      pivot: {x: 1.7058823, y: -1.0566038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ff2a961f1f55c4cbd5ef557bc23b1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00024
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 54
+        width: 51
+        height: 52
+      alignment: 9
+      pivot: {x: 1.6862745, y: -1.0769231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14bdd1f1fe26164ea40d358e885bd00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00025
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 7
+        width: 49
+        height: 52
+      alignment: 9
+      pivot: {x: 1.8571428, y: -1.0576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4680c3152b655af418acdbd21ef1f50d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00026
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 58
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9333333, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158cab983287f33469b7aff19afe72eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00027
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 14
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9333333, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e16c61454ef0942817ee4186adc768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00028
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 60
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24523d7e0b78d5d44af56e9c2ef54479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00029
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 14
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d74451095e52fc42a2e5e70f6fa7b5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00030
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 104
+        width: 52
+        height: 48
+      alignment: 9
+      pivot: {x: 1.75, y: -1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843d28476f44c4d4eaed4895c3a18727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00031
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 102
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26350538c48e7a94ba78586ed8c1c423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00032
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 154
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5274b91a06fec9e47a0886c434a0fafa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00033
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 199
+        width: 62
+        height: 56
+      alignment: 9
+      pivot: {x: 1.5967742, y: -1.0178572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5c536da3b485c4fa87062c8fc391c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00034
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 200
+        width: 59
+        height: 55
+      alignment: 9
+      pivot: {x: 1.6271186, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1088c2a3091dac45ba60e2e1cbe96dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00035
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 200
+        width: 59
+        height: 55
+      alignment: 9
+      pivot: {x: 1.6271186, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54484cb1584f2047bbbc09c1605efcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00036
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 126
+        width: 57
+        height: 63
+      alignment: 9
+      pivot: {x: 1.754386, y: -0.8095238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e20ec74515d3b45b85eda1458bb1cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00037
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 62
+        height: 64
+      alignment: 9
+      pivot: {x: 1.6935484, y: -0.78125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea76b12e8c28894693d74904c4880ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00038
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 9
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05973d34414d47448b92dccaccc82f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00039
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 106
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c01a623e4076a43a0ae50ae55094ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00040
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 153
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d326180c519984db895966abc0ed82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00041
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 152
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f864b90f45a9af4384555eb020a7706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00042
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 54
+        width: 50
+        height: 48
+      alignment: 9
+      pivot: {x: 1.78, y: -1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89f0500bca13154f93a6c6a3b2a1eb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: we just wanted to know each other_00043
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 108
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2515d2422438066478a2dffe9a7c20a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dbca58f047475da48af3094ba08028d7
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

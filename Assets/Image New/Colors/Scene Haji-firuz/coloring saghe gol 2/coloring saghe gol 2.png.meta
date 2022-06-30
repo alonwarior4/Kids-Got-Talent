@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: 7f26c5c530da195429fb95f5ff6dc8c0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: coloring saghe gol 2
+    21300002: saghe gol 2_00001
+    21300004: saghe gol 2_00002
+    21300006: saghe gol 2_00003
+    21300008: saghe gol 2_00004
+    21300010: saghe gol 2_00005
+    21300012: saghe gol 2_00006
+    21300014: saghe gol 2_00007
+    21300016: saghe gol 2_00008
+    21300018: saghe gol 2_00009
+    21300020: saghe gol 2_00010
+    21300022: saghe gol 2_00011
+    21300024: saghe gol 2_00012
+    21300026: saghe gol 2_00013
+    21300028: saghe gol 2_00014
+    21300030: saghe gol 2_00015
+    21300032: saghe gol 2_00016
+    21300034: saghe gol 2_00017
+    21300036: saghe gol 2_00018
+    21300038: saghe gol 2_00019
+    21300040: saghe gol 2_00020
+    21300042: saghe gol 2_00021
+    21300044: saghe gol 2_00022
+    21300046: saghe gol 2_00023
+    21300048: saghe gol 2_00024
+    21300050: saghe gol 2_00025
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: saghe gol 2_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 561
+        width: 50
+        height: 462
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4935065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86392ff1b895e9e4fa7e78bd9a827ba4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00002
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 561
+        width: 50
+        height: 462
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4935065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a37c1527560b745b8d306c65a5f604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00003
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 561
+        width: 51
+        height: 462
+      alignment: 9
+      pivot: {x: 0.49019608, y: 0.4935065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1088bb54d86c8449a61d6c64a61eb81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00004
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 558
+        width: 51
+        height: 465
+      alignment: 9
+      pivot: {x: 0.49019608, y: 0.4967742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd3ddcf2f56ce844b5f16d89f24dde8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00005
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 582
+        width: 51
+        height: 441
+      alignment: 9
+      pivot: {x: 0.49019608, y: 0.46938777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905150db07e991a418863f52b3754a01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00006
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 615
+        width: 49
+        height: 408
+      alignment: 9
+      pivot: {x: 0.46938777, y: 0.42647058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e503958df262cf54d9f1c0d731ec0e5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00007
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 607
+        width: 51
+        height: 416
+      alignment: 9
+      pivot: {x: 0.49019608, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a3970a40eb155489ee237a793d64ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00008
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 642
+        width: 49
+        height: 381
+      alignment: 9
+      pivot: {x: 0.46938777, y: 0.38582677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7500b23794a13a04e9e5c39b47e88d49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00009
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 674
+        width: 47
+        height: 349
+      alignment: 9
+      pivot: {x: 0.4893617, y: 0.3295129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209a0db6472f9664b89fc0101ac3b37d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 215
+        width: 49
+        height: 341
+      alignment: 9
+      pivot: {x: 0.46938777, y: 0.313783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570926fa34ddd9641a960bfcf3e37ab1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00011
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 232
+        width: 47
+        height: 324
+      alignment: 9
+      pivot: {x: 0.4893617, y: 0.2777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38cd49198cb3eb439142fbb01334c27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00012
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 264
+        width: 47
+        height: 292
+      alignment: 9
+      pivot: {x: 0.4893617, y: 0.19863014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bc0d56f9bf0ca4ebcd032b408ddfab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00013
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 294
+        width: 48
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5, y: 0.10687023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30caed6f34af7c84c8e62565d007a74b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00014
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 319
+        width: 48
+        height: 237
+      alignment: 9
+      pivot: {x: 0.5, y: 0.012658228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af953737be7299d4294e886766a5b9ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00015
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 319
+        width: 43
+        height: 237
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.025316456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61b7861148dc974cad6fca89239cdfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00016
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 349
+        width: 48
+        height: 207
+      alignment: 9
+      pivot: {x: 0.5, y: -0.13043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e0e691fa7c31e4180718cdfe50dfc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00017
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 375
+        width: 49
+        height: 181
+      alignment: 9
+      pivot: {x: 0.48979592, y: -0.29281768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47196006e02d4ec429a0bfad7d458a36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00018
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 358
+        width: 52
+        height: 198
+      alignment: 9
+      pivot: {x: 0.46153846, y: -0.18686868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3cb74afc89bd446849be88e476bdd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00019
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 410
+        width: 43
+        height: 146
+      alignment: 9
+      pivot: {x: 0.4883721, y: -0.58219177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12618c212d4c5cd46a10dcd3d77e12bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 90
+        width: 43
+        height: 123
+      alignment: 9
+      pivot: {x: 0.4883721, y: -0.8780488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5042f83b88c1a141934a3e168a91e88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00021
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 121
+        width: 44
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: -1.5108696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d56552530905684b978157f6e025331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00022
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 113
+        width: 52
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5576923, y: -1.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d75a9ff2573dc4f8e0169388341c3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00023
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 149
+        width: 44
+        height: 64
+      alignment: 9
+      pivot: {x: 0.6136364, y: -2.53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5a6cdfcd955924b83507e0ae2a5696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00024
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 183
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.575, y: -6.5333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd59e2b43079c674eac12150f1ebd0b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saghe gol 2_00025
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 212
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 32, y: -239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee16ade5b5b5ab4cb9e758b38995508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f656f60fe7b541d4d9bd09ac8fe0e514
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

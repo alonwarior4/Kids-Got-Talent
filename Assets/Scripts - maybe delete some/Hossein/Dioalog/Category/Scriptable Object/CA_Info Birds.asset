@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49caf15c4c6cb424ea888cc96692f6d0, type: 3}
+  m_Name: CA_Info Birds
+  m_EditorClassIdentifier: 
+  ObjectsType: 2
+  Objects:
+  - Sp: {fileID: 21300000, guid: 90826be9befb466408eff84d54504ad0, type: 3}
+    nameSound: {fileID: 8300000, guid: 30f60364414ad1a4c85894742ab0da75, type: 3}
+    Choosed: 0
+  - Sp: {fileID: 21300002, guid: 90826be9befb466408eff84d54504ad0, type: 3}
+    nameSound: {fileID: 8300000, guid: 7108e62d3f698374db9c40d2c375ce3d, type: 3}
+    Choosed: 0
+  - Sp: {fileID: 21300004, guid: 90826be9befb466408eff84d54504ad0, type: 3}
+    nameSound: {fileID: 8300000, guid: 71984a96bce0bbb46b4e176b29b46029, type: 3}
+    Choosed: 0
+  - Sp: {fileID: 21300006, guid: 90826be9befb466408eff84d54504ad0, type: 3}
+    nameSound: {fileID: 8300000, guid: d6219535132f6f84489ce60f0c521c8b, type: 3}
+    Choosed: 0
+  - Sp: {fileID: 21300008, guid: 90826be9befb466408eff84d54504ad0, type: 3}
+    nameSound: {fileID: 8300000, guid: 0737ce912a4bcbf46861ca4ed722b314, type: 3}
+    Choosed: 0
+  - Sp: {fileID: 21300010, guid: 90826be9befb466408eff84d54504ad0, type: 3}
+    nameSound: {fileID: 8300000, guid: 8b3694b761df7b14a8b318a5d60c22be, type: 3}
+    Choosed: 0
+  - Sp: {fileID: 21300012, guid: 90826be9befb466408eff84d54504ad0, type: 3}
+    nameSound: {fileID: 8300000, guid: 984ab9721c6c8ae4db16cf8ac7be4e2f, type: 3}
+    Choosed: 0
+  - Sp: {fileID: 21300014, guid: 90826be9befb466408eff84d54504ad0, type: 3}
+    nameSound: {fileID: 8300000, guid: 229e5c4a377170840a40ec27d404ca3c, type: 3}
+    Choosed: 0
+  - Sp: {fileID: 21300016, guid: 90826be9befb466408eff84d54504ad0, type: 3}
+    nameSound: {fileID: 8300000, guid: 8b89a3c4eb2591a4a8e97944c939eb98, type: 3}
+    Choosed: 0
+  - Sp: {fileID: 21300018, guid: 90826be9befb466408eff84d54504ad0, type: 3}
+    nameSound: {fileID: 8300000, guid: 99f94229f2920f1428c0faba2f6906b2, type: 3}
+    Choosed: 0

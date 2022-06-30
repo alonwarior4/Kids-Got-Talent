@@ -1,0 +1,1523 @@
+fileFormatVersion: 2
+guid: b736f14ec59cc984c874930b04ba680e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: coloring plane_00006
+    21300002: coloring plane_00007
+    21300004: coloring plane_00008
+    21300006: coloring plane_00009
+    21300008: coloring plane_00010
+    21300010: coloring plane_00011
+    21300012: coloring plane_00012
+    21300014: coloring plane_00013
+    21300016: coloring plane_00014
+    21300018: coloring plane_00015
+    21300020: coloring plane_00016
+    21300022: coloring plane_00017
+    21300024: coloring plane_00018
+    21300026: coloring plane_00019
+    21300028: coloring plane_00020
+    21300030: coloring plane_00021
+    21300032: coloring plane_00022
+    21300034: coloring plane_00023
+    21300036: coloring plane_00024
+    21300038: coloring plane_00025
+    21300040: coloring plane_00026
+    21300042: coloring plane_00027
+    21300044: coloring plane_00028
+    21300046: coloring plane_00029
+    21300048: coloring plane_00030
+    21300050: coloring plane_00031
+    21300052: coloring plane_00032
+    21300054: coloring plane_00033
+    21300056: coloring plane_00034
+    21300058: coloring plane_00035
+    21300060: coloring plane_00036
+    21300062: coloring plane_00037
+    21300064: coloring plane_00038
+    21300066: coloring plane_00039
+    21300068: coloring plane_00040
+    21300070: coloring plane_00041
+    21300072: coloring plane_00042
+    21300074: coloring plane_00043
+    21300076: coloring plane_00044
+    21300078: coloring plane_00045
+    21300080: coloring plane_00046
+    21300082: coloring plane_00047
+    21300084: coloring plane_00048
+    21300086: coloring plane_00049
+    21300088: coloring plane_00050
+    21300090: coloring plane_00051
+    21300092: coloring plane_00052
+    21300094: coloring plane_00053
+    21300096: coloring plane_00054
+    21300098: coloring plane_00055
+    21300100: coloring plane_00056
+    21300102: coloring plane_00057
+    21300104: coloring plane_00058
+    21300106: coloring plane_00059
+    21300108: coloring plane_00060
+    21300110: coloring plane_00061
+    21300112: coloring plane_00062
+    21300114: coloring plane_00063
+    21300116: coloring plane_00064
+    21300118: coloring plane_00065
+    21300120: coloring plane_00066
+    21300122: coloring plane_00067
+    21300124: coloring plane_00068
+    21300126: coloring plane_00069
+    21300128: coloring plane_00070
+    21300130: coloring plane_00071
+    21300132: coloring plane_00072
+    21300134: coloring plane_00073
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coloring plane_00006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1881
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f8ef1c85891ef49b6c220dc84ca8e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00007
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1881
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60df6fc3e52676140b27d28c463f27e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00008
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1881
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82a307275f105f488832ce61e692a1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00009
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1881
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733d41ec3f144f645a2850257c7658d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00010
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1881
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a5a0de365cf2c4ab8d74d287acf4fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00011
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1881
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acedc5f3a1939f84bbccdfb87c80c081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1713
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc919138a9d30c94182df7f34fce77ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00013
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1713
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60955fe9f5ac1f34e93e62fbbce03210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00014
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1713
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c604014266ec10d418531059cc61f2d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00015
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1713
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8c31e797077bf40af2242f132bf600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00016
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1713
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da97a1ac1871b847a4a056313bad459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00017
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1713
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ec406ba40eea341b2ccd66c70eba16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00018
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1545
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d89bfbb3685df849ab9e5b596829bcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1377
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eac85eee23b4dc47b26f84f49b6a52e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1209
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9e348e9c6f39f4995b6c14346ebb7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1041
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c14b9e49469e1449de6091d46459da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00022
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 873
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa363dd42315d0140930366a7bf105ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00023
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 705
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa852c95f54bd664bab90065123f0556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00024
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 537
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52d33fc00426a94d80aec12c4a24dbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00025
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 369
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d7fba45d3bb064cb4d1ca854bf738c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00026
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 201
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f972f99dccd0741b23d35a09632ebc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00027
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d2a7dca66b5d440a99c7954c8cdffa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00028
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1545
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a8a9d605f05b64cbf963ec8afae5ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00029
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1545
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf13b95c67f51eb4d8e745b9406e1f9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00030
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1545
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44f469e8101a3b4895e5d7c4b2559ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00031
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1545
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cb4f576bdc54248b29cb8f7bffad0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00032
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1545
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632cd181fec17a04aa792ef13b2af9e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00033
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1377
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1a083d25d767040b1659036e2e07aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00034
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1377
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a8800d3b9fbf149b205d15d43403a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00035
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1377
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc15bf55b4e50b468062ffd815b273b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00036
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1377
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fcb8baa7bdf794f956b36166df63c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00037
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1377
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35163a4756a0e454f9c723016a3e5d16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00038
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1209
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980abc6171c310341bf16ab2ac68afef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00039
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1041
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1278e375f0fc4c34f8ef3e0ec143fb8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00040
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 873
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301000de79fbd2f40bbebd8dfcf77c25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00041
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 705
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26569741928328645a48eaf8d2a61ad9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00042
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 537
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8a05fe4f8305147be467325c14deda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00043
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 369
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f740bd63c709394f95f156e91e14d61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00044
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 201
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749bec4a9ff3a2f45ab0c7586d32e4bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00045
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 33
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfe4f6d444cf904f82a68021771496f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00046
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1209
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6a70b76f996b94e85949b430d11e96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00047
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1209
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd23d53d8f956b94bb0338ec5c23afb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00048
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1209
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddaa640d1d4fb243abbfcd9e130bc7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00049
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1209
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466c18db8f4efdb4b94716013802f37d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00050
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1041
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14e4309b0d67a241ae77073a2f9cfb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00051
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1041
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9ab823294ed794e9c393cfc6b9a987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00052
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1041
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e47197291f32e429ab6f87f281a8c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00053
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1041
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b17ada89af3e6d47be1d71128a18e4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00054
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 873
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f564d871f3f04b7488616f24084cf893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00055
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 705
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a370994bedaa64aa9fc83218cbdc1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00056
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 537
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16e909f10939e248be8d26dacec2a05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00057
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 369
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c7127a1702d874b861c57f65c682ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00058
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 201
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bea5c8afad1535439176c65f4bb24a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00059
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 33
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524af614ab792034bb53343cd7354fb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00060
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 873
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aefa5aa506bca041809e05805d7440f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00061
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 873
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04456b213aa2f124f87c25e538220574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00062
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 873
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca84349b85f58dd40a531bd479405129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00063
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 705
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c912b3f4024824e9326c9fad6d748c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00064
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 705
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9fd8fc4a559d24d8cbcd4eda8f9867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00065
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 705
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c398adf095237bc458ce0595e3ae5016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00066
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 537
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51904edeac20f184fbbf78b73771a521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00067
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 369
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7987c3b2258e3b4c9567aff0aca52c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00068
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 201
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8ca11c54e46064fbf61d7c5979eba5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00069
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 33
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a011887bbf5f7634683fc2b2c10a2748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00070
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 537
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d4926d214a67a4399d11685fd4a451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00071
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 537
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4901d71ac2274b646b30e0f808f62249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00072
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 369
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90a3352e9b0b3540875faf211a1b4b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring plane_00073
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 201
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.47682118, y: 0.5120482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06654038cbcc60a44bbacd63a743a084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0f8507c433d8b6643999957009cf1400
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

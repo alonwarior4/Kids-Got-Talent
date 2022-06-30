@@ -1,0 +1,51 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:a8810fbf3e9636f20f7b6a2ce03f3bd6:642171ab2a1fbd5995b2b7ce56f02432:d72d29687a4689e019110fd09cb687c3$
+#
+:format=40300
+:texture=coloring ball.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+
+ball coloring_00001;1;1807;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00002;243;1807;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00003;485;1807;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00004;727;1807;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00005;969;1807;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00006;1211;1807;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00007;1453;1807;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00008;1695;1807;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00009;1;1565;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00010;243;1565;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00011;485;1565;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00012;727;1565;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00013;969;1565;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00014;1211;1565;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00015;1453;1565;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00016;1695;1565;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00017;1;1323;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00018;243;1323;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00019;485;1323;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00020;727;1323;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00021;969;1323;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00022;1211;1323;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00023;1453;1323;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00024;1695;1323;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00025;1;1081;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00026;243;1081;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00027;485;1081;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00028;727;1081;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00029;969;1081;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00030;1211;1081;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00031;1453;1081;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00032;1695;1081;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00033;1;839;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00034;243;839;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00035;485;839;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00036;727;839;240;240; 0.5;0.5; 0;0;0;0
+ball coloring_00037;969;839;240;240; 0.5;0.5; 0;0;0;0

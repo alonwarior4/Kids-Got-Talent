@@ -1,0 +1,725 @@
+fileFormatVersion: 2
+guid: 209b943a52e12c146bc94a0877d8592d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: what is your favorite color_00001
+    21300002: what is your favorite color_00002
+    21300004: what is your favorite color_00003
+    21300006: what is your favorite color_00004
+    21300008: what is your favorite color_00005
+    21300010: what is your favorite color_00006
+    21300012: what is your favorite color_00007
+    21300014: what is your favorite color_00008
+    21300016: what is your favorite color_00009
+    21300018: what is your favorite color_00010
+    21300020: what is your favorite color_00011
+    21300022: what is your favorite color_00012
+    21300024: what is your favorite color_00013
+    21300026: what is your favorite color_00014
+    21300028: what is your favorite color_00015
+    21300030: what is your favorite color_00016
+    21300032: what is your favorite color_00017
+    21300034: what is your favorite color_00018
+    21300036: what is your favorite color_00019
+    21300038: what is your favorite color_00020
+    21300040: what is your favorite color_00021
+    21300042: what is your favorite color_00022
+    21300044: what is your favorite color_00023
+    21300046: what is your favorite color_00024
+    21300048: what is your favorite color_00025
+    21300050: what is your favorite color_00026
+    21300052: what is your favorite color_00027
+    21300054: what is your favorite color_00028
+    21300056: what is your favorite color_00029
+    21300058: what is your favorite color_00030
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: what is your favorite color_00001
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 207
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9111111, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570df8e36108e674aad9475d016f7cba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00002
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 171
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1206cd1a0664a34408319e604d29c913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00003
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 362
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33f8271ff2ed5a44a108025e6a54fed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00004
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 318
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6afe7601435214ca974c6d11927a71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00005
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 207
+        width: 43
+        height: 42
+      alignment: 9
+      pivot: {x: 2, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aeaa0b8f21146142abb684de0e8148c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00006
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 217
+        width: 51
+        height: 53
+      alignment: 9
+      pivot: {x: 1.7058823, y: -1.0566038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ebe4bd62b8b5748a191ee215afd85d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 282
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b238469d38589545af05409ddb4d63e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 184
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 1.82, y: -1.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bfc541da6a53840bca33b2d00d6048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00009
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 454
+        width: 60
+        height: 57
+      alignment: 9
+      pivot: {x: 1.6166667, y: -0.9298246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bd3d2db66c7364c9192635ba6f762f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00010
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 456
+        width: 59
+        height: 55
+      alignment: 9
+      pivot: {x: 1.6271186, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd740c6afda98e419b2531a2404c5a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00011
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 251
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 1.82, y: -1.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82526eb40d3231c4884b28fc10e0a4f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00012
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 215
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 1.82, y: -1.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdfd4ea5bbec094ebf609ead01e4737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00013
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 399
+        width: 59
+        height: 55
+      alignment: 9
+      pivot: {x: 1.6271186, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915588968620fd24fb529e629f7e5fc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00014
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 163
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9122e6e268d604e9decdc13074dfe9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00015
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 353
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe8fe03d26bcb74b96a1a9fe5482aaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00016
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 316
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880e6092cbf5bca41be0684cbf8ff78c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00017
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 272
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539468b7cd0b089499d9056fb4d8a16d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00018
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 303
+        width: 52
+        height: 48
+      alignment: 9
+      pivot: {x: 1.75, y: -1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62c741a40849104d80e02c755622d75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00019
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 127
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47120b77974e67a41af4f7837abe33f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 134
+        width: 49
+        height: 48
+      alignment: 9
+      pivot: {x: 1.7959183, y: -1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b684f8017ffa3e343aec0e1e03e1f9e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 456
+        width: 63
+        height: 55
+      alignment: 9
+      pivot: {x: 1.5873016, y: -1.0363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4545dc5341141438fb166fb1351147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00022
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 267
+        width: 52
+        height: 47
+      alignment: 9
+      pivot: {x: 1.75, y: -1.3829787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23accac85411cbb4180d011b0f9f674a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00023
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 456
+        width: 61
+        height: 55
+      alignment: 9
+      pivot: {x: 1.6065574, y: -1.0545454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da64148c3ec134d4fb632e14abb605f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00024
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 399
+        width: 59
+        height: 55
+      alignment: 9
+      pivot: {x: 1.6271186, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a8ad654ca61a14282e73e937604c15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00025
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 328
+        width: 57
+        height: 69
+      alignment: 9
+      pivot: {x: 1.754386, y: -0.7246377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2353cced72fd9949ba12b37d020fa80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00026
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 236
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262357191786da64db5dbe662fc0fa60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00027
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 410
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4daa64ca92e079843ae84f0469542c20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00028
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 408
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f8e78b0326ba243b1a1bf75bddfea9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00029
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 167
+        width: 50
+        height: 48
+      alignment: 9
+      pivot: {x: 1.78, y: -1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3667c5e87b07342aca0bb13dc07587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: what is your favorite color_00030
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 364
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd1824b0b7a6fa458f49bc04e5123d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 00e2fb16c085a8d41b2b89cfefe686a5
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

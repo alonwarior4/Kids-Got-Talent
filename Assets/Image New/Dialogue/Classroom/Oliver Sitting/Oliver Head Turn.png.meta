@@ -1,0 +1,620 @@
+fileFormatVersion: 2
+guid: 64bc23a61a6549b4f916cedb7372d8de
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Head Turn_00144
+    21300002: Head Turn_00145
+    21300004: Head Turn_00146
+    21300006: Head Turn_00147
+    21300008: Head Turn_00148
+    21300010: Head Turn_00149
+    21300012: Head Turn_00150
+    21300014: Head Turn_00151
+    21300016: Head Turn_00152
+    21300018: Head Turn_00153
+    21300020: Head Turn_00154
+    21300022: Head Turn_00155
+    21300024: Head Turn_00156
+    21300026: Head Turn_00157
+    21300028: Head Turn_00158
+    21300030: Head Turn_00159
+    21300032: Head Turn_00160
+    21300034: Head Turn_00161
+    21300036: Head Turn_00162
+    21300038: Head Turn_00163
+    21300040: Head Turn_00164
+    21300042: Head Turn_00165
+    21300044: Head Turn_00166
+    21300046: Head Turn_00167
+    21300048: Head Turn_00168
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Head Turn_00144
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 371
+        width: 206
+        height: 213
+      alignment: 9
+      pivot: {x: 0.5145631, y: -0.20187794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264a722391f151145b54bc29322d25fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00145
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 597
+        width: 212
+        height: 211
+      alignment: 9
+      pivot: {x: 0.5188679, y: -0.21327014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78a23a09e479ee4b830bd207d99d8bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00146
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 380
+        width: 213
+        height: 211
+      alignment: 9
+      pivot: {x: 0.52112675, y: -0.21327014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdb813c02effd24b850482679038173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00147
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 593
+        width: 202
+        height: 213
+      alignment: 9
+      pivot: {x: 0.52970296, y: -0.19248827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9231606cc12e9b449b5b0a55527e8eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00148
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 808
+        width: 205
+        height: 215
+      alignment: 9
+      pivot: {x: 0.54146343, y: -0.19069767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650d17790d4c2fb48a92ae9894f4df98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00149
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 157
+        width: 198
+        height: 212
+      alignment: 9
+      pivot: {x: 0.52020204, y: -0.20754717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc23416cccc0cd4ba8bfcffafae8c21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00150
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 810
+        width: 195
+        height: 213
+      alignment: 9
+      pivot: {x: 0.50769234, y: -0.20187794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1918f2757427f45a0177a3147b9aea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00151
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 586
+        width: 181
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5082873, y: -0.17050691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe6bac22d1f6784f8272634d3c89da3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00152
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 335
+        width: 178
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5280899, y: -0.15315315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f827a7970967e49b27b50eb34f9075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00153
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 360
+        width: 176
+        height: 219
+      alignment: 9
+      pivot: {x: 0.53977275, y: -0.16438356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a148b467067fae740907a5df5ca085ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00154
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 136
+        width: 171
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5204678, y: -0.1590909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b516c56d40120e4ebcc68d356e0d100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00155
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 812
+        width: 173
+        height: 211
+      alignment: 9
+      pivot: {x: 0.5260116, y: -0.2085308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796e98bb49671fc47a58e4b5bf406e7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00156
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 805
+        width: 173
+        height: 218
+      alignment: 9
+      pivot: {x: 0.51445085, y: -0.16972478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05568cfe65a82224a93a30f5fbcf3073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00157
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 139
+        width: 169
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5325444, y: -0.16438356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6199fc31a2a6ff34ea53c9ab253d695c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00158
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 369
+        width: 172
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5232558, y: -0.19069767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e26a8921973009448165d4d5d69547f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00159
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 785
+        width: 176
+        height: 238
+      alignment: 9
+      pivot: {x: 0.53409094, y: -0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da442cb6372391f4fbd41804d9a20e8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00160
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 152
+        width: 170
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5235294, y: -0.19069767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c5742fc920d9d4ba3b3374c49542e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00161
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 581
+        width: 177
+        height: 220
+      alignment: 9
+      pivot: {x: 0.519774, y: -0.16363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b11736b3aac7746a6abc021e954dec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00162
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 802
+        width: 177
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5254237, y: -0.15384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37547a6914588b459d79eb06d0b4c1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00163
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 559
+        width: 176
+        height: 224
+      alignment: 9
+      pivot: {x: 0.53409094, y: -0.13392857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f68dd53b4cb1141bdfd5297f8108d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00164
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 112
+        width: 180
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5277778, y: -0.15384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f2fe27d1d55e4438902cdfc6f09589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00165
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 137
+        width: 179
+        height: 219
+      alignment: 9
+      pivot: {x: 0.53072625, y: -0.15981735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4687861e373496f428f7586883d932c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00166
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 580
+        width: 181
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5248619, y: -0.1590909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fcb42b0ed231141ae46e745ef24cb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00167
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 803
+        width: 181
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5248619, y: -0.1590909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff935cf28fcc0a4cb5aadcba48a70b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head Turn_00168
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 358
+        width: 181
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5248619, y: -0.1590909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ce4bda7c75ab04c81e0e3c53ff3f27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 95a42527b25f1b64480bb946ed6f59cc
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

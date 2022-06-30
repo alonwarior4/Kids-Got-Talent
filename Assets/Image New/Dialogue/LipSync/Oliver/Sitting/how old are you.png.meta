@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: d8a219cfe2cf6ce4796935fe58e5bf75
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: how old are you_00001
+    21300002: how old are you_00002
+    21300004: how old are you_00003
+    21300006: how old are you_00004
+    21300008: how old are you_00005
+    21300010: how old are you_00006
+    21300012: how old are you_00007
+    21300014: how old are you_00008
+    21300016: how old are you_00009
+    21300018: how old are you_00010
+    21300020: how old are you_00011
+    21300022: how old are you_00012
+    21300024: how old are you_00013
+    21300026: how old are you_00014
+    21300028: how old are you_00015
+    21300030: how old are you_00016
+    21300032: how old are you_00017
+    21300034: how old are you_00018
+    21300036: how old are you_00019
+    21300038: how old are you_00020
+    21300040: how old are you_00021
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: how old are you_00001
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 266
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e47b4ea131df347a2c34853badd850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how old are you_00002
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 354
+        width: 49
+        height: 48
+      alignment: 9
+      pivot: {x: 1.7959183, y: -1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c839755c449428b4db815f2cca988822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how old are you_00003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 456
+        width: 63
+        height: 55
+      alignment: 9
+      pivot: {x: 1.5873016, y: -1.0363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f2875cf4f5b7d46bf70dcc1c008e7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how old are you_00004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 246
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9333333, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273d179976d71644f94c313b163e8dcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how old are you_00005
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 453
+        width: 60
+        height: 58
+      alignment: 9
+      pivot: {x: 1.7, y: -0.8965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f519e6f7f98741f4ca5a38bc6308dc7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how old are you_00006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 342
+        width: 51
+        height: 53
+      alignment: 9
+      pivot: {x: 1.7058823, y: -1.0566038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98aa251b1deea3f4faeb116d12de39c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how old are you_00007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 397
+        width: 59
+        height: 57
+      alignment: 9
+      pivot: {x: 1.6271186, y: -0.94736844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11444f10b98484549833a8fa20a24563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how old are you_00008
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 266
+        width: 43
+        height: 42
+      alignment: 9
+      pivot: {x: 2, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07961ba48681b8c4aa9b11806a2580ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how old are you_00009
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 421
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91e378e0b0f12c4e8d83644b7256367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how old are you_00010
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 465
+        width: 58
+        height: 46
+      alignment: 9
+      pivot: {x: 1.6206896, y: -1.3913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84309bc53aa9d4446a47978bcb215d96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how old are you_00011
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 344
+        width: 53
+        height: 52
+      alignment: 9
+      pivot: {x: 1.6415094, y: -1.0961539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aab4a10dab310440bbe689381c007de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how old are you_00012
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 289
+        width: 46
+        height: 53
+      alignment: 9
+      pivot: {x: 1.9130435, y: -1.0566038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98024ee4f0e9c8443b677b3ce90ffda5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how old are you_00013
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 359
+        width: 53
+        height: 60
+      alignment: 9
+      pivot: {x: 1.7924528, y: -0.9166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90b1058ec7306a4c901e014dfb16b8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how old are you_00014
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 310
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9333333, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d915d4794ebe04dbdde3896b530284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how old are you_00015
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 404
+        width: 54
+        height: 59
+      alignment: 9
+      pivot: {x: 1.7777778, y: -0.9491525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3daaca143a83948bb9bbeaa2bbba90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how old are you_00016
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 310
+        width: 49
+        height: 47
+      alignment: 9
+      pivot: {x: 1.8571428, y: -1.3829787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd80a2240efcc3840a0cedbc84b47875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how old are you_00017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 290
+        width: 45
+        height: 50
+      alignment: 9
+      pivot: {x: 1.9333333, y: -1.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5196fd24d55e6dc43aa23c0b59d8964d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how old are you_00018
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 245
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db604a58a8370484b886bcd21756eb64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how old are you_00019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 202
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a21931ccea292c4f9bc055aae7aa1fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how old are you_00020
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 398
+        width: 55
+        height: 53
+      alignment: 9
+      pivot: {x: 1.6363636, y: -1.0566038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c3aa5d93ab3e14c9dcb9a550ca041b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: how old are you_00021
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 467
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b2790a7628c784d94e9845c8a6c51b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e66a1e1a3b5cf3b4a85e071591cc5fd3
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

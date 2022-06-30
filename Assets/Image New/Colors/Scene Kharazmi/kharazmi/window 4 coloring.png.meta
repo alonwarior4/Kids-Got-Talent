@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: e2c88679641ed544a84bfad258569369
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: window 4 coloring
+    21300002: window coloring 4_00001
+    21300004: window coloring 4_00002
+    21300006: window coloring 4_00003
+    21300008: window coloring 4_00004
+    21300010: window coloring 4_00005
+    21300012: window coloring 4_00006
+    21300014: window coloring 4_00007
+    21300016: window coloring 4_00008
+    21300018: window coloring 4_00009
+    21300020: window coloring 4_00010
+    21300022: window coloring 4_00011
+    21300024: window coloring 4_00012
+    21300026: window coloring 4_00013
+    21300028: window coloring 4_00014
+    21300030: window coloring 4_00015
+    21300032: window coloring 4_00016
+    21300034: window coloring 4_00017
+    21300036: window coloring 4_00018
+    21300038: window coloring 4_00019
+    21300040: window coloring 4_00020
+    21300042: window coloring 4_00021
+    21300044: window coloring 4_00022
+    21300046: window coloring 4_00023
+    21300048: window coloring 4_00024
+    21300050: window coloring 4_00025
+    21300052: window coloring 4_00026
+    21300054: window coloring 4_00027
+    21300056: window coloring 4_00028
+    21300058: window coloring 4_00029
+    21300060: window coloring 4_00030
+    21300062: window coloring 4_00031
+    21300064: window coloring 4_00032
+    21300066: window coloring 4_00033
+    21300068: window coloring 4_00034
+    21300070: window coloring 4_00035
+    21300072: window coloring 4_00036
+    21300074: window coloring 4_00037
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: window coloring 4_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1693
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c720b9e99f71b343bdc830c3f959e3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00002
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1693
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06f7424cd7ee614bb6dcb81c42df73c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00003
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1693
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc778e13c41fb4644a95f88408b71e20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00004
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1693
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3987dcb3b96985248b009b82108f5e8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00005
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1693
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcea068ae08eaa4aac741ea4f945c43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00006
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1693
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e645d091d01e064b93237d670a52f34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00007
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1693
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab33ae2a60ffb364e8606a1ece742992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00008
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1693
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a2b3170467aa64fac840f6cc1ac10f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1337
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b77a3e238216245a0f55ffd8cc8b98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00010
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1337
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a827479e8aa53974084e9c269100330f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00011
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1337
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa905ffbbbe589047834450320c05a6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00012
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1337
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7ce39e03cd6ba4998ba5204ec3f30f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00013
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1337
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71fcd91f468c7447b997679652396ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00014
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1337
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d939316313ed0458a19ddfbb4fa658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00015
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1337
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8e97674d7287f449721a3b5e5ae0f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00016
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1337
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6837fdc4f49138d47804dc91938dc8f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 981
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c598018be5cfe449740c7480db2faa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00018
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 981
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22b2eb821b256343ab01cc44c0daf86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00019
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 981
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e875c81b480281489cfe80d5146930a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00020
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 981
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2002a5b0551b345b9950c6dfbae772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00021
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 981
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee852578ca9a7d43899e5f253458b4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00022
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 981
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6824ecedcbc7048bd7bb37e10d033c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00023
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 981
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8da3375dc2980459ab188a9412f9ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00024
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 981
+        width: 124
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22bbd18411503b4a816704f1d2c674f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00025
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 625
+        width: 123
+        height: 354
+      alignment: 9
+      pivot: {x: 0.50406504, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30167cb2d06e62d4db21beb9d1a07d1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00026
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 625
+        width: 123
+        height: 354
+      alignment: 9
+      pivot: {x: 0.50406504, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c4997f025e8004cb92dd2c64a31e89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00027
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 625
+        width: 123
+        height: 354
+      alignment: 9
+      pivot: {x: 0.50406504, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426ff3008046aa1419bfb4ab49c748a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00028
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 625
+        width: 123
+        height: 354
+      alignment: 9
+      pivot: {x: 0.50406504, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73f5985fdf805748a98bc287b7b72e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00029
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 625
+        width: 123
+        height: 354
+      alignment: 9
+      pivot: {x: 0.50406504, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91fe27b45f859242b453cedfc33d486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00030
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 625
+        width: 123
+        height: 354
+      alignment: 9
+      pivot: {x: 0.50406504, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89be7b87748821548896df2e6c06c0c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00031
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 625
+        width: 123
+        height: 354
+      alignment: 9
+      pivot: {x: 0.50406504, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9b2e65ac04d4d40a829936329137f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00032
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 625
+        width: 123
+        height: 354
+      alignment: 9
+      pivot: {x: 0.50406504, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c4c48eb29b884448a16fb4dc3eecd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00033
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 269
+        width: 123
+        height: 354
+      alignment: 9
+      pivot: {x: 0.50406504, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac0048adf28f4d4fa89aed9a430432b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00034
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 269
+        width: 123
+        height: 354
+      alignment: 9
+      pivot: {x: 0.50406504, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1273b3f416e5de04dbd556fc69e0c389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00035
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 269
+        width: 123
+        height: 354
+      alignment: 9
+      pivot: {x: 0.50406504, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8060a37eef203e644850f4f6bfbf2767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00036
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 268
+        width: 123
+        height: 355
+      alignment: 9
+      pivot: {x: 0.50406504, y: 0.49859154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f888a75166c4d64c952550dccb9909b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window coloring 4_00037
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 268
+        width: 123
+        height: 355
+      alignment: 9
+      pivot: {x: 0.50406504, y: 0.49859154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92a23194b5672540b1b6cf75618aef3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7a5a846b8019c0b4db127f19986bf4cf
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

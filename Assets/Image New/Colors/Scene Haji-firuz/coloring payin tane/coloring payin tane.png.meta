@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 4259d2b2d566b664f885d3d9818c0288
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: coloring payin tane
+    21300002: coloring payin tane_00001
+    21300004: coloring payin tane_00002
+    21300006: coloring payin tane_00003
+    21300008: coloring payin tane_00004
+    21300010: coloring payin tane_00005
+    21300012: coloring payin tane_00006
+    21300014: coloring payin tane_00007
+    21300016: coloring payin tane_00008
+    21300018: coloring payin tane_00009
+    21300020: coloring payin tane_00010
+    21300022: coloring payin tane_00011
+    21300024: coloring payin tane_00012
+    21300026: coloring payin tane_00013
+    21300028: coloring payin tane_00014
+    21300030: coloring payin tane_00015
+    21300032: coloring payin tane_00016
+    21300034: coloring payin tane_00017
+    21300036: coloring payin tane_00018
+    21300038: coloring payin tane_00019
+    21300040: coloring payin tane_00020
+    21300042: coloring payin tane_00021
+    21300044: coloring payin tane_00022
+    21300046: coloring payin tane_00023
+    21300048: coloring payin tane_00024
+    21300050: coloring payin tane_00025
+    21300052: coloring payin tane_00026
+    21300054: coloring payin tane_00027
+    21300056: coloring payin tane_00028
+    21300058: coloring payin tane_00029
+    21300060: coloring payin tane_00030
+    21300062: coloring payin tane_00031
+    21300064: coloring payin tane_00032
+    21300066: coloring payin tane_00033
+    21300068: coloring payin tane_00034
+    21300070: coloring payin tane_00035
+    21300072: coloring payin tane_00036
+    21300074: coloring payin tane_00037
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coloring payin tane_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1568
+        width: 292
+        height: 479
+      alignment: 9
+      pivot: {x: 0.5684931, y: 0.50104386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ed76a52917965459597b851a8ddcae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00002
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1568
+        width: 292
+        height: 479
+      alignment: 9
+      pivot: {x: 0.5684931, y: 0.50104386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce55f82c87e7054e9cc2a09a7122439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00003
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1568
+        width: 292
+        height: 479
+      alignment: 9
+      pivot: {x: 0.5684931, y: 0.50104386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b87c9a1672c5f429c8cbaaca0b53c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00004
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1568
+        width: 292
+        height: 479
+      alignment: 9
+      pivot: {x: 0.5684931, y: 0.50104386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deda8ff083e35ac48af3ba19a01906a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00005
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1568
+        width: 269
+        height: 479
+      alignment: 9
+      pivot: {x: 0.5315985, y: 0.50104386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571a4584dc8341e4c94e86f3a12b0c70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00006
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1568
+        width: 249
+        height: 479
+      alignment: 9
+      pivot: {x: 0.4939759, y: 0.50104386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9ced25fc9f1cd46851eba46c070912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00007
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1576
+        width: 242
+        height: 471
+      alignment: 9
+      pivot: {x: 0.47933885, y: 0.50955415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87805607091da004999707396efb8d5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1092
+        width: 233
+        height: 474
+      alignment: 9
+      pivot: {x: 0.45922747, y: 0.5063291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b91a6ccd844c145ab95edcde956983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00009
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1130
+        width: 233
+        height: 436
+      alignment: 9
+      pivot: {x: 0.45922747, y: 0.5504587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e587823393c7ccf4ea3227441795c913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00010
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1130
+        width: 233
+        height: 436
+      alignment: 9
+      pivot: {x: 0.45922747, y: 0.5504587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cb3d7f7f95bc34c8a6f189676f2111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00011
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1130
+        width: 233
+        height: 436
+      alignment: 9
+      pivot: {x: 0.45922747, y: 0.5504587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587bbb2c8ed36874b9169e92b61e9a99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00012
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1130
+        width: 233
+        height: 436
+      alignment: 9
+      pivot: {x: 0.45922747, y: 0.5504587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a3068e4f787224d9e045cc2aff3722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00013
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1133
+        width: 233
+        height: 433
+      alignment: 9
+      pivot: {x: 0.45922747, y: 0.55427253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8c3efe6fbc34e41a3008d97ca37e19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00014
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1133
+        width: 233
+        height: 433
+      alignment: 9
+      pivot: {x: 0.45922747, y: 0.55427253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cef65e4cb75494aa32783b583695ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00015
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 1162
+        width: 233
+        height: 404
+      alignment: 9
+      pivot: {x: 0.45922747, y: 0.5940594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e998e00403275664087bb3d39abb7828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 686
+        width: 233
+        height: 404
+      alignment: 9
+      pivot: {x: 0.45922747, y: 0.5940594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a508ce9fcaff3bb4e8a0f1a4e933eaa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00017
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 686
+        width: 233
+        height: 404
+      alignment: 9
+      pivot: {x: 0.45922747, y: 0.5940594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c8d53cf6037a94cb0bf3b3f68cdfbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00018
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 686
+        width: 233
+        height: 404
+      alignment: 9
+      pivot: {x: 0.45922747, y: 0.5940594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbd3add5f9d6cc45968a2b7e76df69b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00019
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 683
+        width: 233
+        height: 407
+      alignment: 9
+      pivot: {x: 0.45922747, y: 0.5896806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e4c0698eb33514581cc34d488dcbe7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00020
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 688
+        width: 239
+        height: 402
+      alignment: 9
+      pivot: {x: 0.44769874, y: 0.5970149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e076d1e64603c442b45196d3731429e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00021
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 683
+        width: 233
+        height: 407
+      alignment: 9
+      pivot: {x: 0.45922747, y: 0.5896806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6063159d9116347926aadc5b9edfd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00022
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 688
+        width: 231
+        height: 402
+      alignment: 9
+      pivot: {x: 0.46320346, y: 0.5970149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9348234136e9d2c409f1a64abb3451ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00023
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 688
+        width: 230
+        height: 402
+      alignment: 9
+      pivot: {x: 0.46086955, y: 0.5970149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864c229214c094f4cb3eb6f5f1ce14f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00024
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 293
+        width: 205
+        height: 388
+      alignment: 9
+      pivot: {x: 0.3804878, y: 0.6159794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1d7703b5c6b494784c4152d65694e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00025
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 294
+        width: 208
+        height: 387
+      alignment: 9
+      pivot: {x: 0.37980768, y: 0.61757106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5ffe08ef1f0244bb040e96dedc25c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00026
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 438
+        width: 180
+        height: 243
+      alignment: 9
+      pivot: {x: 0.43888888, y: 0.9835391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b731346346f65348b542b0909dfb49e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00027
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 436
+        width: 178
+        height: 245
+      alignment: 9
+      pivot: {x: 0.43258426, y: 0.97959185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecb21eeba4185f42987248f5a3d4a7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00028
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 457
+        width: 150
+        height: 224
+      alignment: 9
+      pivot: {x: 0.32666665, y: 1.0669643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3924342be3e2a42aa574a499ce2a04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00029
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 493
+        width: 149
+        height: 188
+      alignment: 9
+      pivot: {x: 0.32214764, y: 1.2712766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5c0a68b4450244686143747cd1cee8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00030
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 495
+        width: 122
+        height: 186
+      alignment: 9
+      pivot: {x: 0.14754099, y: 1.2688172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb67f768d0a1a404481300e384b30b2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00031
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 511
+        width: 123
+        height: 170
+      alignment: 9
+      pivot: {x: 0.15447155, y: 1.3882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf682baf5bfe5e9419ccd2940c18b2e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00032
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 539
+        width: 102
+        height: 142
+      alignment: 9
+      pivot: {x: -0.019607844, y: 1.6549295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bf4ba01053b0e41a81db13d3e47625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00033
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 555
+        width: 91
+        height: 126
+      alignment: 9
+      pivot: {x: -0.14285715, y: 1.8730159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0fe992dc8f6c541a26b4e106dd5d72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00034
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 597
+        width: 62
+        height: 84
+      alignment: 9
+      pivot: {x: -0.62903225, y: 2.857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e348b19bd322fc04e8c7050ac21ca217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00035
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 612
+        width: 58
+        height: 69
+      alignment: 9
+      pivot: {x: -0.7413793, y: 3.463768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0351e091916a3614c9d5863bc081fe56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00036
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 651
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: -5.4666667, y: 7.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bba3d4126a1594eab5a60e3f600f22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring payin tane_00037
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 680
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 180, y: -239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec48224a72a56b44ca7f0cc22c348df5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: edabb9d6b0d3d2448828a2125f6790d3
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

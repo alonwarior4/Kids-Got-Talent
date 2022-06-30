@@ -1,0 +1,28 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:5fdfc747cf2ef4482c4274beca309e53:f88ac514565e60f438bf4971cd6b86e5:b087b22bbf3c611d872433a7984f41e4$
+#
+:format=40300
+:texture=Food.png
+:size=2048x1024
+:pivotpoints=enabled
+:borders=disabled
+
+bread;825;22;403;144; 0.5;0.5; 0;0;0;0
+cake;393;725;418;298; 0.5;0.5; 0;0;0;0
+cheese;797;425;379;298; 0.5;0.5; 0;0;0;0
+chicken;813;728;417;295; 0.5;0.5; 0;0;0;0
+hotdog;1255;237;469;238; 0.5;0.5; 0;0;0;0
+meat;1255;28;468;207; 0.5;0.5; 0;0;0;0
+pancake;1178;477;426;249; 0.5;0.5; 0;0;0;0
+pizza;1;648;390;375; 0.5;0.5; 0;0;0;0
+sandwich;425;23;398;299; 0.5;0.5; 0;0;0;0
+sausage;372;324;423;322; 0.5;0.5; 0;0;0;0
+soup;1;277;369;369; 0.5;0.5; 0;0;0;0
+spaghetti;1;14;422;261; 0.5;0.5; 0;0;0;0
+steak;825;168;428;255; 0.5;0.5; 0;0;0;0
+toast;1606;785;422;238; 0.5;0.5; 0;0;0;0

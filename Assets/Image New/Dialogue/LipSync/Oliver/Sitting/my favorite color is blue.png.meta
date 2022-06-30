@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 8c5b16fa3042d034187b83604d9af519
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: my favorite color is blue_00001
+    21300002: my favorite color is blue_00002
+    21300004: my favorite color is blue_00003
+    21300006: my favorite color is blue_00004
+    21300008: my favorite color is blue_00005
+    21300010: my favorite color is blue_00006
+    21300012: my favorite color is blue_00007
+    21300014: my favorite color is blue_00008
+    21300016: my favorite color is blue_00009
+    21300018: my favorite color is blue_00010
+    21300020: my favorite color is blue_00011
+    21300022: my favorite color is blue_00012
+    21300024: my favorite color is blue_00013
+    21300026: my favorite color is blue_00014
+    21300028: my favorite color is blue_00015
+    21300030: my favorite color is blue_00016
+    21300032: my favorite color is blue_00017
+    21300034: my favorite color is blue_00018
+    21300036: my favorite color is blue_00019
+    21300038: my favorite color is blue_00020
+    21300040: my favorite color is blue_00021
+    21300042: my favorite color is blue_00022
+    21300044: my favorite color is blue_00023
+    21300046: my favorite color is blue_00024
+    21300048: my favorite color is blue_00025
+    21300050: my favorite color is blue_00026
+    21300052: my favorite color is blue_00027
+    21300054: my favorite color is blue_00028
+    21300056: my favorite color is blue_00029
+    21300058: my favorite color is blue_00030
+    21300060: my favorite color is blue_00031
+    21300062: my favorite color is blue_00032
+    21300064: my favorite color is blue_00033
+    21300066: my favorite color is blue_00034
+    21300068: my favorite color is blue_00035
+    21300070: my favorite color is blue_00036
+    21300072: my favorite color is blue_00037
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: my favorite color is blue_00001
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 82
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50189c65f3d258e4fa19486f2410cbaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 452
+        width: 67
+        height: 59
+      alignment: 9
+      pivot: {x: 1.6268656, y: -0.84745765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb487837073786a48a4007c8051b2ad9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00003
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 153
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 1.82, y: -1.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d969b95e687764cab5e038150ea9d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 335
+        width: 60
+        height: 57
+      alignment: 9
+      pivot: {x: 1.6166667, y: -0.9298246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40a3ad188d0f3545bd71e2dba7f7c97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00005
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 282
+        width: 59
+        height: 55
+      alignment: 9
+      pivot: {x: 1.6271186, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ef89b968ee6b5479004d3d03a4aa45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00006
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 129
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 1.82, y: -1.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ee53e39f5afff449e12984a5e730ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00007
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 338
+        width: 60
+        height: 57
+      alignment: 9
+      pivot: {x: 1.6166667, y: -0.9298246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603c1ff4fce40514fb74369fb99e6dd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 278
+        width: 59
+        height: 55
+      alignment: 9
+      pivot: {x: 1.6271186, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41af555567d32e47a7c1854ed1004ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f20eeef1b70b545b55ecab98cec58b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 232
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a08c4834f2b7f4a9a4a4700f5c0076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 186
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1401cb1a3e867f84cab2ac80d67dfeaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00012
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 205
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba26ae091030cd1448ea8f08d278544f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00013
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 409
+        width: 52
+        height: 48
+      alignment: 9
+      pivot: {x: 1.75, y: -1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b9d29139a18a04da4e2b9f3ecd5d21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcfca015ea04de41ad8a9ecd75f1f74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00015
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 38
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebca1f03729a53489b41569cd85080e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00016
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 126
+        width: 49
+        height: 48
+      alignment: 9
+      pivot: {x: 1.7959183, y: -1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3354df528a98c44857ca68300d6bf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00017
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 456
+        width: 63
+        height: 55
+      alignment: 9
+      pivot: {x: 1.5873016, y: -1.0363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0126d5a13c919a64e8d2105f0cf5259a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00018
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 222
+        width: 57
+        height: 58
+      alignment: 9
+      pivot: {x: 1.6491228, y: -0.94827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e06bb64d303de469cda66f6e15cd8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00019
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 297
+        width: 59
+        height: 55
+      alignment: 9
+      pivot: {x: 1.6271186, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caba0075f11e4ab4786258ec46dbd954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 394
+        width: 62
+        height: 56
+      alignment: 9
+      pivot: {x: 1.5967742, y: -1.0178572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f9d050543ba094aba9f2f545cfb7f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00021
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 38
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6afc31c732d5594bac772b66ac8dc06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00022
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 181
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffbb65e59b14f24d8e9ca9816db817b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00023
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 176
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 1.6140351, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ab889600d178c4482083dda97ae5e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00024
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 292
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648e1602d06287540a30d4fb49157f4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00025
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 227
+        width: 57
+        height: 63
+      alignment: 9
+      pivot: {x: 1.6666666, y: -0.7936508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6016af1711e1b4b9a7d3c16fc386ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00026
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 41
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9772727, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1097403afe9e32143988bc25cff1b197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00027
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 399
+        width: 63
+        height: 55
+      alignment: 9
+      pivot: {x: 1.5873016, y: -1.0363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc5838617cd19b43a766c221cd5d967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00028
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 397
+        width: 62
+        height: 57
+      alignment: 9
+      pivot: {x: 1.6290323, y: -0.9649123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3c31e1acc0a154891df00d7d452016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00029
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 456
+        width: 64
+        height: 55
+      alignment: 9
+      pivot: {x: 1.609375, y: -1.0181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fe6f601b04eba47bc6d7d5008b9a53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00030
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 354
+        width: 51
+        height: 53
+      alignment: 9
+      pivot: {x: 1.7058823, y: -1.0566038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92322a9b67ad314bac8aab2349db843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00031
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 339
+        width: 60
+        height: 58
+      alignment: 9
+      pivot: {x: 1.7, y: -0.8965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbdff2a7785ea340b65d5808c069f49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00032
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9333333, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740b28ff0c806bc479ee9e6eb41962f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00033
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 109
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9333333, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43719a4ae4062784cb6f0417fa5e65c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00034
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 85
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 1.9333333, y: -1.5476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1424daa35125434181ce04eb9b35892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00035
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 459
+        width: 54
+        height: 52
+      alignment: 9
+      pivot: {x: 1.6296296, y: -1.0961539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c7b87c565d9ec4a96148602d48b438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00036
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 135
+        width: 51
+        height: 49
+      alignment: 9
+      pivot: {x: 1.745098, y: -1.3061224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4189ce17e46e8e94d922229488e0bfe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: my favorite color is blue_00037
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 251
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 1.5423728, y: -1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51bdea77a97a0e41aa6e7e8f9610cdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 98ebc6d40b845844d8e6d1fc468eb33a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

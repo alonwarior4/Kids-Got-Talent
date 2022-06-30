@@ -1,0 +1,1052 @@
+fileFormatVersion: 2
+guid: 9625676bd303f714db64dc5fe6b7540e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: landing
+    21300002: landing_00048
+    21300004: landing_00049
+    21300006: landing_00050
+    21300008: landing_00051
+    21300010: landing_00052
+    21300012: landing_00053
+    21300014: landing_00054
+    21300016: landing_00055
+    21300018: landing_00056
+    21300020: landing_00057
+    21300022: landing_00058
+    21300024: landing_00059
+    21300026: landing_00060
+    21300028: landing_00061
+    21300030: landing_00062
+    21300032: landing_00063
+    21300034: landing_00064
+    21300036: landing_00065
+    21300038: landing_00066
+    21300040: landing_00067
+    21300042: landing_00068
+    21300044: landing_00069
+    21300046: landing_00070
+    21300048: landing_00071
+    21300050: landing_00072
+    21300052: landing_00073
+    21300054: landing_00074
+    21300056: landing_00075
+    21300058: landing_00076
+    21300060: landing_00077
+    21300062: landing_00078
+    21300064: landing_00079
+    21300066: landing_00080
+    21300068: landing_00081
+    21300070: landing_00082
+    21300072: landing_00083
+    21300074: landing_00084
+    21300076: landing_00085
+    21300078: landing_00086
+    21300080: landing_00087
+    21300082: landing_00088
+    21300084: landing_00089
+    21300086: landing_00090
+    21300088: landing_00091
+    21300090: landing_00092
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: landing_00048
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 587
+        width: 267
+        height: 280
+      alignment: 9
+      pivot: {x: 0.52059925, y: 0.39285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6b36c5ceae9c14e82e8d876fc8708b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00049
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1154
+        width: 261
+        height: 294
+      alignment: 9
+      pivot: {x: 0.50574714, y: 0.4319728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc626cf24100d640939b1cc2d363988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00050
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 309
+        width: 252
+        height: 276
+      alignment: 9
+      pivot: {x: 0.515873, y: 0.4384058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47277bb79534ace46982e52d7e21c23a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00051
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 306
+        width: 248
+        height: 279
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53763443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd165ebf9c6504429f50efc22819709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00052
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1792
+        width: 240
+        height: 255
+      alignment: 9
+      pivot: {x: 0.51666665, y: 0.58431375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6d3498f311114469de7056671ef052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00053
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 726
+        width: 234
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62601626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3c9afde712f134d91f63f868468e77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00054
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1009
+        width: 228
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6735537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f771b62b07dd714181489c6bb9168f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00055
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 974
+        width: 223
+        height: 260
+      alignment: 9
+      pivot: {x: 0.49327356, y: 0.6230769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfd7d9feba20694d8052810b654c2e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00056
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 963
+        width: 221
+        height: 266
+      alignment: 9
+      pivot: {x: 0.5022625, y: 0.58270675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b070517c0e2a8354fabc191f33f30d52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00057
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1525
+        width: 216
+        height: 257
+      alignment: 9
+      pivot: {x: 0.49074075, y: 0.5719844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6c73c7db60a4646b960cc1abe8fd4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00058
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1748
+        width: 196
+        height: 299
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.5585284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5743118b27c7a274bb2e414b75b7d194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00059
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 898
+        width: 198
+        height: 276
+      alignment: 9
+      pivot: {x: 0.479798, y: 0.5326087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587f80b559558c24a9d32350bd2e51ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00060
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 34
+        width: 203
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5123153, y: 0.53113556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc24ad5e4cc35c7468238d9020885c64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00061
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 443
+        width: 208
+        height: 255
+      alignment: 9
+      pivot: {x: 0.50961536, y: 0.5803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f3a0332bc4f814c9ce096435b69e30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00062
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1285
+        width: 206
+        height: 238
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6092437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b249b7941e24e9b4fbb663d5c86ccdde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00063
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1556
+        width: 194
+        height: 234
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6196581}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0452a60136d10349844e1946166ff83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00064
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1236
+        width: 191
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4921466, y: 0.62781954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfacfd6d39845154b82883dffa6bf164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00065
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1253
+        width: 195
+        height: 258
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.57751936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2994113da41124994ad8e942a54110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00066
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1513
+        width: 194
+        height: 265
+      alignment: 9
+      pivot: {x: 0.49484536, y: 0.5584906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d7aad7d05618140bc4632a8c855085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00067
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 19
+        width: 193
+        height: 280
+      alignment: 9
+      pivot: {x: 0.4974093, y: 0.5285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fccfa86e9b3b842bf25c16edb6524d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00068
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1759
+        width: 195
+        height: 288
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.5138889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e173ee45003364091a0ef1d371ca58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00069
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 869
+        width: 194
+        height: 283
+      alignment: 9
+      pivot: {x: 0.49484536, y: 0.5229682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e1f3ef26442e149bd43073f179695c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00070
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1450
+        width: 192
+        height: 296
+      alignment: 9
+      pivot: {x: 0.49479166, y: 0.5641892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4a1a8bae5a2ad4aa5fbe190a00aa12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00071
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1776
+        width: 195
+        height: 271
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.55350554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1afd985c1ff004489740f17eaf2765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00072
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1780
+        width: 193
+        height: 267
+      alignment: 9
+      pivot: {x: 0.49222797, y: 0.56554306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b66122b71d7b34bb52754544117c47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00073
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 700
+        width: 194
+        height: 261
+      alignment: 9
+      pivot: {x: 0.49484536, y: 0.57088125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1a83d03239aff47b3982d81daa8965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00074
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1479
+        width: 195
+        height: 278
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.60071945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22886c09d0749f440ad760cb2172de3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00075
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1784
+        width: 193
+        height: 263
+      alignment: 9
+      pivot: {x: 0.48704663, y: 0.56653994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d69c00ea345b04887d1d2edc7bfaa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00076
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1504
+        width: 191
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4921466, y: 0.56296295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9f6e39b2757b149a33591ce9a00ba9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00077
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1231
+        width: 193
+        height: 270
+      alignment: 9
+      pivot: {x: 0.48704663, y: 0.54444444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8387314a7699a4ca727f0f0710d82e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00078
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1202
+        width: 194
+        height: 275
+      alignment: 9
+      pivot: {x: 0.49484536, y: 0.53818184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d695b9c725c626f40b0d5e76ad9a46ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00079
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 301
+        width: 197
+        height: 281
+      alignment: 9
+      pivot: {x: 0.49238577, y: 0.52669036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cc2ae078d4eef46921293bfb422514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00080
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 872
+        width: 195
+        height: 280
+      alignment: 9
+      pivot: {x: 0.48205128, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ff23ab6d88c234593702fc473a5d76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00081
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 584
+        width: 193
+        height: 283
+      alignment: 9
+      pivot: {x: 0.4974093, y: 0.5229682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fdc08fdae13c648b88dbd73b0b82ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00082
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1457
+        width: 196
+        height: 289
+      alignment: 9
+      pivot: {x: 0.50510204, y: 0.5467128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51aaf1db6f20dbb4d93381b263bdf6ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00083
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1769
+        width: 192
+        height: 278
+      alignment: 9
+      pivot: {x: 0.49479166, y: 0.54316545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26edc63b4fa14e44e96383277017fac2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00084
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 623
+        width: 192
+        height: 273
+      alignment: 9
+      pivot: {x: 0.49479166, y: 0.5457876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071ca7c63f9931148bf0dd0dff099d91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00085
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 653
+        width: 194
+        height: 272
+      alignment: 9
+      pivot: {x: 0.49484536, y: 0.5441176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3f917405056d04ab13956da908a2ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00086
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1503
+        width: 191
+        height: 271
+      alignment: 9
+      pivot: {x: 0.4921466, y: 0.5498155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be851b69e991d4e4194c334cfa9820aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00087
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 105
+        width: 192
+        height: 272
+      alignment: 9
+      pivot: {x: 0.49479166, y: 0.55514705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2493ae86ec76e448c04955b9387d6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00088
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 195
+        height: 280
+      alignment: 9
+      pivot: {x: 0.50256413, y: 0.5642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005562bec98a173469787b4ff10cb00f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00089
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 379
+        width: 194
+        height: 272
+      alignment: 9
+      pivot: {x: 0.49484536, y: 0.54044116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4aac97e4a099946b1209c58d2063bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00090
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 927
+        width: 192
+        height: 273
+      alignment: 9
+      pivot: {x: 0.49479166, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94024fac6abf5544a156dafd34ffb37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00091
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 27
+        width: 196
+        height: 277
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.53429604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec9db56f97d62347aa1f544c58ad565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landing_00092
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1176
+        width: 194
+        height: 279
+      alignment: 9
+      pivot: {x: 0.49484536, y: 0.53046596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd956a85eae891648ab9241ccd52b30b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e7c267a0874a7334ea16dc6e18fc4e51
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

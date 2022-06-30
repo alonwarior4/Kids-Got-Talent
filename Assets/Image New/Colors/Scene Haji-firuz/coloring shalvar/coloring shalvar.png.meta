@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: b3fa68d46a45a8b4baa5ba3c43e2fd36
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: coloring shalvar_00001
+    21300002: coloring shalvar_00002
+    21300004: coloring shalvar_00003
+    21300006: coloring shalvar_00004
+    21300008: coloring shalvar_00005
+    21300010: coloring shalvar_00006
+    21300012: coloring shalvar_00007
+    21300014: coloring shalvar_00008
+    21300016: coloring shalvar_00009
+    21300018: coloring shalvar_00010
+    21300020: coloring shalvar_00011
+    21300022: coloring shalvar_00012
+    21300024: coloring shalvar_00013
+    21300026: coloring shalvar_00014
+    21300028: coloring shalvar_00015
+    21300030: coloring shalvar_00016
+    21300032: coloring shalvar_00017
+    21300034: coloring shalvar_00018
+    21300036: coloring shalvar_00019
+    21300038: coloring shalvar_00020
+    21300040: coloring shalvar_00021
+    21300042: coloring shalvar_00022
+    21300044: coloring shalvar_00023
+    21300046: coloring shalvar_00024
+    21300048: coloring shalvar_00025
+    21300050: coloring shalvar_00026
+    21300052: coloring shalvar_00027
+    21300054: coloring shalvar_00028
+    21300056: coloring shalvar_00029
+    21300058: coloring shalvar_00030
+    21300060: coloring shalvar_00031
+    21300062: coloring shalvar_00032
+    21300064: coloring shalvar_00033
+    21300066: coloring shalvar_00034
+    21300068: coloring shalvar_00035
+    21300070: coloring shalvar_00036
+    21300072: coloring shalvar_00037
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coloring shalvar_00001
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1328
+        width: 329
+        height: 358
+      alignment: 9
+      pivot: {x: 0.5167173, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be297073745fce47b5128b4b71fed9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00002
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1689
+        width: 329
+        height: 358
+      alignment: 9
+      pivot: {x: 0.5167173, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce8a0933d8b3fe488b31db7839d2a07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 607
+        width: 329
+        height: 358
+      alignment: 9
+      pivot: {x: 0.5167173, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e3a61a5782ff548b79025c17af45b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1688
+        width: 329
+        height: 359
+      alignment: 9
+      pivot: {x: 0.5167173, y: 0.5013928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5169520e8fbc3044ba047e04fe02d78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1327
+        width: 328
+        height: 359
+      alignment: 9
+      pivot: {x: 0.51829267, y: 0.5013928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d0644bde7eecc489d5d67810495b57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 247
+        width: 329
+        height: 358
+      alignment: 9
+      pivot: {x: 0.5167173, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656c2f20136608645a1dc861f6e3e3b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00007
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 247
+        width: 325
+        height: 358
+      alignment: 9
+      pivot: {x: 0.52307695, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ad16ac498b5f34f919b9efc5fcbc2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00008
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 607
+        width: 329
+        height: 358
+      alignment: 9
+      pivot: {x: 0.5167173, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b254b16fc06d1545a23fea4cd5c6e9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 967
+        width: 331
+        height: 358
+      alignment: 9
+      pivot: {x: 0.51359516, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a0c9b215099724faeaf599cd295cdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00010
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 968
+        width: 326
+        height: 358
+      alignment: 9
+      pivot: {x: 0.5214724, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3524802880ae846b1813e43e5e79f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00011
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 247
+        width: 327
+        height: 358
+      alignment: 9
+      pivot: {x: 0.5198777, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111e81da2b3c12b40a39eac91634940a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00012
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1689
+        width: 324
+        height: 358
+      alignment: 9
+      pivot: {x: 0.52469134, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fc98871ca846547b618494281fc61f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00013
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 969
+        width: 324
+        height: 358
+      alignment: 9
+      pivot: {x: 0.52469134, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b6557e7a4d41047aef7e26fadd08e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00014
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 609
+        width: 324
+        height: 358
+      alignment: 9
+      pivot: {x: 0.52469134, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74504f620ba97f8418e495c98ee439ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00015
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1329
+        width: 325
+        height: 358
+      alignment: 9
+      pivot: {x: 0.52307695, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d04498b12be4d44b412f76cf91377b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00016
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 969
+        width: 318
+        height: 358
+      alignment: 9
+      pivot: {x: 0.5345912, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fb2e795c177214c9e919465bb82d62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00017
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 249
+        width: 318
+        height: 358
+      alignment: 9
+      pivot: {x: 0.5345912, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b6b38f62547d04e80b0bb842d0d961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00018
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 613
+        width: 322
+        height: 354
+      alignment: 9
+      pivot: {x: 0.54037267, y: 0.49435028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7992daae23cd9a94384a113df1e59290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00019
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 257
+        width: 321
+        height: 354
+      alignment: 9
+      pivot: {x: 0.5389408, y: 0.49435028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656ba457b63569943b0c12d350305518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00020
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1693
+        width: 316
+        height: 354
+      alignment: 9
+      pivot: {x: 0.5506329, y: 0.49435028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c221775f872d7479542f4017a027e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00021
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1693
+        width: 313
+        height: 354
+      alignment: 9
+      pivot: {x: 0.543131, y: 0.49435028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f11de7a3f04084ca9afe4f7d5f924a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00022
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1727
+        width: 311
+        height: 320
+      alignment: 9
+      pivot: {x: 0.54340833, y: 0.440625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ac1262c70e84c488176e1651ccee8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00023
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1405
+        width: 310
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5451613, y: 0.440625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784e4d51484dfc24bb3679615be4862c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00024
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1371
+        width: 273
+        height: 320
+      alignment: 9
+      pivot: {x: 0.63003665, y: 0.440625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42134874faaa454aa9e75d55a9f4303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00025
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1079
+        width: 276
+        height: 290
+      alignment: 9
+      pivot: {x: 0.634058, y: 0.38275862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f23f1106ce11ad46abe526db071d836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00026
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 1414
+        width: 280
+        height: 277
+      alignment: 9
+      pivot: {x: 0.61785716, y: 0.3501805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d08302b52b4b347a59342964ef4280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00027
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 856
+        width: 250
+        height: 277
+      alignment: 9
+      pivot: {x: 0.692, y: 0.3501805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f22d165a4dff9e40892ef95a965a527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00028
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1135
+        width: 254
+        height: 277
+      alignment: 9
+      pivot: {x: 0.68110234, y: 0.3501805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2527ad0c2ae3531489f65f9682f0b09f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00029
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 258
+        height: 238
+      alignment: 9
+      pivot: {x: 0.68604654, y: 0.24369748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb0589ce86dec14fb89d595953fc2a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00030
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 10
+        width: 212
+        height: 235
+      alignment: 9
+      pivot: {x: 0.8349057, y: 0.24680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1f313e816fa2a4c89f4ed7a042c036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00031
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 10
+        width: 212
+        height: 235
+      alignment: 9
+      pivot: {x: 0.8349057, y: 0.25106382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d20aff215ed39e4e8348e4af7bad81d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00032
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 62
+        width: 205
+        height: 183
+      alignment: 9
+      pivot: {x: 0.8195122, y: 0.038251366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074560e946dff6c46a5126de458e2d91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00033
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 59
+        width: 144
+        height: 186
+      alignment: 9
+      pivot: {x: 1.1666666, y: 0.06451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85103d9a0e0a33046816dcb0cbb59a32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00034
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 122
+        width: 132
+        height: 125
+      alignment: 9
+      pivot: {x: 1.1969697, y: -0.384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bb1121dead192468e424d57e5953e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00035
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 105
+        width: 105
+        height: 142
+      alignment: 9
+      pivot: {x: 1.6, y: -0.22535211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0409fa318ef484a94f3a99151cb6a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00036
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 39
+        width: 48
+        height: 64
+      alignment: 9
+      pivot: {x: 2.9166667, y: -1.65625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed543896527ff6e47aff930f5a638e9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring shalvar_00037
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 180, y: -179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2ba8736f0ba14428161e10faa74c31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 59c377d5566d2a046a11319fb48a5429
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

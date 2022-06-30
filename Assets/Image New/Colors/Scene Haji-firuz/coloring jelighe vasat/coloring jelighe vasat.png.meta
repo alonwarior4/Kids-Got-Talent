@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: c0be18149dc8027468189c57b4ec2b00
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: coloring jelighe vasat
+    21300002: coloring jelighe vasat_00001
+    21300004: coloring jelighe vasat_00002
+    21300006: coloring jelighe vasat_00003
+    21300008: coloring jelighe vasat_00004
+    21300010: coloring jelighe vasat_00005
+    21300012: coloring jelighe vasat_00006
+    21300014: coloring jelighe vasat_00007
+    21300016: coloring jelighe vasat_00008
+    21300018: coloring jelighe vasat_00009
+    21300020: coloring jelighe vasat_00010
+    21300022: coloring jelighe vasat_00011
+    21300024: coloring jelighe vasat_00012
+    21300026: coloring jelighe vasat_00013
+    21300028: coloring jelighe vasat_00014
+    21300030: coloring jelighe vasat_00015
+    21300032: coloring jelighe vasat_00016
+    21300034: coloring jelighe vasat_00017
+    21300036: coloring jelighe vasat_00018
+    21300038: coloring jelighe vasat_00019
+    21300040: coloring jelighe vasat_00020
+    21300042: coloring jelighe vasat_00021
+    21300044: coloring jelighe vasat_00022
+    21300046: coloring jelighe vasat_00023
+    21300048: coloring jelighe vasat_00024
+    21300050: coloring jelighe vasat_00025
+    21300052: coloring jelighe vasat_00026
+    21300054: coloring jelighe vasat_00027
+    21300056: coloring jelighe vasat_00028
+    21300058: coloring jelighe vasat_00029
+    21300060: coloring jelighe vasat_00030
+    21300062: coloring jelighe vasat_00031
+    21300064: coloring jelighe vasat_00032
+    21300066: coloring jelighe vasat_00033
+    21300068: coloring jelighe vasat_00034
+    21300070: coloring jelighe vasat_00035
+    21300072: coloring jelighe vasat_00036
+    21300074: coloring jelighe vasat_00037
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1546
+        width: 256
+        height: 501
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49301398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2450e89d8f8664bab18c3bf0deee48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00002
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1546
+        width: 256
+        height: 501
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49301398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3007b716db7ec2409d5cc4b454d17f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00003
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1546
+        width: 256
+        height: 501
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49301398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0bbdfbb70a91d42a64080589b18ff2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00004
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1546
+        width: 256
+        height: 501
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49301398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34c5961bd21a614ba543cda2c011e8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00005
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1546
+        width: 253
+        height: 501
+      alignment: 9
+      pivot: {x: 0.49407116, y: 0.49301398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbfb739e9aa0f845ac603d0a342c3ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00006
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1546
+        width: 242
+        height: 501
+      alignment: 9
+      pivot: {x: 0.47107437, y: 0.49301398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea293977d56e8a40addc19baaf2c661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00007
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1546
+        width: 238
+        height: 501
+      alignment: 9
+      pivot: {x: 0.46218488, y: 0.49301398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48e24cc90e9871449bdda4d880cc26b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00008
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 1555
+        width: 237
+        height: 492
+      alignment: 9
+      pivot: {x: 0.4599156, y: 0.5020325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2280388056954314aaf2dc90dc3fa1ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1050
+        width: 228
+        height: 494
+      alignment: 9
+      pivot: {x: 0.4385965, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1905ab76bf9bdea43a188cc687691d2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00010
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1084
+        width: 221
+        height: 460
+      alignment: 9
+      pivot: {x: 0.45701358, y: 0.53695655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8098976dd0a7a83428da781059f0aa49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00011
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1083
+        width: 211
+        height: 461
+      alignment: 9
+      pivot: {x: 0.43127963, y: 0.53579175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce873de705db7147b3720c8cb67676c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00012
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1106
+        width: 206
+        height: 438
+      alignment: 9
+      pivot: {x: 0.44174758, y: 0.56392694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc6e49fc2ef13d46aad6fb70e6026b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00013
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1124
+        width: 203
+        height: 420
+      alignment: 9
+      pivot: {x: 0.45320198, y: 0.58809525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e678fc33e3be7f84e8ef6cfbf913399b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00014
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1122
+        width: 199
+        height: 422
+      alignment: 9
+      pivot: {x: 0.42713568, y: 0.5853081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b57589379ee14e4ebf47241a3e1324d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00015
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1159
+        width: 189
+        height: 385
+      alignment: 9
+      pivot: {x: 0.43915343, y: 0.64155847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fc074460e9be54abfaf4d31f9cbcd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00016
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1161
+        width: 183
+        height: 383
+      alignment: 9
+      pivot: {x: 0.4262295, y: 0.6449086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150cac184b7361c49912b79492935f14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00017
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1189
+        width: 177
+        height: 355
+      alignment: 9
+      pivot: {x: 0.43502825, y: 0.70140845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfba85f7a778cd044afb91464b687ce3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00018
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1186
+        width: 171
+        height: 358
+      alignment: 9
+      pivot: {x: 0.41520467, y: 0.6955307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796138c392945d44da89e53de38dc0f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 731
+        width: 168
+        height: 317
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.78548896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b2690feb74831479120c1f8218507b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00020
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 725
+        width: 160
+        height: 323
+      alignment: 9
+      pivot: {x: 0.40625, y: 0.7708978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6379f9c529421e4f8532548ceab2591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00021
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 770
+        width: 158
+        height: 278
+      alignment: 9
+      pivot: {x: 0.4177215, y: 0.89568347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cebaab3eec25e34ea8feba03e7ba634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00022
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 770
+        width: 152
+        height: 278
+      alignment: 9
+      pivot: {x: 0.40131578, y: 0.89568347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9f72057ec0d7047a8ae97b607c51fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00023
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 798
+        width: 150
+        height: 250
+      alignment: 9
+      pivot: {x: 0.4, y: 0.996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe42e61e2118ad4484b7e271777f8c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00024
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 800
+        width: 146
+        height: 248
+      alignment: 9
+      pivot: {x: 0.39041096, y: 1.0040323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8624409614dff984dbd0d054fc4c9ccb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00025
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 828
+        width: 141
+        height: 220
+      alignment: 9
+      pivot: {x: 0.36879432, y: 1.1363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6bf9da454960b4184c24c7120e8e4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00026
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 854
+        width: 138
+        height: 194
+      alignment: 9
+      pivot: {x: 0.3768116, y: 1.2886598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff09f6a47ad975b4d95689a855a3d8af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00027
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 848
+        width: 137
+        height: 200
+      alignment: 9
+      pivot: {x: 0.35766423, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5740a60b3cd104da522764c155ac95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00028
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 873
+        width: 136
+        height: 175
+      alignment: 9
+      pivot: {x: 0.3529412, y: 1.4285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8459d38167aa4e641ab351ac8ee8f5a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00029
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 897
+        width: 131
+        height: 151
+      alignment: 9
+      pivot: {x: 0.35114503, y: 1.6490066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25583346206e69f41b94a1aefb868e1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00030
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 897
+        width: 128
+        height: 151
+      alignment: 9
+      pivot: {x: 0.3359375, y: 1.6490066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151acc79f20871747b76b1bd18b46138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00031
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 923
+        width: 133
+        height: 125
+      alignment: 9
+      pivot: {x: 0.33082706, y: 1.992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad767b983c3294e4a9ac46a0129c510d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00032
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 953
+        width: 133
+        height: 95
+      alignment: 9
+      pivot: {x: 0.36090225, y: 2.6210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48f4298efd674f4aba5fabb5068cdab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00033
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 626
+        width: 130
+        height: 97
+      alignment: 9
+      pivot: {x: 0.32307693, y: 2.5670104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635627f85e03fc94799d53f314b7efa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00034
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 659
+        width: 127
+        height: 64
+      alignment: 9
+      pivot: {x: 0.33070865, y: 3.890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b404c34d22520b443beb52d61dcfd4fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00035
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 686
+        width: 129
+        height: 37
+      alignment: 9
+      pivot: {x: 0.3488372, y: 6.675676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7486ae2f301ce42b75dbb1c7ce06ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00036
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 686
+        width: 88
+        height: 37
+      alignment: 9
+      pivot: {x: 0.045454547, y: 6.7027025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e3d7edf6e4b404c8f960014c15773a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring jelighe vasat_00037
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 722
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 128, y: -255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1c7f3f649ed494ca30a41ff124a895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 021520a2fc10f7049adc354f9ba7cfec
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

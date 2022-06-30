@@ -1,0 +1,631 @@
+fileFormatVersion: 2
+guid: 151e467f595629d45b264d4a8a989edb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: coloring pa rast_00001
+    21300002: coloring pa rast_00002
+    21300004: coloring pa rast_00003
+    21300006: coloring pa rast_00004
+    21300008: coloring pa rast_00005
+    21300010: coloring pa rast_00006
+    21300012: coloring pa rast_00007
+    21300014: coloring pa rast_00008
+    21300016: coloring pa rast_00009
+    21300018: coloring pa rast_00010
+    21300020: coloring pa rast_00011
+    21300022: coloring pa rast_00012
+    21300024: coloring pa rast_00013
+    21300026: coloring pa rast_00014
+    21300028: coloring pa rast_00015
+    21300030: coloring pa rast_00016
+    21300032: coloring pa rast_00017
+    21300034: coloring pa rast_00018
+    21300036: coloring pa rast_00019
+    21300038: coloring pa rast_00020
+    21300040: coloring pa rast_00021
+    21300042: coloring pa rast_00022
+    21300044: coloring pa rast_00023
+    21300046: coloring pa rast_00024
+    21300048: coloring pa rast_00025
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coloring pa rast_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 828
+        width: 248
+        height: 195
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.50769234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba22bf658d22a241806a199ae493555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00002
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 828
+        width: 248
+        height: 195
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.50769234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b77aa131ea5b61438bcaceb55473dac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00003
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 828
+        width: 248
+        height: 195
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.50769234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a74106cf70554c498f5eee7988bc144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00004
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 828
+        width: 248
+        height: 195
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.50769234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb2a991f0cea3e44b3707eb33a84457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 631
+        width: 247
+        height: 195
+      alignment: 9
+      pivot: {x: 0.48582995, y: 0.50769234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b51da599a3e4e844b8224b590334d70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00006
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 631
+        width: 245
+        height: 195
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.50769234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1f091f42dd56b438b6045f3c7c764a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00007
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 629
+        width: 236
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5084746, y: 0.51269037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1c747a8d0ae454daadec8a448c0192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00008
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 631
+        width: 227
+        height: 195
+      alignment: 9
+      pivot: {x: 0.52863437, y: 0.50769234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1c4511b3b548948b83307d38661511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 432
+        width: 213
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5633803, y: 0.50769234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690197adb494e4b4197c00f55f809289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00010
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 431
+        width: 226
+        height: 196
+      alignment: 9
+      pivot: {x: 0.53097343, y: 0.5102041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbaa8ff1a1dfc9f4eaa78aeb850c262e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00011
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 431
+        width: 210
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.5102041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4a190e8e1d1064dac62fa0dcf823a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00012
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 428
+        width: 198
+        height: 199
+      alignment: 9
+      pivot: {x: 0.63131315, y: 0.51758796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1637da0cc8ff1df419ad91a5e83b648f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 234
+        width: 198
+        height: 192
+      alignment: 9
+      pivot: {x: 0.63131315, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850ee934a7c2b8648936b9cbf695c1dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00014
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 230
+        width: 183
+        height: 196
+      alignment: 9
+      pivot: {x: 0.6830601, y: 0.5102041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8520ea0b69431db42a297598aff6b27a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00015
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 215
+        width: 183
+        height: 211
+      alignment: 9
+      pivot: {x: 0.6830601, y: 0.49763033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04076e0ac3f82744f9073c70e4102f22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00016
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 237
+        width: 158
+        height: 189
+      alignment: 9
+      pivot: {x: 0.75949365, y: 0.47619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f459e571382227141a107897b18681eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00017
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 240
+        width: 148
+        height: 186
+      alignment: 9
+      pivot: {x: 0.8108108, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef20b26e9e0d9cc49b482ce5a855e2e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00018
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 277
+        width: 114
+        height: 149
+      alignment: 9
+      pivot: {x: 1.0526316, y: 0.4295302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88176cd3fe64d7441818b72d345ee42d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 84
+        width: 135
+        height: 129
+      alignment: 9
+      pivot: {x: 0.94814813, y: 0.34108528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3f7eeb579bb7341ab6dbe253b05e60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00020
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 83
+        width: 94
+        height: 130
+      alignment: 9
+      pivot: {x: 1.3297873, y: 0.34615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9623d5c41bb6af34a8ceee044473a71a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00021
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 111
+        width: 69
+        height: 102
+      alignment: 9
+      pivot: {x: 1.7826087, y: 0.14705883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db4cf50f452a5e42ae0d2ac0765c14c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00022
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 153
+        width: 75
+        height: 60
+      alignment: 9
+      pivot: {x: 1.56, y: -0.43333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8e2a7da2fa0ef4b869ab0953ebc4a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00023
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 160
+        width: 32
+        height: 53
+      alignment: 9
+      pivot: {x: 3.8125, y: -0.35849056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c252d48da543a47928484f0f73cfa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00024
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 212
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 128, y: -127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33a4a676e608c64a8f917771263510e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coloring pa rast_00025
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 212
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 128, y: -127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829ceca4548050842907fa77a52d899e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 09b3eb0273ad2df468ab92aab93f238d
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

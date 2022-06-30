@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14be7127fd9be37498c1c959d281af15, type: 3}
+  m_Name: Coloring_Fruits
+  m_EditorClassIdentifier: 
+  StoryData:
+  - text: It's a Greengrocer . A place where people buy fruits and vegetables.
+    Audio: {fileID: 8300000, guid: da9d42b311598734aa7d2843ccbbbdd2, type: 3}
+    isFirst: 1
+    isLast: 0
+  - text: 'I want to color them but I don''t know any colors. Can you help me? '
+    Audio: {fileID: 8300000, guid: d3d5631546f304143b8a8e8ac7586c3c, type: 3}
+    isFirst: 1
+    isLast: 0
+  - text: Thank you. Now they make my mouth water!
+    Audio: {fileID: 8300000, guid: f3ea82b712528df4e8f6751c075a8264, type: 3}
+    isFirst: 0
+    isLast: 1
+  oliverTalk:
+  - text: yellow mango
+    Audio: {fileID: 8300000, guid: 3232afa54784e0b419832f4bef24fbdf, type: 3}
+  - text: ' orange carrot'
+    Audio: {fileID: 8300000, guid: f71dbcb23c2185e41ae4b400736d36f6, type: 3}
+  - text: yellow pear
+    Audio: {fileID: 8300000, guid: d3f239e5b3d6c314fb08d5b7fc28db40, type: 3}
+  - text: green watermelon
+    Audio: {fileID: 8300000, guid: e0b3b9d065fb6864abc4c5889e77a607, type: 3}
+  - text: yellow banana
+    Audio: {fileID: 8300000, guid: 1f8db24025325b84f8371ff70e49557c, type: 3}
+  - text: ' red apple'
+    Audio: {fileID: 8300000, guid: 525233b812835754a8331ff1a1185dd7, type: 3}
+  - text: ' orange orange'
+    Audio: {fileID: 8300000, guid: a4aec02da4b87664cba5b3908397ddc2, type: 3}
+  - text: dark red cherry
+    Audio: {fileID: 8300000, guid: ae88e9b13d04c234fa57830e770dbfee, type: 3}
+  - text: purple grapes
+    Audio: {fileID: 8300000, guid: fae138b4a1246bb41b00da87ce21636a, type: 3}

@@ -1,0 +1,757 @@
+fileFormatVersion: 2
+guid: 11e06972be2af5148a6e2bc9a85fcc12
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fly up_00264
+    21300002: fly up_00265
+    21300004: fly up_00266
+    21300006: fly up_00267
+    21300008: fly up_00268
+    21300010: fly up_00269
+    21300012: fly up_00270
+    21300014: fly up_00271
+    21300016: fly up_00272
+    21300018: fly up_00273
+    21300020: fly up_00274
+    21300022: fly up_00275
+    21300024: fly up_00276
+    21300026: fly up_00277
+    21300028: fly up_00278
+    21300030: fly up_00279
+    21300032: fly up_00280
+    21300034: fly up_00281
+    21300036: fly up_00282
+    21300038: fly up_00283
+    21300040: fly up_00284
+    21300042: fly up_00285
+    21300044: fly up_00286
+    21300046: fly up_00287
+    21300048: fly up_00288
+    21300050: fly up_00289
+    21300052: fly up_00290
+    21300054: fly up_00291
+    21300056: fly up_00292
+    21300058: fly up_00293
+    21300060: fly up_00294
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fly up_00264
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 592
+        width: 240
+        height: 271
+      alignment: 9
+      pivot: {x: 0.51666665, y: 0.59409595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f554aa94fd52af4c9e48f6728be0e9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00265
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1073
+        width: 244
+        height: 273
+      alignment: 9
+      pivot: {x: 0.51229507, y: 0.5934066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7085ddf7623013944b0ea618309f8af0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00266
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1570
+        width: 259
+        height: 269
+      alignment: 9
+      pivot: {x: 0.48262548, y: 0.5947955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2e8c8c825eb634490e3c8d2d99a116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00267
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1101
+        width: 245
+        height: 272
+      alignment: 9
+      pivot: {x: 0.4979592, y: 0.5882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2474dbd798d5554fbe856100dd6c333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00268
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1559
+        width: 249
+        height: 263
+      alignment: 9
+      pivot: {x: 0.4939759, y: 0.608365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd952e807056a045b6b6b6aa9e9f69b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00269
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1293
+        width: 244
+        height: 257
+      alignment: 9
+      pivot: {x: 0.4795082, y: 0.59143966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f87664cbb4f43419d0210d9756fb8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00270
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1039
+        width: 243
+        height: 252
+      alignment: 9
+      pivot: {x: 0.47736627, y: 0.5952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908e111ad6594ce469ccf73f5b898295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00271
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1584
+        width: 251
+        height: 242
+      alignment: 9
+      pivot: {x: 0.4621514, y: 0.60330576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78425f7763e47e7449d0e7c447748c2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00272
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 917
+        width: 243
+        height: 231
+      alignment: 9
+      pivot: {x: 0.4526749, y: 0.6147186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fceb96fe9b5cfe9499a6d55480669690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00273
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1824
+        width: 264
+        height: 223
+      alignment: 9
+      pivot: {x: 0.4090909, y: 0.6233184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757396c6e5227e742a6eaa757decf29d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00274
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1828
+        width: 264
+        height: 219
+      alignment: 9
+      pivot: {x: 0.4318182, y: 0.6210046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9d6848952e01d409541bbe7ac7b528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00275
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 677
+        width: 241
+        height: 212
+      alignment: 9
+      pivot: {x: 0.43568465, y: 0.6320755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ee7f3430f131e4598d90b951e51608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00276
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1348
+        width: 246
+        height: 209
+      alignment: 9
+      pivot: {x: 0.4390244, y: 0.64593303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c9373e8e229684f93ff4903bae8737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00277
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 609
+        width: 238
+        height: 210
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.64761907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754e558fe7a38e0459562e78b8f07b27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00278
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1361
+        width: 246
+        height: 207
+      alignment: 9
+      pivot: {x: 0.43495935, y: 0.647343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b14422db6ebb047a3f4a6b529165c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00279
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 865
+        width: 243
+        height: 206
+      alignment: 9
+      pivot: {x: 0.44032922, y: 0.65048546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21aad71a12f5de341bfaea5eb88fb1f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00280
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 487
+        width: 237
+        height: 211
+      alignment: 9
+      pivot: {x: 0.42194092, y: 0.65876776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0fea88ce3fed24a9e89881df4da842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00281
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1841
+        width: 263
+        height: 206
+      alignment: 9
+      pivot: {x: 0.42205322, y: 0.65048546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9ee399e2a820f4d8d2842b3d27c27b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00282
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 821
+        width: 242
+        height: 216
+      alignment: 9
+      pivot: {x: 0.45041323, y: 0.6203704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d9fa78f29382c46bff134888c36e93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00283
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1375
+        width: 247
+        height: 207
+      alignment: 9
+      pivot: {x: 0.43724698, y: 0.647343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283317708229894478b6dac3e1602b5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00284
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 700
+        width: 242
+        height: 215
+      alignment: 9
+      pivot: {x: 0.4338843, y: 0.65581393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de4d27dfd193754b823f16428b399a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00285
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 891
+        width: 243
+        height: 208
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.6442308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001181a5f799e7b42842e26c834edd63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00286
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1150
+        width: 244
+        height: 209
+      alignment: 9
+      pivot: {x: 0.44262296, y: 0.6411483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811824d269c5e234285afa0353a76c89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00287
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 475
+        width: 236
+        height: 200
+      alignment: 9
+      pivot: {x: 0.43644068, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02873b2156fc494ebd742d8f2148bb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00288
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1864
+        width: 210
+        height: 183
+      alignment: 9
+      pivot: {x: 0.44761905, y: 0.69945353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cec1938c37dc94bb3d67f762095315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00289
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1697
+        width: 170
+        height: 165
+      alignment: 9
+      pivot: {x: 0.40588236, y: 0.72727275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e7e95927a9ea0438d5103d5447ee7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00290
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1552
+        width: 142
+        height: 143
+      alignment: 9
+      pivot: {x: 0.3943662, y: 0.8881119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7119cd902211fe47b2e89bd5f2186c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00291
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 484
+        width: 116
+        height: 106
+      alignment: 9
+      pivot: {x: 0.36206895, y: 0.9716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edb2d6cbac3d9e42b873e6b0743c360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00292
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 491
+        width: 98
+        height: 99
+      alignment: 9
+      pivot: {x: 0.2857143, y: 1.1515151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b162ed5facfbd44b83132b7567414c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00293
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1620
+        width: 82
+        height: 75
+      alignment: 9
+      pivot: {x: 0.20731707, y: 1.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c730c06ca4ea1c443bbf16e3df8ead34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly up_00294
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 2046
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 170, y: -169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b52e91c554adb4492446672cbd6576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4a1f3e4b84124894aa804113475c29aa
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

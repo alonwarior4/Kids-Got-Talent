@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0541e0979f7273943ae0cd65bcb28c03, type: 3}
+  m_Name: ShaderResources
+  m_EditorClassIdentifier: 
+  shaders:
+  - {fileID: 4800000, guid: fedff5061c262834384bb34901d162ca, type: 3}
+  - {fileID: 4800000, guid: e46dd803167a8f5438d393e9e950bfac, type: 3}
+  - {fileID: 4800000, guid: 69bacb81c3c5e4e4384eb6c2ec02b3c5, type: 3}
+  - {fileID: 4800000, guid: 768380a55e3abd245ab885e97c12ec55, type: 3}
+  - {fileID: 4800000, guid: d3105336dde3f6f499ea6c2eb160a37c, type: 3}
+  - {fileID: 4800000, guid: 966fe97e317b7424e9978e04d4ff0a29, type: 3}
+  - {fileID: 4800000, guid: 8917830747ca0f242a15693586d6d58d, type: 3}
+  - {fileID: 4800000, guid: f4f51ff11b9719d49a0b87dccf72bc9c, type: 3}
+  - {fileID: 4800000, guid: ad4197bc04a45b842bf56312fde5916f, type: 3}
+  - {fileID: 4800000, guid: 213e6b149f2213445b4eab824dea3ea8, type: 3}
+  - {fileID: 4800000, guid: f833238d8097a17418b401cb406c8125, type: 3}
+  - {fileID: 4800000, guid: e18f669ef2c3c84479945ab63555f04d, type: 3}
+  - {fileID: 4800000, guid: 99c334db820d961418c5a840ef2d146b, type: 3}
+  - {fileID: 4800000, guid: 9373bf9a13eb3a5489cc0e8dd195b4a4, type: 3}
+  - {fileID: 4800000, guid: 954e860d88c39ca4e8db5db9c57169a1, type: 3}
+  - {fileID: 4800000, guid: df2da9273cc61cd4a8fcd0308bc7d4b1, type: 3}
+  - {fileID: 4800000, guid: e39bfb391a8e41940870811fd698148a, type: 3}
+  - {fileID: 4800000, guid: c1e361060bc7be84281cbd0d5d6c8a94, type: 3}
+  - {fileID: 4800000, guid: 95ff96501f9f0de4981080abf84381c1, type: 3}
+  - {fileID: 4800000, guid: 33cebfa00775a9246acaad93bc8b8f55, type: 3}
+  - {fileID: 4800000, guid: 0492617eafaa95645bdb7222e3949626, type: 3}
+  - {fileID: 4800000, guid: 03ff0c9702e62d24cb8a18193b8e028a, type: 3}
+  - {fileID: 4800000, guid: 4b163ceb7b27c364593378d66a6a49d9, type: 3}
+  - {fileID: 4800000, guid: c733b2032cc687a46a36d33d7f3692d9, type: 3}
+  additionalPaths: []
